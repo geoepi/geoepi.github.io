@@ -8,7 +8,7 @@ execute:
 website:
   page-navigation: true
   title: "GeoEpi"
-  site-url: https://github.com/geoepi
+  site-url: https://github.com/geoepi/geoepi.github.io
   open-graph: true
   favicon: images/geoepi_logo_xsm.png
   navbar:
@@ -24,7 +24,7 @@ website:
       - text: Connect
         menu:
           - icon: github
-            href: https://github.com/geoepi
+            href: https://github.com/geoepi/geoepi.github.io
             text: "GeoEpi on GitHub"
           - icon: octagon
             href: https://osf.io/zwbhm/
@@ -47,7 +47,7 @@ website:
   page-footer:
     border: false
     left: "Published with [Quarto](https://quarto.org/) v1.2.335"
-    right: "© 2023 [John Humphreys](/about) | [MIT License](/license)"
+    right: "© 2024 [John Humphreys](/about) | [MIT License](/license)"
         
 format:
   html:
@@ -55,7 +55,7 @@ format:
       light: flatly
       dark: darkly
     revealjs:
-      logo: images/logo-bg.png
+      logo: images/geoepi_logo_xsm.png
       css: scss/styles.css
     link-external-icon: true
     link-external-newwindow: true
