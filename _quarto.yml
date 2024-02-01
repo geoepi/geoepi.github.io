@@ -8,7 +8,7 @@ execute:
 website:
   page-navigation: true
   title: "GeoEpi"
-  site-url: https://github.com/geoepi/geoepi.github.io
+  site-url: https://geoepi.github.io
   open-graph: true
   favicon: images/geoepi_logo_xsm.png
   navbar:
@@ -24,7 +24,7 @@ website:
       - text: Connect
         menu:
           - icon: github
-            href: https://github.com/geoepi/geoepi.github.io
+            href: https://github.com/geoepi
             text: "GeoEpi on GitHub"
           - icon: octagon
             href: https://osf.io/zwbhm/
@@ -41,7 +41,7 @@ website:
       - icon: github
         menu:
           - text: Source Code
-            url:  https://github.com/geoepi
+            url:  https://github.com/geoepi/geoepi.github.io
   page-footer:
     border: false
     left: "Published with [Quarto](https://quarto.org/) v1.2.335"

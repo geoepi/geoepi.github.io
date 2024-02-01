@@ -1,7 +1,7 @@
 ---
 title: "Flavivirus Project"
 date: "2023-01-20"
-categories: [FMD, R, statistical inference]
+categories: [Flavivirus, WNV, R, Machine Learning]
 description: "Just a webpage test"
 format:
   html:

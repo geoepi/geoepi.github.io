@@ -6,20 +6,20 @@
       version="2.0">
 <channel>
 <title>GeoEpi</title>
-<link>https://github.com/geoepi/geoepi.github.io/pindex.html</link>
-<atom:link href="https://github.com/geoepi/geoepi.github.io/pindex.xml" rel="self" type="application/rss+xml"/>
+<link>https://geoepi.github.io/pindex.html</link>
+<atom:link href="https://geoepi.github.io/pindex.xml" rel="self" type="application/rss+xml"/>
 <description></description>
 <generator>quarto-1.3.450</generator>
 <lastBuildDate>Fri, 20 Jan 2023 06:00:00 GMT</lastBuildDate>
 <item>
   <title>Flavivirus Project</title>
-  <link>https://github.com/geoepi/geoepi.github.io/projects/flavi_wnv/index.html</link>
+  <link>https://geoepi.github.io/projects/flavi_wnv/index.html</link>
   <description><![CDATA[ 
 
 
 
 
-<p><img src="https://github.com/geoepi/geoepi.github.io/projects/flavi_wnv/wnv_1.jpg" class="img-fluid" alt="West Nile Virus (NIAID)"></p>
+<p><img src="https://geoepi.github.io/projects/flavi_wnv/wnv_1.jpg" class="img-fluid" alt="West Nile Virus (NIAID)"></p>
 <p>Hypothetical project code here:</p>
 <section id="some-random-chunk" class="level1">
 <h1>Some Random Chunk</h1>
@@ -46,16 +46,17 @@ font-style: inherit;">23</span></span></code></pre></div>
   author = {},
   title = {Flavivirus {Project}},
   date = {2023-01-20},
-  url = {https://github.com/geoepi/geoepi.github.io/projects/flavi_wnv},
+  url = {https://geoepi.github.io/projects/flavi_wnv},
   langid = {en}
 }
 </code></pre><div class="quarto-appendix-secondary-label">For attribution, please cite this work as:</div><div id="ref-2023" class="csl-entry quarto-appendix-citeas">
-<span>“Flavivirus Project.”</span> 2023. January 20, 2023. <a href="https://github.com/geoepi/geoepi.github.io/projects/flavi_wnv">https://github.com/geoepi/geoepi.github.io/projects/flavi_wnv</a>.
+<span>“Flavivirus Project.”</span> 2023. January 20, 2023. <a href="https://geoepi.github.io/projects/flavi_wnv">https://geoepi.github.io/projects/flavi_wnv</a>.
 </div></div></section></div> ]]></description>
-  <category>FMD</category>
+  <category>Flavivirus</category>
+  <category>WNV</category>
   <category>R</category>
-  <category>statistical inference</category>
-  <guid>https://github.com/geoepi/geoepi.github.io/projects/flavi_wnv/index.html</guid>
+  <category>Machine Learning</category>
+  <guid>https://geoepi.github.io/projects/flavi_wnv/index.html</guid>
   <pubDate>Fri, 20 Jan 2023 06:00:00 GMT</pubDate>
 </item>
 </channel>
