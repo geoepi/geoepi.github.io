@@ -28,10 +28,10 @@ website:
             text: "GeoEpi on GitHub"
           - icon: octagon
             href: https://osf.io/zwbhm/
-            text: "John M Humphreys"
+            text: "Open Science Framework"
           - icon: google
             href: https://scholar.google.com/citations?hl=en&user=rLUtjhgAAAAJ
-            text: "John M Humphreys"
+            text: "Scholar"
           - icon: lightbulb
             href: https://orcid.org/0000-0002-8464-0886
             text: "ORCID"

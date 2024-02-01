@@ -21,7 +21,7 @@ editor_options:
   chunk_output_type: console
 ---
 
-**GeoEpi** (Geographical Epidemiology) Lab conducts research at the intersection of animal disease transmission and outbreak dynamics. Using advanced statistical modeling, bioinformatics, and artificial intelligence, our work spans molecular to landscape scales, revealing crucial insights into disease ecology and management.
+**GeoEpi** (Geographical Epidemiology) Lab conducts research on animal disease transmission and outbreak dynamics. Using advanced statistical modeling, bioinformatics, and artificial intelligence, our work spans molecular to landscape scales, revealing crucial insights into disease ecology and management.
 
 # Random Code
 
