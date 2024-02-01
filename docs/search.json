@@ -1,0 +1,30 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Welcome to GeoEpi",
+    "section": "",
+    "text": "Welcome to GeoEpi\nUnder Construction"
+  },
+  {
+    "objectID": "projects/flavi_wnv/index.html",
+    "href": "projects/flavi_wnv/index.html",
+    "title": "Flavivirus Project",
+    "section": "",
+    "text": "Hypothetical project code here:\n\nSome Random Chunk\n\n\nCode\n56/23\n\n\n[1] 2.434783\n\n\n\n\n\n\nCitationBibTeX citation:@online{2023,\n  author = {},\n  title = {Flavivirus {Project}},\n  date = {2023-01-20},\n  url = {https://github.com/geoepi/geoepi.github.io/projects/flavi_wnv},\n  langid = {en}\n}\nFor attribution, please cite this work as:\n“Flavivirus Project.” 2023. January 20, 2023. https://github.com/geoepi/geoepi.github.io/projects/flavi_wnv."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About the GeoEpi Lab",
+    "section": "",
+    "text": "GeoEpi (Geographical Epidemiology) Lab conducts research at the intersection of animal disease transmission and outbreak dynamics. Using advanced statistical modeling, bioinformatics, and artificial intelligence, our work spans molecular to landscape scales, revealing crucial insights into disease ecology and management.\n\nRandom Code\n\n\nCode\n1 + 1\n\n\n[1] 2"
+  },
+  {
+    "objectID": "pindex.html",
+    "href": "pindex.html",
+    "title": "Research Projects",
+    "section": "",
+    "text": "Projects\n\nProject descriptions to be added here\n\n\n\n\n\n\n\n\n   \n     \n     \n       Order By\n       Default\n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n         \n          Updated - Oldest\n        \n         \n          Updated - Newest\n        \n     \n  \n\n\n\n\n\n\n\n\nFlavivirus Project\n\n\n1 min\n\n\nJust a webpage test\n\n\n\nJan 20, 2023\n\n\n\n\n\nFeb 1, 2024\n\n\n\n\n\n\n\nNo matching items"
+  }
+]

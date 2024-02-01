@@ -15,7 +15,6 @@ format:
     smooth-scroll: true
 comments: false
 title-block-banner: true
-
 editor_options: 
   chunk_output_type: console
 ---
@@ -23,6 +22,7 @@ editor_options:
 <div>
 
 # Welcome to GeoEpi
-Under Construction 
+
+Under Construction
 
 <div>
