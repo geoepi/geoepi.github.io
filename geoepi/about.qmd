@@ -1,0 +1,30 @@
+---
+title: "About the GeoEpi Lab"
+image: images/geoepi_logo_sm.png
+about:
+  template: marquee
+format:
+  html:
+    code-fold: show
+    code-summary: "Hide code"
+    code-overflow: wrap
+    toc-title: Page Contents
+    toc: true
+    toc-depth: 2
+    number-sections: false
+    html-math-method: katex
+    css: styles.css
+    theme: flatly
+    toc-location: left
+    smooth-scroll: true
+editor_options: 
+  chunk_output_type: console
+---
+
+**GeoEpi** (Geographical Epidemiology) Lab conducts research at the intersection of animal disease transmission and outbreak dynamics. Using advanced statistical modeling, bioinformatics, and artificial intelligence, our work spans molecular to landscape scales, revealing crucial insights into disease ecology and management.
+
+
+# Random Code
+```{r}
+1 + 1
+```

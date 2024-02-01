@@ -1,0 +1,28 @@
+---
+title: "Research Projects"
+#subtitle: "Past, current, and aspiring projects"
+listing:
+  contents: projects
+  fields: [image, date, title, reading-time, description, file-modified]
+  field-display-names:
+    file-modified: "Updated"
+  sort: "date desc"
+  type: grid
+  categories: numbered
+  sort-ui: [date, file-modified]
+  filter-ui: false
+  feed: 
+    categories: R
+    items: 10
+  page-size: 10
+page-layout: full
+title-block-banner: true
+comments: false
+date-format: medium
+author: ""
+date-modified: ""
+---
+
+# [Projects]{.third-color}
+
+### Project descriptions to be added here

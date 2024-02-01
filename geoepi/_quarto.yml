@@ -1,0 +1,67 @@
+project:
+  type: website
+  output-dir: docs
+
+execute:
+  freeze: auto
+
+website:
+  page-navigation: true
+  title: "GeoEpi"
+  site-url: https://github.com/geoepi
+  open-graph: true
+  favicon: images/geoepi_logo_xsm.png
+  navbar:
+    logo: images/geoepi_logo_sm.png
+    title: "GeoEpi"
+    right:
+      - href: index.qmd
+        text: Home
+      - href: pindex.qmd
+        text: Research
+      - href: about.qmd
+        text: About
+      - text: Connect
+        menu:
+          - icon: github
+            href: https://github.com/geoepi
+            text: "GeoEpi on GitHub"
+          - icon: octagon
+            href: https://osf.io/zwbhm/
+            text: "John M Humphreys"
+          - icon: google
+            href: https://scholar.google.com/citations?hl=en&user=rLUtjhgAAAAJ
+            text: "John M Humphreys"
+          - icon: lightbulb
+            href: https://orcid.org/0000-0002-8464-0886
+            text: "ORCID"
+          - icon: envelope
+            href: mailto:john.humphreys@usda.gov
+            text: "john.humphreys@usda.gov"
+      - icon: github
+        menu:
+          - text: Source Code
+            url:  https://github.com/JMHumphreys/jmhumphreys.github.io
+          - text: Report a Bug
+            url:  https://github.com/JMHumphreys/jmhumphreys.github.io/issues
+  page-footer:
+    border: false
+    left: "Published with [Quarto](https://quarto.org/) v1.2.335"
+    right: "© 2023 [John Humphreys](/about) | [MIT License](/license)"
+        
+format:
+  html:
+    theme:
+      light: flatly
+      dark: darkly
+    revealjs:
+      logo: images/logo-bg.png
+      css: scss/styles.css
+    link-external-icon: true
+    link-external-newwindow: true
+    smooth-scroll: true
+    highlight-style: gruvbox
+    df-print: kable
+
+editor: visual
+
