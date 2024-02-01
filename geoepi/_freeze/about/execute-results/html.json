@@ -1,0 +1,14 @@
+{
+  "hash": "968708117c68944bc0a2d2537ac7ff69",
+  "result": {
+    "markdown": "---\ntitle: \"About the GeoEpi Lab\"\nimage: images/geoepi_logo_sm.png\nabout:\n  template: marquee\nformat:\n  html:\n    code-fold: show\n    code-summary: \"Hide code\"\n    code-overflow: wrap\n    toc-title: Page Contents\n    toc: true\n    toc-depth: 2\n    number-sections: false\n    html-math-method: katex\n    css: styles.css\n    theme: flatly\n    toc-location: left\n    smooth-scroll: true\neditor_options: \n  chunk_output_type: console\n---\n\n\n**GeoEpi** (Geographical Epidemiology) Lab conducts research at the intersection of animal disease transmission and outbreak dynamics. Using advanced statistical modeling, bioinformatics, and artificial intelligence, our work spans molecular to landscape scales, revealing crucial insights into disease ecology and management.\n\n\n# Random Code\n\n::: {.cell}\n\n```{.r .cell-code}\n1 + 1\n```\n\n::: {.cell-output .cell-output-stdout}\n```\n[1] 2\n```\n:::\n:::",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

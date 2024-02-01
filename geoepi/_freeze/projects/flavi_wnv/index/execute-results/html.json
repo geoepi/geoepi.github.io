@@ -1,0 +1,14 @@
+{
+  "hash": "fd2f9126268aa187be4819c12977bbe8",
+  "result": {
+    "markdown": "---\ntitle: \"Flavivirus Project\"\ndate: \"2023-01-20\"\ncategories: [FMD, R, statistical inference]\ndescription: \"Just a webpage test\"\nformat:\n  html:\n    code-fold: show\n    code-summary: \"Hide code\"\n    code-overflow: wrap\n    toc-title: Page Contents\n    toc: true\n    toc-depth: 2\n    number-sections: false\n    html-math-method: katex\n    css: styles.css\n    theme: flatly\n    toc-location: left\n    smooth-scroll: true\neditor_options: \n  chunk_output_type: console\n---\n\n\n![](wnv_1.jpg){fig-alt=\"West Nile Virus (NIAID)\"}\n\nHypothetical project code here:\n\n# Some Random Chunk\n\n\n::: {.cell}\n\n```{.r .cell-code}\n56/23\n```\n\n::: {.cell-output .cell-output-stdout}\n```\n[1] 2.434783\n```\n:::\n:::",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}
