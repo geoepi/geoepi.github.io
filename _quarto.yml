@@ -21,8 +21,6 @@ website:
         text: Research
       - href: about.qmd
         text: About
-      - href: https://github.com/geoepi
-        text: GitHub
       - text: Connect
         menu:
           - icon: github
