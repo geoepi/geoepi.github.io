@@ -21,11 +21,13 @@ website:
         text: Research
       - href: about.qmd
         text: About
+      - href: https://github.com/geoepi
+        text: GitHub
       - text: Connect
         menu:
           - icon: github
             href: https://github.com/geoepi
-            text: "GeoEpi on GitHub"
+            text: "Lab GitHub Site"
           - icon: octagon
             href: https://osf.io/zwbhm/
             text: "Open Science Framework"
@@ -40,8 +42,10 @@ website:
             text: "john.humphreys@usda.gov"
       - icon: github
         menu:
-          - text: Source Code
+          - text: Site Source Code
             url:  https://github.com/geoepi/geoepi.github.io
+          - text: Report Site Issue
+            url:  https://github.com/geoepi/geoepi.github.io/issues
   page-footer:
     border: false
     left: "Published with [Quarto](https://quarto.org/) v1.2.335"

@@ -1,5 +1,5 @@
 ---
-image: images/geoepi_logo_sm.png
+image: images/globe.png
 about:
   template: trestles
 format:
