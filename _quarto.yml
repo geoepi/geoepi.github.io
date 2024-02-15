@@ -50,8 +50,8 @@ website:
 format:
   html:
     theme:
-      light: flatly
-      dark: darkly
+      light: scss/light.scss
+      dark:  scss/dark.scss
     revealjs:
       logo: images/geoepi_logo_xsm.png
       css: scss/styles.css

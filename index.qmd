@@ -9,8 +9,6 @@ format:
     code-overflow: wrap
     number-sections: false
     html-math-method: katex
-    css: styles.css
-    theme: flatly
     toc-location: left
     smooth-scroll: true
 comments: false
