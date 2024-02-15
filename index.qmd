@@ -1,5 +1,5 @@
 ---
-image: images/globe.png
+image: images/landing_globe.png
 about:
   template: trestles
 format:
@@ -18,9 +18,7 @@ editor_options:
 ---
 
 <div>
-  
-   
-        
+
 # GeoEpi Lab
 Geographical Epidemiology
 

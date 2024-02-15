@@ -19,6 +19,8 @@ website:
         text: Home
       - href: pindex.qmd
         text: Research
+      - href: https://geoepi.github.io/Notebook/
+        text: Notebook
       - href: about.qmd
         text: About
       - text: Connect
