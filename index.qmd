@@ -19,7 +19,7 @@ editor_options:
 
 <div>
 
-# GeoEpi Lab
+# GeoEpi Group
 Geographical Epidemiology
 
 <div>
