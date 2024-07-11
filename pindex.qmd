@@ -1,11 +1,12 @@
 ---
 title: "Research"
 #subtitle: "Past, current, and aspiring projects"
+link-external-newwindow: true
 listing:
   contents: 
     - "projects/*/index.qmd"
-    - image: /projects/vsv_epizootics/phylogeog.jpg
-      href: https://geoepi.github.io/vs-epizootics/overview
+    - aliases: https://geoepi.github.io/vs-epizootics/overview
+      image: /projects/vsv_epizootics/phylogeog.jpg
       title: "VSV Genomes & Geography"
       description: "VSV Outbreak phylogeography, phylodynamics, and spatiotemporal modeling."
       date: "2024-07-11"
