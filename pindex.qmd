@@ -5,12 +5,12 @@ link-external-newwindow: true
 listing:
   contents: 
     - "projects/*/index.qmd"
-    - aliases: https://geoepi.github.io/vs-epizootics/overview
-      image: /projects/vsv_epizootics/phylogeog.jpg
-      title: "VSV Genomes & Geography"
-      description: "VSV Outbreak phylogeography, phylodynamics, and spatiotemporal modeling."
-      date: "2024-07-11"
-      categories: [Vesicular stomatitis, VSV, R, Phylogeography, Phylodynamics, Preferential Sampling]
+   # - aliases: https://geoepi.github.io/vs-epizootics/overview
+    #  image: /projects/vsv_epizootics/phylogeog.jpg
+    #  title: "VSV Genomes & Geography"
+    #  description: "VSV Outbreak phylogeography, phylodynamics, and spatiotemporal modeling."
+   #   date: "2024-07-11"
+   #   categories: [Vesicular stomatitis, VSV, R, Phylogeography, Phylodynamics, Preferential Sampling]
   fields: [image, date, title, reading-time, description, file-modified]
   field-display-names:
     file-modified: "Updated"

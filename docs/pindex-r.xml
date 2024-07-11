@@ -10,7 +10,41 @@
 <atom:link href="https://geoepi.github.io/pindex-r.xml" rel="self" type="application/rss+xml"/>
 <description></description>
 <generator>quarto-1.2.335</generator>
-<lastBuildDate>Fri, 20 Jan 2023 06:00:00 GMT</lastBuildDate>
+<lastBuildDate>Thu, 11 Jul 2024 05:00:00 GMT</lastBuildDate>
+<item>
+  <title>VSV Genomes &amp; Geography</title>
+  <link>https://geoepi.github.io/projects/vsv_epizootics/index.html</link>
+  <description><![CDATA[ 
+
+
+
+
+<!-- Meta refresh tag for redirection -->
+<meta http-equiv="refresh" content="0;url=https://geoepi.github.io/vs-epizootics/overview">
+<p><img src="https://geoepi.github.io/projects/vsv_epizootics/phylogeog.jpg" class="img-fluid" alt="VSV Phylogeography"></p>
+
+
+
+<div id="quarto-appendix" class="default"><section class="quarto-appendix-contents"><h2 class="anchored quarto-appendix-heading">Citation</h2><div><div class="quarto-appendix-secondary-label">BibTeX citation:</div><pre class="sourceCode code-with-copy quarto-appendix-bibtex"><code class="sourceCode bibtex">@online{2024,
+  author = {},
+  title = {VSV {Genomes} \&amp; {Geography}},
+  date = {2024-07-11},
+  url = {https://geoepi.github.io/projects/vsv_epizootics},
+  langid = {en}
+}
+</code></pre><div class="quarto-appendix-secondary-label">For attribution, please cite this work as:</div><div id="ref-2024" class="csl-entry quarto-appendix-citeas">
+<span>“VSV Genomes &amp; Geography.”</span> 2024. July 11, 2024. <a href="https://geoepi.github.io/projects/vsv_epizootics">https://geoepi.github.io/projects/vsv_epizootics</a>.
+</div></div></section></div> ]]></description>
+  <category>Vesicular stomatitis</category>
+  <category>VSV</category>
+  <category>R</category>
+  <category>Phylogeography</category>
+  <category>Phylodynamics</category>
+  <category>Preferential Sampling</category>
+  <guid>https://geoepi.github.io/projects/vsv_epizootics/index.html</guid>
+  <pubDate>Thu, 11 Jul 2024 05:00:00 GMT</pubDate>
+  <media:content url="https://geoepi.github.io/projects/vsv_epizootics/phylogeog.jpg" medium="image" type="image/jpeg"/>
+</item>
 <item>
   <title>Flavivirus Project</title>
   <link>https://geoepi.github.io/projects/flavi_wnv/index.html</link>

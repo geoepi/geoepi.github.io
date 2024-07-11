@@ -1,0 +1,27 @@
+---
+title: "VSV Genomes & Geography"
+description: "VSV Outbreak phylogeography, phylodynamics, and spatiotemporal modeling."
+date: "2024-07-11"
+categories: [Vesicular stomatitis, VSV, R, Phylogeography, Phylodynamics, Preferential Sampling]
+format:
+  html:
+    code-fold: show
+    code-summary: "Hide code"
+    code-overflow: wrap
+    toc-title: Page Contents
+    toc: true
+    toc-depth: 2
+    number-sections: false
+    html-math-method: katex
+    css: styles.css
+    theme: flatly
+    toc-location: left
+    smooth-scroll: true
+editor_options: 
+  chunk_output_type: console
+---
+
+<!-- Meta refresh tag for redirection -->
+<meta http-equiv="refresh" content="0;url=https://geoepi.github.io/vs-epizootics/overview" />
+
+![](phylogeog.jpg){fig-alt="VSV Phylogeography"}
