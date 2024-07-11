@@ -23,8 +23,22 @@
   {
     "objectID": "pindex.html",
     "href": "pindex.html",
-    "title": "Research Projects",
+    "title": "Research",
     "section": "",
-    "text": "Projects\n\nProject descriptions to be added here\n\n\n\n\n\n\n\n\n   \n     \n     \n       Order By\n       Default\n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n         \n          Updated - Oldest\n        \n         \n          Updated - Newest\n        \n     \n  \n\n\n\n\n\n\n\n\n\n\nFlavivirus Project\n\n\n0 min\n\n\nJust a webpage test\n\n\n\nJan 20, 2023\n\n\n\n\n\nFeb 14, 2024\n\n\n\n\n\n\n\nNo matching items"
+    "text": "Group projects, vignettes, and other research items\n\n\n\n\n\n\n\n   \n     \n     \n       Order By\n       Default\n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n         \n          Updated - Oldest\n        \n         \n          Updated - Newest\n        \n     \n  \n\n\n\n\n\n\n\n\n\n\nVSV Genomes & Geography\n\n\nVSV Outbreak phylogeography, phylodynamics, and spatiotemporal modeling.\n\n\n\nJul 11, 2024\n\n\n\n\n\n \n\n\n\n\n\n\n\n\n\n\n\n\n\nFlavivirus Project\n\n\n0 min\n\n\nJust a webpage test\n\n\n\nJan 20, 2023\n\n\n\n\n\nFeb 16, 2024\n\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "projects/vsv_epizootics/index.html",
+    "href": "projects/vsv_epizootics/index.html",
+    "title": "VSV Genomes & Geography",
+    "section": "",
+    "text": "CitationBibTeX citation:@online{2024,\n  author = {},\n  title = {VSV {Genomes} \\& {Geography}},\n  date = {2024-07-11},\n  url = {https://geoepi.github.io/projects/vsv_epizootics},\n  langid = {en}\n}\nFor attribution, please cite this work as:\n“VSV Genomes & Geography.” 2024. July 11, 2024. https://geoepi.github.io/projects/vsv_epizootics."
+  },
+  {
+    "objectID": "projects/vsv_epizootics/xindex.html",
+    "href": "projects/vsv_epizootics/xindex.html",
+    "title": "VSV Genomes & Geography",
+    "section": "",
+    "text": "CitationBibTeX citation:@online{2024,\n  author = {},\n  title = {VSV {Genomes} \\& {Geography}},\n  date = {2024-07-11},\n  url = {https://geoepi.github.io/xindex.html},\n  langid = {en}\n}\nFor attribution, please cite this work as:\n“VSV Genomes & Geography.” 2024. July 11, 2024. https://geoepi.github.io/xindex.html."
   }
 ]

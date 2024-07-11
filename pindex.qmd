@@ -1,8 +1,15 @@
 ---
-title: "Research Projects"
+title: "Research"
 #subtitle: "Past, current, and aspiring projects"
 listing:
-  contents: projects
+  contents: 
+    - "projects/*/index.qmd"
+    - image: /projects/vsv_epizootics/phylogeog.jpg
+      href: https://geoepi.github.io/vs-epizootics/overview
+      title: "VSV Genomes & Geography"
+      description: "VSV Outbreak phylogeography, phylodynamics, and spatiotemporal modeling."
+      date: "2024-07-11"
+      categories: [Vesicular stomatitis, VSV, R, Phylogeography, Phylodynamics, Preferential Sampling]
   fields: [image, date, title, reading-time, description, file-modified]
   field-display-names:
     file-modified: "Updated"
@@ -23,4 +30,4 @@ author: ""
 date-modified: ""
 ---
 
-## [Group Projects]{.third-color}
+#### [Group projects]{.third-color}, vignettes, and other research items
