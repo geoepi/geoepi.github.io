@@ -10,7 +10,42 @@
 <atom:link href="https://geoepi.github.io/pindex.xml" rel="self" type="application/rss+xml"/>
 <description></description>
 <generator>quarto-1.2.335</generator>
-<lastBuildDate>Thu, 11 Jul 2024 05:00:00 GMT</lastBuildDate>
+<lastBuildDate>Sun, 18 Aug 2024 05:00:00 GMT</lastBuildDate>
+<item>
+  <title>VSV Compartmental Model SEIR-SEI</title>
+  <link>https://geoepi.github.io/projects/seir_vector/index.html</link>
+  <description><![CDATA[ 
+
+
+
+
+<!-- Meta refresh tag for redirection -->
+<meta http-equiv="refresh" content="0;url=https://geoepi.github.io/seir-vector/overview">
+<p><img src="https://geoepi.github.io/projects/seir_vector/seir.png" class="img-fluid" alt="VSV SEIR-SEI"></p>
+
+
+
+<div id="quarto-appendix" class="default"><section class="quarto-appendix-contents"><h2 class="anchored quarto-appendix-heading">Citation</h2><div><div class="quarto-appendix-secondary-label">BibTeX citation:</div><pre class="sourceCode code-with-copy quarto-appendix-bibtex"><code class="sourceCode bibtex">@online{2024,
+  author = {},
+  title = {VSV {Compartmental} {Model} {SEIR-SEI}},
+  date = {2024-08-18},
+  url = {https://geoepi.github.io/projects/seir_vector},
+  langid = {en}
+}
+</code></pre><div class="quarto-appendix-secondary-label">For attribution, please cite this work as:</div><div id="ref-2024" class="csl-entry quarto-appendix-citeas">
+<span>“VSV Compartmental Model SEIR-SEI.”</span> 2024. August 18, 2024.
+<a href="https://geoepi.github.io/projects/seir_vector">https://geoepi.github.io/projects/seir_vector</a>.
+</div></div></section></div> ]]></description>
+  <category>Vesicular stomatitis</category>
+  <category>VSV</category>
+  <category>Stan</category>
+  <category>R</category>
+  <category>Sampling Bias</category>
+  <category>Compartmental Model</category>
+  <guid>https://geoepi.github.io/projects/seir_vector/index.html</guid>
+  <pubDate>Sun, 18 Aug 2024 05:00:00 GMT</pubDate>
+  <media:content url="https://geoepi.github.io/projects/seir_vector/seir.png" medium="image" type="image/png" height="94" width="144"/>
+</item>
 <item>
   <title>VSV Genomes &amp; Geography</title>
   <link>https://geoepi.github.io/projects/vsv_epizootics/index.html</link>

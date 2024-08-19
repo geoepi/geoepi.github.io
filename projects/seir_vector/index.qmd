@@ -1,0 +1,27 @@
+---
+title: "VSV Compartmental Model SEIR-SEI"
+description: "An SEIR-SEI compartmental model model."
+date: "2024-08-18"
+categories: [Vesicular stomatitis, VSV, Stan, R, Sampling Bias, Compartmental Model]
+format:
+  html:
+    code-fold: show
+    code-summary: "Hide code"
+    code-overflow: wrap
+    toc-title: Page Contents
+    toc: true
+    toc-depth: 2
+    number-sections: false
+    html-math-method: katex
+    css: styles.css
+    theme: flatly
+    toc-location: left
+    smooth-scroll: true
+editor_options: 
+  chunk_output_type: console
+---
+
+<!-- Meta refresh tag for redirection -->
+<meta http-equiv="refresh" content="0;url=https://geoepi.github.io/seir-vector/overview" />
+
+![](seir.png){fig-alt="VSV SEIR-SEI"}

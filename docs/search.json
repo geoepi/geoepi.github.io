@@ -25,7 +25,7 @@
     "href": "pindex.html",
     "title": "Research",
     "section": "",
-    "text": "Group projects, vignettes, and other research items\n\n\n\n\n\n\n\n   \n     \n     \n       Order By\n       Default\n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n         \n          Updated - Oldest\n        \n         \n          Updated - Newest\n        \n     \n  \n\n\n\n\n\n\n\n\n\n\nVSV Genomes & Geography\n\n\n0 min\n\n\nVSV Outbreak phylogeography, phylodynamics, and spatiotemporal modeling.\n\n\n\nJul 11, 2024\n\n\n\n\n\nJul 11, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\nFlavivirus Project\n\n\n0 min\n\n\nJust a webpage test\n\n\n\nJan 20, 2023\n\n\n\n\n\nFeb 16, 2024\n\n\n\n\n\n\n\nNo matching items"
+    "text": "Group projects, vignettes, and other research items\n\n\n\n\n\n\n\n   \n     \n     \n       Order By\n       Default\n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n         \n          Updated - Oldest\n        \n         \n          Updated - Newest\n        \n     \n  \n\n\n\n\n\n\n\n\n\n\nVSV Compartmental Model SEIR-SEI\n\n\n0 min\n\n\nAn SEIR-SEI compartmental model model.\n\n\n\nAug 18, 2024\n\n\n\n\n\nAug 18, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\nVSV Genomes & Geography\n\n\n0 min\n\n\nVSV Outbreak phylogeography, phylodynamics, and spatiotemporal modeling.\n\n\n\nJul 11, 2024\n\n\n\n\n\nAug 18, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\nFlavivirus Project\n\n\n0 min\n\n\nJust a webpage test\n\n\n\nJan 20, 2023\n\n\n\n\n\nFeb 16, 2024\n\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "projects/vsv_epizootics/index.html",
@@ -40,5 +40,12 @@
     "title": "VSV Genomes & Geography",
     "section": "",
     "text": "CitationBibTeX citation:@online{2024,\n  author = {},\n  title = {VSV {Genomes} \\& {Geography}},\n  date = {2024-07-11},\n  url = {https://geoepi.github.io/xindex.html},\n  langid = {en}\n}\nFor attribution, please cite this work as:\n“VSV Genomes & Geography.” 2024. July 11, 2024. https://geoepi.github.io/xindex.html."
+  },
+  {
+    "objectID": "projects/seir_vector/index.html",
+    "href": "projects/seir_vector/index.html",
+    "title": "VSV Compartmental Model SEIR-SEI",
+    "section": "",
+    "text": "CitationBibTeX citation:@online{2024,\n  author = {},\n  title = {VSV {Compartmental} {Model} {SEIR-SEI}},\n  date = {2024-08-18},\n  url = {https://geoepi.github.io/projects/seir_vector},\n  langid = {en}\n}\nFor attribution, please cite this work as:\n“VSV Compartmental Model SEIR-SEI.” 2024. August 18, 2024.\nhttps://geoepi.github.io/projects/seir_vector."
   }
 ]

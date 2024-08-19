@@ -18,7 +18,7 @@
   </url>
   <url>
     <loc>https://geoepi.github.io/pindex.html</loc>
-    <lastmod>2024-07-11T17:56:29.537Z</lastmod>
+    <lastmod>2024-08-19T00:10:41.941Z</lastmod>
   </url>
   <url>
     <loc>https://geoepi.github.io/projects/flavi_wnv/index.html</loc>
@@ -26,7 +26,7 @@
   </url>
   <url>
     <loc>https://geoepi.github.io/index.html</loc>
-    <lastmod>2024-06-22T16:17:09.625Z</lastmod>
+    <lastmod>2024-08-19T00:10:37.260Z</lastmod>
   </url>
   <url>
     <loc>https://geoepi.github.io/about.html</loc>
@@ -34,10 +34,14 @@
   </url>
   <url>
     <loc>https://geoepi.github.io/projects/vsv_epizootics/index.html</loc>
-    <lastmod>2024-07-11T17:56:40.980Z</lastmod>
+    <lastmod>2024-08-19T00:08:58.612Z</lastmod>
   </url>
   <url>
     <loc>https://geoepi.github.io/projects/vsv_epizootics/xindex.html</loc>
     <lastmod>2024-07-11T16:26:02.830Z</lastmod>
+  </url>
+  <url>
+    <loc>https://geoepi.github.io/projects/seir_vector/index.html</loc>
+    <lastmod>2024-08-19T00:10:56.223Z</lastmod>
   </url>
 </urlset>
