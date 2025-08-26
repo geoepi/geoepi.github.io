@@ -2,6 +2,7 @@
   {
     "listing": "/pindex.html",
     "items": [
+      "/projects/fmd_preclinical_spread/index.html",
       "/projects/seir_vector/index.html",
       "/projects/vsv_epizootics/index.html",
       "/projects/flavi_wnv/index.html"
