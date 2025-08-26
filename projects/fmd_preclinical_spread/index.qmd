@@ -1,0 +1,28 @@
+---
+title: "FMD Preclinical Spread"
+description: "Demonstrative workflow of transmission analyses for FMDV spread model in InterSpread Plus."
+date: "2025-08-22"
+categories: [Foot-and-mouth disease virus, FMDV, R, InterSpread Plus, ISP]
+format:
+  html:
+    code-fold: show
+    code-summary: "Hide code"
+    code-overflow: wrap
+    toc-title: Page Contents
+    toc: true
+    toc-depth: 2
+    number-sections: false
+    html-math-method: katex
+    css: styles.css
+    theme: flatly
+    toc-location: left
+    smooth-scroll: true
+editor_options: 
+  chunk_output_type: console
+---
+
+<!-- Meta refresh tag for redirection -->
+
+<meta http-equiv="refresh" content="0;url=https://geoepi.github.io/FMD-preclinical-spread/" />
+
+![](outbreak_map.png){fig-alt="FMD Outbreak Map" fig-align="center" width="1200"}
