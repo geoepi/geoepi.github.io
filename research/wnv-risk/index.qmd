@@ -39,7 +39,7 @@ This GeoEpi project brings together models and analyses examining West Nile viru
 <article class="geoepi-subproject-card">
 ### WNV Graph Neural Network in the Southern United States
 
-Summary not provided.
+Geospatial predictions of equine West Nile Virus outbreaks: Leveraging recurrent graph neural networks in the Southern Climate Region of the United States.
 
 <a href="https://github.com/geoepi/SpatioTemporal-GNN-Regressor">Canonical repository <span aria-hidden="true">&#8599;</span></a>
 
@@ -47,7 +47,7 @@ Summary not provided.
 <article class="geoepi-subproject-card">
 ### GeoAI Flavivirus Sandbox
 
-Summary not provided.
+Sandbox repo for sharing code associated with the GeoAI and spatiotemporal epidemiology to forecast flavivirus transmission project.
 
 <a href="https://github.com/geoepi/GeoAI-Flavivirus">Canonical repository <span aria-hidden="true">&#8599;</span></a>
 

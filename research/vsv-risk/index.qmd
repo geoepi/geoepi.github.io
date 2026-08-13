@@ -39,7 +39,7 @@ This GeoEpi project brings together models and analyses focused on vesicular sto
 <article class="geoepi-subproject-card">
 ### Modeling the 2014-2015 Vesicular Stomatitis Outbreak in the United States using an SEIR-SEI Approach
 
-Summary not provided.
+SEIR-SEI model for VSV transmission, calibrated to 2014-15 outbreaks cycle.
 
 <a href="https://github.com/geoepi/seir-vector">Canonical repository <span aria-hidden="true">&#8599;</span></a>
 
@@ -47,7 +47,7 @@ Summary not provided.
 <article class="geoepi-subproject-card">
 ### Interrogating Genomes and Geography to Unravel Multiyear Vesicular Stomatitis Epizootics
 
-Summary not provided.
+Phylogeography, phylodynamics, and geostatistical analysis of 2014-15 outbreak cycle.
 
 <a href="https://github.com/geoepi/vs-epizootics">Canonical repository <span aria-hidden="true">&#8599;</span></a>
 
@@ -55,7 +55,7 @@ Summary not provided.
 <article class="geoepi-subproject-card">
 ### California Outbreak 2023
 
-Summary not provided.
+Phylogeography and prevalence of VSNJ during 2023 outbreak in California.
 
 <a href="https://github.com/geoepi/vsv-2023">Canonical repository <span aria-hidden="true">&#8599;</span></a>
 

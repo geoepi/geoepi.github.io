@@ -37,7 +37,7 @@ This GeoEpi project brings together studies incorporating foot-and-mouth disease
 <article class="geoepi-subproject-card">
 ### challengeABM an Agent-Based Disease Transmission Model
 
-Summary not provided.
+Agent Based Model (ABM) simulating within-host virus dynamics, room-to-room animal experiments, within-herd host transmission, and between-farm spread.
 
 <a href="https://github.com/geoepi/challengeABM">Canonical repository <span aria-hidden="true">&#8599;</span></a>
 
@@ -45,7 +45,7 @@ Summary not provided.
 <article class="geoepi-subproject-card">
 ### Incubation Phase Transmission of Foot-and-mouth Disease
 
-Summary not provided.
+Incubation phase transmission of foot-and-mouth disease virus in cattle: experimental evidence and simulated impacts.
 
 <a href="https://github.com/geoepi/fmdv-preclinical">Canonical repository <span aria-hidden="true">&#8599;</span></a>
 
@@ -53,7 +53,7 @@ Summary not provided.
 <article class="geoepi-subproject-card">
 ### FMDV Co-Infection and Recombination
 
-Summary not provided.
+Foot-and-mouth disease virus variability and recombination on dairy farms in Pakistan.
 
 <a href="https://github.com/geoepi/pak-coinfection">Canonical repository <span aria-hidden="true">&#8599;</span></a>
 
@@ -61,7 +61,7 @@ Summary not provided.
 <article class="geoepi-subproject-card">
 ### Mapping Virus Diversity and Variation
 
-Summary not provided.
+Sequence-map converts aligned viral sequences and sampling geographic coordinates into PCA, DAPC, and other location-level summaries and optional spatial predictions of ordination-axis scores across geographic space.
 
 <a href="https://github.com/geoepi/sequence-map">Canonical repository <span aria-hidden="true">&#8599;</span></a>
 

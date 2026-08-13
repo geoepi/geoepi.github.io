@@ -39,7 +39,7 @@ This GeoEpi project brings together movement and genomic studies of African Swin
 <article class="geoepi-subproject-card">
 ### Swine Movement and Social Cohesion
 
-Summary not provided.
+Analysis and modeling of feral swine behavior, particularly the roles of relatedness and sex in pairwise cohesion and dyad formation.
 
 <a href="https://github.com/geoepi/swine-contacts">Canonical repository <span aria-hidden="true">&#8599;</span></a>
 
@@ -47,7 +47,7 @@ Summary not provided.
 <article class="geoepi-subproject-card">
 ### Simulation of feral swine pedigrees based on admixture analysis
 
-Summary not provided.
+Simulations in support of work led by Tim Smyser, APHIS NWRC.
 
 <a href="https://github.com/geoepi/FeralSwine_Ben">Canonical repository <span aria-hidden="true">&#8599;</span></a>
 

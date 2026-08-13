@@ -39,7 +39,7 @@ This GeoEpi project brings together work on foot-and-mouth disease spread dynami
 <article class="geoepi-subproject-card">
 ### Epidemiologic consequences of preclinical transmission of foot-and-mouth disease virus in cattle
 
-Summary not provided.
+Interspread Plus simulations calibrated to PIADC experimental studies by Jonathan Arzt.
 
 <a href="https://github.com/geoepi/FMD-preclinical-spread">Canonical repository <span aria-hidden="true">&#8599;</span></a>
 
@@ -47,7 +47,7 @@ Summary not provided.
 <article class="geoepi-subproject-card">
 ### Designing Control Zones for Foot-and-mouth Disease in Sri Lanka
 
-Summary not provided.
+Supporting analysis and dimension reduction for a FMD Survey in Sri Lanka using Factor Analysis for Mixed Data (FAMD).
 
 <a href="https://github.com/geoepi/sri-lanka-fmd">Canonical repository <span aria-hidden="true">&#8599;</span></a>
 
@@ -55,7 +55,7 @@ Summary not provided.
 <article class="geoepi-subproject-card">
 ### Endemic FMD analyses for Vietnam
 
-Summary not provided.
+Understanding foot-and-mouth disease case distribution, virus diversity, and outbreak risk across Vietnam.
 
 <a href="https://github.com/geoepi/fmd-vietnam">Canonical repository <span aria-hidden="true">&#8599;</span></a>
 

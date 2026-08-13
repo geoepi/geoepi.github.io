@@ -38,7 +38,7 @@ This GeoEpi project brings together retrospective analysis of atmospheric HPAI t
 <article class="geoepi-subproject-card">
 ### Extraction and visualization Tools for Biosecurity Compliance Audit Program
 
-Summary not provided.
+bcapture provides tools for extracting, organizing, validating, summarizing, and viewing data from Biosecurity Compliance Audit Program (bCAP) forms.
 
 <a href="https://github.com/geoepi/bcapture">Canonical repository <span aria-hidden="true">&#8599;</span></a>
 
@@ -46,7 +46,7 @@ Summary not provided.
 <article class="geoepi-subproject-card">
 ### Atmospheric Dispersion of HPAI
 
-Summary not provided.
+Retrospective analysis of atmospheric HPAI transport between poultry facilities.
 
 <a href="https://github.com/geoepi/EpiPlume">Canonical repository <span aria-hidden="true">&#8599;</span></a>
 
@@ -54,7 +54,7 @@ Summary not provided.
 <article class="geoepi-subproject-card">
 ### HPAI visualization and analyses
 
-Summary not provided.
+Geographic analyses and visualizations for HPAI Plume Modeling Project.
 
 <a href="https://github.com/geoepi/hpai-lauren">Canonical repository <span aria-hidden="true">&#8599;</span></a>
 
