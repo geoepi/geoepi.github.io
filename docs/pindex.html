@@ -67,12 +67,12 @@ ul.task-list li input[type="checkbox"] {
     const listingTargetEl = window.document.querySelector('#listing-listing .list');
     if (!listingTargetEl) {
       // No listing discovered, do not attach.
-      return;
+      return; 
     }
 
     const options = {
       valueNames: ['listing-image','listing-title','listing-description','listing-categories',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
-
+      
       searchColumns: ["listing-title","listing-author","listing-date","listing-image","listing-description","listing-categories"],
     };
 
@@ -121,46 +121,46 @@ ul.task-list li input[type="checkbox"] {
   <li class="nav-item">
     <a class="nav-link" href="./index.html">
  <span class="menu-text">Home</span></a>
-  </li>
+  </li>  
   <li class="nav-item">
     <a class="nav-link active" href="./pindex.html" aria-current="page">
  <span class="menu-text">Research</span></a>
-  </li>
+  </li>  
   <li class="nav-item">
     <a class="nav-link" href="./about.html">
  <span class="menu-text">About</span></a>
-  </li>
+  </li>  
   <li class="nav-item">
-    <a class="nav-link" href="https://geoepi.github.io/geoepi-hub/">
+    <a class="nav-link" href="https://github.com/geoepi/geoepi-hub">
  <span class="menu-text">GeoEpi Hub</span></a>
-  </li>
+  </li>  
   <li class="nav-item">
     <a class="nav-link" href="https://geoepi.github.io/geoepi-notebook/">
  <span class="menu-text">GeoEpi Lab Book</span></a>
-  </li>
+  </li>  
   <li class="nav-item dropdown ">
     <a class="nav-link dropdown-toggle" href="#" id="nav-menu-connect" role="button" data-bs-toggle="dropdown" aria-expanded="false">
  <span class="menu-text">Connect</span>
     </a>
-    <ul class="dropdown-menu dropdown-menu-end" aria-labelledby="nav-menu-connect">
+    <ul class="dropdown-menu dropdown-menu-end" aria-labelledby="nav-menu-connect">    
         <li>
     <a class="dropdown-item" href="https://github.com/geoepi"><i class="bi bi-github" role="img">
-</i>
+</i> 
  <span class="dropdown-text">GeoEpi GitHub organization</span></a>
-  </li>
+  </li>  
         <li>
     <a class="dropdown-item" href="https://osf.io/hf8t2/"><i class="bi bi-octagon" role="img">
-</i>
+</i> 
  <span class="dropdown-text">Open Science Framework</span></a>
-  </li>
+  </li>  
         <li>
     <a class="dropdown-item" href="https://github.com/geoepi/geoepi.github.io">
  <span class="dropdown-text">Site Source Code</span></a>
-  </li>
+  </li>  
         <li>
     <a class="dropdown-item" href="https://github.com/geoepi/geoepi.github.io/issues">
  <span class="dropdown-text">Report Site Issue</span></a>
-  </li>
+  </li>  
     </ul>
   </li>
 </ul>
@@ -174,7 +174,7 @@ ul.task-list li input[type="checkbox"] {
 <!-- sidebar -->
 <!-- margin-sidebar -->
     <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
-
+        
     <h5 class="quarto-listing-category-title">Categories</h5><div class="quarto-listing-category category-default"><div class="category" data-category="">All <span class="quarto-category-count">(4)</span></div><div class="category" data-category="Compartmental Model">Compartmental Model <span class="quarto-category-count">(1)</span></div><div class="category" data-category="FMDV">FMDV <span class="quarto-category-count">(1)</span></div><div class="category" data-category="Flavivirus">Flavivirus <span class="quarto-category-count">(1)</span></div><div class="category" data-category="Foot-and-mouth disease virus">Foot-and-mouth disease virus <span class="quarto-category-count">(1)</span></div><div class="category" data-category="ISP">ISP <span class="quarto-category-count">(1)</span></div><div class="category" data-category="InterSpread Plus">InterSpread Plus <span class="quarto-category-count">(1)</span></div><div class="category" data-category="Machine Learning">Machine Learning <span class="quarto-category-count">(1)</span></div><div class="category" data-category="Phylodynamics">Phylodynamics <span class="quarto-category-count">(1)</span></div><div class="category" data-category="Phylogeography">Phylogeography <span class="quarto-category-count">(1)</span></div><div class="category" data-category="Preferential Sampling">Preferential Sampling <span class="quarto-category-count">(1)</span></div><div class="category" data-category="R">R <span class="quarto-category-count">(4)</span></div><div class="category" data-category="Sampling Bias">Sampling Bias <span class="quarto-category-count">(1)</span></div><div class="category" data-category="Stan">Stan <span class="quarto-category-count">(1)</span></div><div class="category" data-category="VSV">VSV <span class="quarto-category-count">(2)</span></div><div class="category" data-category="Vesicular stomatitis">Vesicular stomatitis <span class="quarto-category-count">(2)</span></div><div class="category" data-category="WNV">WNV <span class="quarto-category-count">(1)</span></div></div></div>
 <!-- main -->
 <main class="content column-page-left" id="quarto-document-content">
@@ -189,11 +189,11 @@ ul.task-list li input[type="checkbox"] {
 
 <div class="quarto-title-meta">
 
-
-
-
+    
+  
+    
   </div>
-
+  
 
 </header>
 
@@ -373,7 +373,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       toggleBodyColorMode(bsSheetEl);
     }
   }
-  toggleBodyColorPrimary();
+  toggleBodyColorPrimary();  
   const icon = "";
   const anchorJS = new window.AnchorJS();
   anchorJS.options = {
@@ -400,11 +400,11 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       button.setAttribute("data-bs-toggle", "tooltip");
       button.setAttribute("data-bs-placement", "left");
       button.setAttribute("data-bs-title", "Copied!");
-      tooltip = new bootstrap.Tooltip(button,
-        { trigger: "manual",
+      tooltip = new bootstrap.Tooltip(button, 
+        { trigger: "manual", 
           customClass: "code-copy-button-tooltip",
           offset: [0, -8]});
-      tooltip.show();
+      tooltip.show();    
     }
     setTimeout(function() {
       if (tooltip) {
@@ -434,7 +434,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       theme: 'quarto',
       placement: 'bottom-start'
     };
-    window.tippy(el, config);
+    window.tippy(el, config); 
   }
   const noterefs = window.document.querySelectorAll('a[role="doc-noteref"]');
   for (var i=0; i<noterefs.length; i++) {
@@ -504,8 +504,8 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
 </div> <!-- /content -->
 <footer class="footer">
   <div class="nav-footer">
-    <div class="nav-footer-left">GeoEpi Research Group</div>
-    <div class="nav-footer-right"><a href="https://github.com/geoepi">GitHub</a> · <a href="https://geoepi.github.io/geoepi-hub/">Hub</a> · <a href="https://geoepi.github.io/geoepi-notebook/">Lab Book</a> · <a href="https://github.com/geoepi/geoepi.github.io">Site source</a></div>
+    <div class="nav-footer-left">GeoEpi Research Group</div>   
+    <div class="nav-footer-right"><a href="https://github.com/geoepi">GitHub</a> · <a href="https://github.com/geoepi/geoepi-hub">Hub</a> · <a href="https://geoepi.github.io/geoepi-notebook/">Lab Book</a> · <a href="https://github.com/geoepi/geoepi.github.io">Site source</a></div>
   </div>
 </footer>
 

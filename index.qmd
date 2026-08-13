@@ -68,7 +68,7 @@ comments: false
 </div>
 <div class="geoepi-navigation-card">
 <span class="geoepi-card-kicker">CURRENT ACTIVITY</span>
-<h3><a class="geoepi-card-link" href="https://geoepi.github.io/geoepi-hub/">GeoEpi Hub <span aria-hidden="true">&#8599;</span></a></h3>
+<h3><a class="geoepi-card-link" href="https://github.com/geoepi/geoepi-hub">GeoEpi Hub <span aria-hidden="true">&#8599;</span></a></h3>
 <p>Current projects, analytical subprojects, milestones, and portfolio state.</p>
 </div>
 <div class="geoepi-navigation-card">

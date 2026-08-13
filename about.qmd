@@ -23,7 +23,7 @@ GeoEpi combines spatial epidemiology with statistical and mathematical modeling,
 The group’s public information is organized across three complementary spaces:
 
 - [Research](pindex.qmd) presents selected public scientific projects and outputs.
-- [GeoEpi Hub](https://geoepi.github.io/geoepi-hub/) describes current project activity and portfolio state.
+- [GeoEpi Hub](https://github.com/geoepi/geoepi-hub) describes current project activity and portfolio state.
 - [GeoEpi Lab Book](https://geoepi.github.io/geoepi-notebook/) documents working practices for reproducible analysis.
 
 ## Find GeoEpi elsewhere

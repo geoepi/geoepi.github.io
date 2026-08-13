@@ -26,7 +26,7 @@ website:
         text: Research
       - href: about.qmd
         text: About
-      - href: https://geoepi.github.io/geoepi-hub/
+      - href: https://github.com/geoepi/geoepi-hub
         text: GeoEpi Hub
       - href: https://geoepi.github.io/geoepi-notebook/
         text: GeoEpi Lab Book
@@ -45,7 +45,7 @@ website:
   page-footer:
     border: false
     left: "GeoEpi Research Group"
-    right: "[GitHub](https://github.com/geoepi) · [Hub](https://geoepi.github.io/geoepi-hub/) · [Lab Book](https://geoepi.github.io/geoepi-notebook/) · [Site source](https://github.com/geoepi/geoepi.github.io)"
+    right: "[GitHub](https://github.com/geoepi) · [Hub](https://github.com/geoepi/geoepi-hub) · [Lab Book](https://geoepi.github.io/geoepi-notebook/) · [Site source](https://github.com/geoepi/geoepi.github.io)"
 
 format:
   html:
