@@ -6,6 +6,7 @@ project:
     - pindex.qmd
     - publications.qmd
     - about.qmd
+    - repository-access.qmd
     - "research/*/index.qmd"
     - "projects/*/index.qmd"
 

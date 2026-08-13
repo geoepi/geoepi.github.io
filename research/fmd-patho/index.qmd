@@ -35,35 +35,35 @@ This GeoEpi project brings together studies incorporating foot-and-mouth disease
 
 <div class="geoepi-subproject-grid">
 <article class="geoepi-subproject-card">
-### challengeABM an Agent-Based Disease Transmission Model
+<h3>challengeABM an Agent-Based Disease Transmission Model</h3>
 
 Agent Based Model (ABM) simulating within-host virus dynamics, room-to-room animal experiments, within-herd host transmission, and between-farm spread.
 
-<a href="https://github.com/geoepi/challengeABM">Canonical repository <span aria-hidden="true">&#8599;</span></a>
+<p class="geoepi-repository"><a href="https://github.com/geoepi/challengeABM">Canonical repository: geoepi/challengeABM <span aria-hidden="true">&#8599;</span></a></p>
 
 </article>
 <article class="geoepi-subproject-card">
-### Incubation Phase Transmission of Foot-and-mouth Disease
+<h3>Incubation Phase Transmission of Foot-and-mouth Disease</h3>
 
 Incubation phase transmission of foot-and-mouth disease virus in cattle: experimental evidence and simulated impacts.
 
-<a href="https://github.com/geoepi/fmdv-preclinical">Canonical repository <span aria-hidden="true">&#8599;</span></a>
+<p class="geoepi-repository"><a href="https://github.com/geoepi/fmdv-preclinical">Canonical repository: geoepi/fmdv-preclinical <span aria-hidden="true">&#8599;</span></a></p>
 
 </article>
 <article class="geoepi-subproject-card">
-### FMDV Co-Infection and Recombination
+<h3>FMDV Co-Infection and Recombination</h3>
 
 Foot-and-mouth disease virus variability and recombination on dairy farms in Pakistan.
 
-<a href="https://github.com/geoepi/pak-coinfection">Canonical repository <span aria-hidden="true">&#8599;</span></a>
+<p class="geoepi-repository"><a href="https://github.com/geoepi/pak-coinfection">Canonical repository: geoepi/pak-coinfection <span aria-hidden="true">&#8599;</span></a></p>
 
 </article>
 <article class="geoepi-subproject-card">
-### Mapping Virus Diversity and Variation
+<h3>Mapping Virus Diversity and Variation</h3>
 
 Sequence-map converts aligned viral sequences and sampling geographic coordinates into PCA, DAPC, and other location-level summaries and optional spatial predictions of ordination-axis scores across geographic space.
 
-<a href="https://github.com/geoepi/sequence-map">Canonical repository <span aria-hidden="true">&#8599;</span></a>
+<p class="geoepi-repository"><span class="geoepi-repository-name">geoepi/sequence-map</span><span class="geoepi-repository-status">Access currently restricted</span><a class="geoepi-repository-info" href="../../repository-access.html">About repository access <span aria-hidden="true">&#8599;</span></a></p>
 
 </article>
 </div>

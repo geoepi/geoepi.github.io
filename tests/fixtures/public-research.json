@@ -21,6 +21,7 @@
           "summary": "Second associated analysis.",
           "repository": "geoepi/alpha-two",
           "repository_url": "https://github.com/geoepi/alpha-two",
+          "repository_visibility": "private",
           "status": "paused"
         },
         {
@@ -29,6 +30,7 @@
           "summary": "First associated analysis.",
           "repository": "geoepi/alpha-one",
           "repository_url": "https://github.com/geoepi/alpha-one",
+          "repository_visibility": "public",
           "status": "active"
         }
       ]

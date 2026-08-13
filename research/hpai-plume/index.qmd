@@ -36,27 +36,27 @@ This GeoEpi project brings together retrospective analysis of atmospheric HPAI t
 
 <div class="geoepi-subproject-grid">
 <article class="geoepi-subproject-card">
-### Extraction and visualization Tools for Biosecurity Compliance Audit Program
+<h3>Extraction and visualization Tools for Biosecurity Compliance Audit Program</h3>
 
 bcapture provides tools for extracting, organizing, validating, summarizing, and viewing data from Biosecurity Compliance Audit Program (bCAP) forms.
 
-<a href="https://github.com/geoepi/bcapture">Canonical repository <span aria-hidden="true">&#8599;</span></a>
+<p class="geoepi-repository"><span class="geoepi-repository-name">geoepi/bcapture</span><span class="geoepi-repository-status">Access currently restricted</span><a class="geoepi-repository-info" href="../../repository-access.html">About repository access <span aria-hidden="true">&#8599;</span></a></p>
 
 </article>
 <article class="geoepi-subproject-card">
-### Atmospheric Dispersion of HPAI
+<h3>Atmospheric Dispersion of HPAI</h3>
 
 Retrospective analysis of atmospheric HPAI transport between poultry facilities.
 
-<a href="https://github.com/geoepi/EpiPlume">Canonical repository <span aria-hidden="true">&#8599;</span></a>
+<p class="geoepi-repository"><a href="https://github.com/geoepi/EpiPlume">Canonical repository: geoepi/EpiPlume <span aria-hidden="true">&#8599;</span></a></p>
 
 </article>
 <article class="geoepi-subproject-card">
-### HPAI visualization and analyses
+<h3>HPAI visualization and analyses</h3>
 
 Geographic analyses and visualizations for HPAI Plume Modeling Project.
 
-<a href="https://github.com/geoepi/hpai-lauren">Canonical repository <span aria-hidden="true">&#8599;</span></a>
+<p class="geoepi-repository"><span class="geoepi-repository-name">geoepi/hpai-lauren</span><span class="geoepi-repository-status">Access currently restricted</span><a class="geoepi-repository-info" href="../../repository-access.html">About repository access <span aria-hidden="true">&#8599;</span></a></p>
 
 </article>
 </div>

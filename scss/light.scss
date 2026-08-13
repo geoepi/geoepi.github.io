@@ -404,6 +404,30 @@ h1, h2, h3, h4 {
   font-weight: 700;
 }
 
+.geoepi-repository {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: baseline;
+  gap: 0.6rem;
+  margin-bottom: 0;
+}
+
+.geoepi-repository-name {
+  color: $geoepi-navy;
+  font-weight: 700;
+}
+
+.geoepi-repository-status {
+  color: #6b7277;
+  font-size: 0.82rem;
+  font-weight: 600;
+}
+
+.geoepi-repository-info {
+  flex-basis: 100%;
+  font-size: 0.9rem;
+}
+
 .geoepi-authority-link {
   margin-top: 2.5rem;
   border-top: 1px solid #dce3e7;

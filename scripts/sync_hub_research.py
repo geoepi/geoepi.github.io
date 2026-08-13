@@ -21,6 +21,7 @@ DEFAULT_SOURCE_URL = (
 SCHEMA_VERSION = 1
 CONTENT_STATUS_VALUES = {"scaffold", "reviewed"}
 THEME_VALUES = {"geography", "epidemiology", "modeling", "ecology"}
+REPOSITORY_VISIBILITY_VALUES = {"public", "private", "internal"}
 ID_RE = re.compile(r"^[a-z0-9]+(?:-[a-z0-9]+)*$")
 OPERATIONAL_FIELDS = {
     "lead_name",
@@ -118,11 +119,22 @@ def validate_feed(feed):
             elif subproject_id in seen_subprojects:
                 errors.append(f"{sub_prefix}.subproject_id is duplicated")
             seen_subprojects.add(subproject_id)
-            for field in ("title", "summary", "repository", "repository_url"):
+            for field in (
+                "title",
+                "summary",
+                "repository",
+                "repository_url",
+                "repository_visibility",
+            ):
                 if not isinstance(subproject.get(field), str):
                     errors.append(f"{sub_prefix}.{field} must be a string")
             if not _https_url(subproject.get("repository_url")):
                 errors.append(f"{sub_prefix}.repository_url must be an HTTPS URL")
+            if subproject.get("repository_visibility") not in REPOSITORY_VISIBILITY_VALUES:
+                errors.append(
+                    f"{sub_prefix}.repository_visibility is invalid; expected one of: "
+                    + ", ".join(sorted(REPOSITORY_VISIBILITY_VALUES))
+                )
             if "status" in subproject and not isinstance(subproject["status"], str):
                 errors.append(f"{sub_prefix}.status must be a string")
             for field in OPERATIONAL_FIELDS:
@@ -214,14 +226,30 @@ def generate_project_page(project):
     if project["subprojects"]:
         lines.append('<div class="geoepi-subproject-grid">')
         for subproject in project["subprojects"]:
+            repository = _inline(subproject["repository"])
+            if subproject["repository_visibility"] == "public":
+                repository_access = (
+                    f'<a href="{_inline(subproject["repository_url"])}">'
+                    f"Canonical repository: {repository} "
+                    '<span aria-hidden="true">&#8599;</span></a>'
+                )
+            else:
+                repository_access = (
+                    f'<span class="geoepi-repository-name">{repository}</span>'
+                    '<span class="geoepi-repository-status">'
+                    "Access currently restricted"
+                    "</span>"
+                    '<a class="geoepi-repository-info" href="../../repository-access.html">'
+                    'About repository access <span aria-hidden="true">&#8599;</span></a>'
+                )
             lines.extend(
                 [
                     '<article class="geoepi-subproject-card">',
-                    f"### {_inline(subproject['title'])}",
+                    f"<h3>{_inline(subproject['title'])}</h3>",
                     "",
                     _inline(subproject["summary"]) or "Summary not provided.",
                     "",
-                    f'<a href="{_inline(subproject["repository_url"])}">Canonical repository <span aria-hidden="true">&#8599;</span></a>',
+                    f'<p class="geoepi-repository">{repository_access}</p>',
                     "",
                     "</article>",
                 ]

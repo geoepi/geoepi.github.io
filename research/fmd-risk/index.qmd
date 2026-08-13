@@ -37,27 +37,27 @@ This GeoEpi project brings together work on foot-and-mouth disease spread dynami
 
 <div class="geoepi-subproject-grid">
 <article class="geoepi-subproject-card">
-### Epidemiologic consequences of preclinical transmission of foot-and-mouth disease virus in cattle
+<h3>Epidemiologic consequences of preclinical transmission of foot-and-mouth disease virus in cattle</h3>
 
 Interspread Plus simulations calibrated to PIADC experimental studies by Jonathan Arzt.
 
-<a href="https://github.com/geoepi/FMD-preclinical-spread">Canonical repository <span aria-hidden="true">&#8599;</span></a>
+<p class="geoepi-repository"><a href="https://github.com/geoepi/FMD-preclinical-spread">Canonical repository: geoepi/FMD-preclinical-spread <span aria-hidden="true">&#8599;</span></a></p>
 
 </article>
 <article class="geoepi-subproject-card">
-### Designing Control Zones for Foot-and-mouth Disease in Sri Lanka
+<h3>Designing Control Zones for Foot-and-mouth Disease in Sri Lanka</h3>
 
 Supporting analysis and dimension reduction for a FMD Survey in Sri Lanka using Factor Analysis for Mixed Data (FAMD).
 
-<a href="https://github.com/geoepi/sri-lanka-fmd">Canonical repository <span aria-hidden="true">&#8599;</span></a>
+<p class="geoepi-repository"><span class="geoepi-repository-name">geoepi/sri-lanka-fmd</span><span class="geoepi-repository-status">Access currently restricted</span><a class="geoepi-repository-info" href="../../repository-access.html">About repository access <span aria-hidden="true">&#8599;</span></a></p>
 
 </article>
 <article class="geoepi-subproject-card">
-### Endemic FMD analyses for Vietnam
+<h3>Endemic FMD analyses for Vietnam</h3>
 
 Understanding foot-and-mouth disease case distribution, virus diversity, and outbreak risk across Vietnam.
 
-<a href="https://github.com/geoepi/fmd-vietnam">Canonical repository <span aria-hidden="true">&#8599;</span></a>
+<p class="geoepi-repository"><span class="geoepi-repository-name">geoepi/fmd-vietnam</span><span class="geoepi-repository-status">Access currently restricted</span><a class="geoepi-repository-info" href="../../repository-access.html">About repository access <span aria-hidden="true">&#8599;</span></a></p>
 
 </article>
 </div>
