@@ -1,0 +1,65 @@
+---
+title: "Atmospheric Dispersion of HPAI"
+description: "Retrospective analysis of atmospheric HPAI transport between poultry facilities."
+categories: ["geography", "epidemiology"]
+content_status: scaffold
+page-layout: full
+comments: false
+---
+
+<div class="geoepi-generated-project">
+<p class="geoepi-eyebrow">HUB-GENERATED RESEARCH</p>
+# Atmospheric Dispersion of HPAI
+
+<p class="geoepi-scaffold-status">Scaffold project summary</p>
+
+<p class="geoepi-scaffold-note">This summary was assembled from current GeoEpi project metadata and is pending project-level review.</p>
+
+<p class="geoepi-project-summary">Retrospective analysis of atmospheric HPAI transport between poultry facilities.</p>
+
+## Abstract
+
+This GeoEpi project brings together retrospective analysis of atmospheric HPAI transport between poultry facilities. Registered work includes an atmospheric dispersion project, HPAI visualization and analyses, and tools for the Biosecurity Compliance Audit Program.
+
+## Themes and topics
+
+<div class="geoepi-project-tags">
+<span class="geoepi-project-tag">geography</span>
+<span class="geoepi-project-tag">epidemiology</span>
+<span class="geoepi-project-tag">HPAI</span>
+<span class="geoepi-project-tag">atmospheric dispersion</span>
+<span class="geoepi-project-tag">poultry facilities</span>
+<span class="geoepi-project-tag">transport</span>
+</div>
+
+## Associated subprojects
+
+<div class="geoepi-subproject-grid">
+<article class="geoepi-subproject-card">
+### Extraction and visualization Tools for Biosecurity Compliance Audit Program
+
+Summary not provided.
+
+<a href="https://github.com/geoepi/bcapture">Canonical repository <span aria-hidden="true">&#8599;</span></a>
+
+</article>
+<article class="geoepi-subproject-card">
+### Atmospheric Dispersion of HPAI
+
+Summary not provided.
+
+<a href="https://github.com/geoepi/EpiPlume">Canonical repository <span aria-hidden="true">&#8599;</span></a>
+
+</article>
+<article class="geoepi-subproject-card">
+### HPAI visualization and analyses
+
+Summary not provided.
+
+<a href="https://github.com/geoepi/hpai-lauren">Canonical repository <span aria-hidden="true">&#8599;</span></a>
+
+</article>
+</div>
+
+<p class="geoepi-authority-link"><a href="https://github.com/geoepi/geoepi-hub/tree/main/projects/hpai-plume">Authoritative Hub project record <span aria-hidden="true">&#8599;</span></a></p>
+</div>

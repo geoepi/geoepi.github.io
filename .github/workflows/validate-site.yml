@@ -21,6 +21,12 @@ jobs:
       - name: Run website generation tests
         run: python -m unittest discover -s tests -v
 
+      - name: Check generated Hub research sources
+        run: |
+          python scripts/sync_hub_research.py \
+            --source-file data/hub-public-research.json \
+            --check
+
       - name: Set up Quarto
         uses: quarto-dev/quarto-actions/setup@v2
 

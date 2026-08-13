@@ -1,0 +1,66 @@
+---
+title: "Vesicular Stomatitis Virus Risk Assessments"
+description: "Models and analyses focussed on VSV risks to the United States."
+categories: ["geography", "epidemiology", "modeling"]
+content_status: scaffold
+page-layout: full
+comments: false
+---
+
+<div class="geoepi-generated-project">
+<p class="geoepi-eyebrow">HUB-GENERATED RESEARCH</p>
+# Vesicular Stomatitis Virus Risk Assessments
+
+<p class="geoepi-scaffold-status">Scaffold project summary</p>
+
+<p class="geoepi-scaffold-note">This summary was assembled from current GeoEpi project metadata and is pending project-level review.</p>
+
+<p class="geoepi-project-summary">Models and analyses focussed on VSV risks to the United States.</p>
+
+## Abstract
+
+This GeoEpi project brings together models and analyses focused on vesicular stomatitis virus risks to the United States. Registered work includes an SEIR-SEI outbreak model, genome and geography analyses, and a California outbreak project.
+
+## Themes and topics
+
+<div class="geoepi-project-tags">
+<span class="geoepi-project-tag">geography</span>
+<span class="geoepi-project-tag">epidemiology</span>
+<span class="geoepi-project-tag">modeling</span>
+<span class="geoepi-project-tag">vesicular stomatitis virus</span>
+<span class="geoepi-project-tag">risk assessment</span>
+<span class="geoepi-project-tag">SEIR-SEI</span>
+<span class="geoepi-project-tag">genomes</span>
+</div>
+
+## Associated subprojects
+
+<div class="geoepi-subproject-grid">
+<article class="geoepi-subproject-card">
+### Modeling the 2014-2015 Vesicular Stomatitis Outbreak in the United States using an SEIR-SEI Approach
+
+Summary not provided.
+
+<a href="https://github.com/geoepi/seir-vector">Canonical repository <span aria-hidden="true">&#8599;</span></a>
+
+</article>
+<article class="geoepi-subproject-card">
+### Interrogating Genomes and Geography to Unravel Multiyear Vesicular Stomatitis Epizootics
+
+Summary not provided.
+
+<a href="https://github.com/geoepi/vs-epizootics">Canonical repository <span aria-hidden="true">&#8599;</span></a>
+
+</article>
+<article class="geoepi-subproject-card">
+### California Outbreak 2023
+
+Summary not provided.
+
+<a href="https://github.com/geoepi/vsv-2023">Canonical repository <span aria-hidden="true">&#8599;</span></a>
+
+</article>
+</div>
+
+<p class="geoepi-authority-link"><a href="https://github.com/geoepi/geoepi-hub/tree/main/projects/vsv-risk">Authoritative Hub project record <span aria-hidden="true">&#8599;</span></a></p>
+</div>

@@ -319,10 +319,11 @@ def outputs_match(feed, repo_root=Path(".")):
     actual_ids = {path.name for path in research_dir.iterdir() if path.is_dir()}
     if actual_ids != set(expected):
         return False
-    return all(
-        (research_dir / project_id / "index.qmd").read_text(encoding="utf-8") == content
-        for project_id, content in expected.items()
-    )
+    for project_id, content in expected.items():
+        page = research_dir / project_id / "index.qmd"
+        if not page.is_file() or page.read_text(encoding="utf-8") != content:
+            return False
+    return True
 
 
 def parse_args(argv=None):
