@@ -2,9 +2,37 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "GeoEpi",
+    "title": "GeoEpi Research Group",
     "section": "",
-    "text": "GeoEpi Group\n The GeoEpi Group applies geographical epidemiology to investigate animal disease transmission and outbreak dynamics. Leveraging statistical and mathematical modeling, bioinformatics, and artificial intelligence, our work aims to bridge the molecular and landscape scales to reveal insights into the ecology and spatiotemporal dynamics of foreign, transboundary, emerging, and zoonotic animal diseases."
+    "text": "GEOGRAPHICAL EPIDEMIOLOGY\n\n\nDisease science across scales.\n\n\nGeoEpi studies the ecology, transmission, spread, and management of animal diseases using spatial epidemiology, statistical and mathematical modeling, bioinformatics, simulation, and computational science.\n\n\nExplore selected research ↗ About GeoEpi\n\n\n\n\n\n\nFOUR CONNECTED PERSPECTIVES\n\n\nFrom molecular signals to landscapes.\n\n\nGeoEpi brings complementary scientific perspectives together to understand animal disease systems.\n\n\n\n\n01\n\nGeography\n\n\nSpatial structure, movement, landscape processes, and geographic variation.\n\n\n\n02\n\nEpidemiology\n\n\nTransmission, outbreak dynamics, surveillance, and population-level disease patterns.\n\n\n\n03\n\nModeling\n\n\nStatistical, mathematical, simulation, and computational approaches to disease systems.\n\n\n\n04\n\nEcology\n\n\nHosts, pathogens, environments, populations, and the ecological processes linking them.\n\n\n\n\n\n\n\nEXPLORE GEOEPI\n\n\nOne group, three ways in.\n\n\n\n\nPUBLIC SCIENCE\n\nResearch ↗\n\n\nSelected GeoEpi research projects and public scientific outputs.\n\n\n\nCURRENT ACTIVITY\n\nGeoEpi Hub ↗\n\n\nCurrent projects, analytical subprojects, milestones, and portfolio state.\n\n\n\nWORKING PRACTICES\n\nGeoEpi Lab Book ↗\n\n\nPractical guidance describing how GeoEpi organizes and conducts reproducible work."
+  },
+  {
+    "objectID": "pindex.html",
+    "href": "pindex.html",
+    "title": "Research",
+    "section": "",
+    "text": "The page collects selected public research records from the current site. It is a portfolio view of existing content, not a complete representation of all current GeoEpi work. Follow each card for the authoritative project page or external product.\n\n\n\n\n\n\n    \n      \n      \n    \n\n\n\n\n\n\n\n\n\n\nFMD Preclinical Spread\n\n\n\nFoot-and-mouth disease virus\n\n\nFMDV\n\n\nR\n\n\nInterSpread Plus\n\n\nISP\n\n\n\nDemonstrative workflow of transmission analyses for FMDV spread model in InterSpread Plus.\n\n\n\n\n\n\n\n\n\n\n\n\n\nFlavivirus Project\n\n\n\nFlavivirus\n\n\nWNV\n\n\nR\n\n\nMachine Learning\n\n\n\nJust a webpage test\n\n\n\n\n\n\n\n\n\n\n\n\n\nVSV Compartmental Model SEIR-SEI\n\n\n\nVesicular stomatitis\n\n\nVSV\n\n\nStan\n\n\nR\n\n\nSampling Bias\n\n\nCompartmental Model\n\n\n\nAn SEIR-SEI compartmental model model.\n\n\n\n\n\n\n\n\n\n\n\n\n\nVSV Genomes & Geography\n\n\n\nVesicular stomatitis\n\n\nVSV\n\n\nR\n\n\nPhylogeography\n\n\nPhylodynamics\n\n\nPreferential Sampling\n\n\n\nVSV Outbreak phylogeography, phylodynamics, and spatiotemporal modeling.\n\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About the GeoEpi Group",
+    "section": "",
+    "text": "ABOUT GEOEPI\n\n\n\nGeoEpi (Geographical Epidemiology) is a research group studying the ecology, transmission, spread, and management of animal diseases. Our work connects molecular and landscape perspectives to investigate foreign, transboundary, emerging, and zoonotic animal diseases."
+  },
+  {
+    "objectID": "about.html#how-we-work",
+    "href": "about.html#how-we-work",
+    "title": "About the GeoEpi Group",
+    "section": "How we work",
+    "text": "How we work\nGeoEpi combines spatial epidemiology with statistical and mathematical modeling, bioinformatics, simulation, and computational science. Research, reusable software, and operational analysis are connected by a common emphasis on transparent, reproducible quantitative work.\nThe group’s public information is organized across three complementary spaces:\n\nResearch presents selected public scientific projects and outputs.\nGeoEpi Hub describes current project activity and portfolio state.\nGeoEpi Lab Book documents working practices for reproducible analysis."
+  },
+  {
+    "objectID": "about.html#find-geoepi-elsewhere",
+    "href": "about.html#find-geoepi-elsewhere",
+    "title": "About the GeoEpi Group",
+    "section": "Find GeoEpi elsewhere",
+    "text": "Find GeoEpi elsewhere\n\nGeoEpi GitHub organization\nOpen Science Framework\nGeoEpi site source"
   },
   {
     "objectID": "projects/flavi_wnv/index.html",
@@ -14,32 +42,11 @@
     "text": "Hypothetical project code here:\n\nSome Random Chunk\n\n\nHide code\n56/23\n\n\n[1] 2.434783\n\n\n\n\n\n\nCitationBibTeX citation:@online{2023,\n  author = {},\n  title = {Flavivirus {Project}},\n  date = {2023-01-20},\n  url = {https://geoepi.github.io/projects/flavi_wnv},\n  langid = {en}\n}\nFor attribution, please cite this work as:\n“Flavivirus Project.” 2023. January 20, 2023. https://geoepi.github.io/projects/flavi_wnv."
   },
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About the GeoEpi Group",
+    "objectID": "projects/fmd_preclinical_spread/index.html",
+    "href": "projects/fmd_preclinical_spread/index.html",
+    "title": "FMD Preclinical Spread",
     "section": "",
-    "text": "The GeoEpi (Geographical Epidemiology) Group conducts research on animal disease transmission and outbreak dynamics. Using advanced statistical modeling, bioinformatics, and artificial intelligence, our work spans molecular to landscape scales, revealing crucial insights into disease ecology and management.\n\nRandom Code\n\n\nHide code\n1 + 1\n\n\n[1] 2"
-  },
-  {
-    "objectID": "pindex.html",
-    "href": "pindex.html",
-    "title": "Research",
-    "section": "",
-    "text": "Group projects, vignettes, and other research items\n\n\n\n\n\n\n\n   \n     \n     \n       Order By\n       Default\n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n         \n          Updated - Oldest\n        \n         \n          Updated - Newest\n        \n     \n  \n\n\n\n\n\n\n\n\n\n\nFMD Preclinical Spread\n\n\n0 min\n\n\nDemonstrative workflow of transmission analyses for FMDV spread model in InterSpread Plus.\n\n\n\nAug 22, 2025\n\n\n\n\n\nAug 26, 2025\n\n\n\n\n\n\n\n\n\n\n\n\n\nVSV Compartmental Model SEIR-SEI\n\n\n0 min\n\n\nAn SEIR-SEI compartmental model model.\n\n\n\nAug 18, 2024\n\n\n\n\n\nAug 18, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\nVSV Genomes & Geography\n\n\n0 min\n\n\nVSV Outbreak phylogeography, phylodynamics, and spatiotemporal modeling.\n\n\n\nJul 11, 2024\n\n\n\n\n\nAug 18, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\nFlavivirus Project\n\n\n0 min\n\n\nJust a webpage test\n\n\n\nJan 20, 2023\n\n\n\n\n\nFeb 16, 2024\n\n\n\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "projects/vsv_epizootics/index.html",
-    "href": "projects/vsv_epizootics/index.html",
-    "title": "VSV Genomes & Geography",
-    "section": "",
-    "text": "CitationBibTeX citation:@online{2024,\n  author = {},\n  title = {VSV {Genomes} \\& {Geography}},\n  date = {2024-07-11},\n  url = {https://geoepi.github.io/projects/vsv_epizootics},\n  langid = {en}\n}\nFor attribution, please cite this work as:\n“VSV Genomes & Geography.” 2024. July 11, 2024. https://geoepi.github.io/projects/vsv_epizootics."
-  },
-  {
-    "objectID": "projects/vsv_epizootics/xindex.html",
-    "href": "projects/vsv_epizootics/xindex.html",
-    "title": "VSV Genomes & Geography",
-    "section": "",
-    "text": "CitationBibTeX citation:@online{2024,\n  author = {},\n  title = {VSV {Genomes} \\& {Geography}},\n  date = {2024-07-11},\n  url = {https://geoepi.github.io/xindex.html},\n  langid = {en}\n}\nFor attribution, please cite this work as:\n“VSV Genomes & Geography.” 2024. July 11, 2024. https://geoepi.github.io/xindex.html."
+    "text": "CitationBibTeX citation:@online{2025,\n  author = {},\n  title = {FMD {Preclinical} {Spread}},\n  date = {2025-08-22},\n  url = {https://geoepi.github.io/projects/fmd_preclinical_spread},\n  langid = {en}\n}\nFor attribution, please cite this work as:\n“FMD Preclinical Spread.” 2025. August 22, 2025. https://geoepi.github.io/projects/fmd_preclinical_spread."
   },
   {
     "objectID": "projects/seir_vector/index.html",
@@ -49,10 +56,10 @@
     "text": "CitationBibTeX citation:@online{2024,\n  author = {},\n  title = {VSV {Compartmental} {Model} {SEIR-SEI}},\n  date = {2024-08-18},\n  url = {https://geoepi.github.io/projects/seir_vector},\n  langid = {en}\n}\nFor attribution, please cite this work as:\n“VSV Compartmental Model SEIR-SEI.” 2024. August 18, 2024.\nhttps://geoepi.github.io/projects/seir_vector."
   },
   {
-    "objectID": "projects/fmd_preclinical_spread/index.html",
-    "href": "projects/fmd_preclinical_spread/index.html",
-    "title": "FMD Preclinical Spread",
+    "objectID": "projects/vsv_epizootics/index.html",
+    "href": "projects/vsv_epizootics/index.html",
+    "title": "VSV Genomes & Geography",
     "section": "",
-    "text": "CitationBibTeX citation:@online{2025,\n  author = {},\n  title = {FMD {Preclinical} {Spread}},\n  date = {2025-08-22},\n  url = {https://geoepi.github.io/projects/fmd_preclinical_spread},\n  langid = {en}\n}\nFor attribution, please cite this work as:\n“FMD Preclinical Spread.” 2025. August 22, 2025. https://geoepi.github.io/projects/fmd_preclinical_spread."
+    "text": "CitationBibTeX citation:@online{2024,\n  author = {},\n  title = {VSV {Genomes} \\& {Geography}},\n  date = {2024-07-11},\n  url = {https://geoepi.github.io/projects/vsv_epizootics},\n  langid = {en}\n}\nFor attribution, please cite this work as:\n“VSV Genomes & Geography.” 2024. July 11, 2024. https://geoepi.github.io/projects/vsv_epizootics."
   }
 ]

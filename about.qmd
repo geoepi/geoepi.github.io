@@ -1,30 +1,33 @@
 ---
 title: "About the GeoEpi Group"
-image: images/geoepi_logo_sm.png
-about:
-  template: marquee
 format:
   html:
-    code-fold: show
-    code-summary: "Hide code"
-    code-overflow: wrap
-    toc-title: Page Contents
-    toc: true
-    toc-depth: 2
+    toc: false
     number-sections: false
-    html-math-method: katex
-    css: styles.css
-    theme: flatly
-    toc-location: left
     smooth-scroll: true
-editor_options: 
-  chunk_output_type: console
+comments: false
 ---
 
-The **GeoEpi** (Geographical Epidemiology) Group conducts research on animal disease transmission and outbreak dynamics. Using advanced statistical modeling, bioinformatics, and artificial intelligence, our work spans molecular to landscape scales, revealing crucial insights into disease ecology and management.
+<div class="geoepi-page-intro">
+<p class="geoepi-eyebrow">ABOUT GEOEPI</p>
 
-# Random Code
+# A scientific group focused on animal disease systems
 
-```{r}
-1 + 1
-```
+GeoEpi (Geographical Epidemiology) is a research group studying the ecology, transmission, spread, and management of animal diseases. Our work connects molecular and landscape perspectives to investigate foreign, transboundary, emerging, and zoonotic animal diseases.
+</div>
+
+## How we work
+
+GeoEpi combines spatial epidemiology with statistical and mathematical modeling, bioinformatics, simulation, and computational science. Research, reusable software, and operational analysis are connected by a common emphasis on transparent, reproducible quantitative work.
+
+The group’s public information is organized across three complementary spaces:
+
+- [Research](pindex.qmd) presents selected public scientific projects and outputs.
+- [GeoEpi Hub](https://github.com/geoepi/geoepi-hub) describes current project activity and portfolio state.
+- [GeoEpi Lab Book](https://geoepi.github.io/geoepi-notebook/) documents working practices for reproducible analysis.
+
+## Find GeoEpi elsewhere
+
+- [GeoEpi GitHub organization](https://github.com/geoepi)
+- [Open Science Framework](https://osf.io/hf8t2/)
+- [GeoEpi site source](https://github.com/geoepi/geoepi.github.io)

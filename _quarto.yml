@@ -1,13 +1,18 @@
 project:
   type: website
   output-dir: docs
+  render:
+    - index.qmd
+    - pindex.qmd
+    - about.qmd
+    - projects
 
 execute:
   freeze: auto
 
 website:
   page-navigation: true
-  title: "GeoEpi"
+  title: "GeoEpi Research Group"
   site-url: https://geoepi.github.io
   open-graph: true
   favicon: images/geoepi_logo_xsm.png
@@ -19,44 +24,36 @@ website:
         text: Home
       - href: pindex.qmd
         text: Research
-      - href: https://geoepi.github.io/Notebook/
-        text: Notebook
       - href: about.qmd
         text: About
+      - href: https://github.com/geoepi/geoepi-hub
+        text: GeoEpi Hub
+      - href: https://geoepi.github.io/geoepi-notebook/
+        text: GeoEpi Lab Book
       - text: Connect
         menu:
           - icon: github
             href: https://github.com/geoepi
-            text: "Group GitHub Site"
+            text: "GeoEpi GitHub organization"
           - icon: octagon
             href: https://osf.io/hf8t2/
             text: "Open Science Framework"
-          - icon: envelope
-            href: mailto:john.humphreys@usda.gov
-            text: "john.humphreys@usda.gov"
-      - icon: github
-        menu:
           - text: Site Source Code
-            url:  https://github.com/geoepi/geoepi.github.io
+            href: https://github.com/geoepi/geoepi.github.io
           - text: Report Site Issue
-            url:  https://github.com/geoepi/geoepi.github.io/issues
+            href: https://github.com/geoepi/geoepi.github.io/issues
   page-footer:
     border: false
-    left: "Published with [Quarto](https://quarto.org/) v1.2.335"
-    right: "© 2024 [John Humphreys](/about) | [MIT License](/license)"
-        
+    left: "GeoEpi Research Group"
+    right: "[GitHub](https://github.com/geoepi) · [Hub](https://github.com/geoepi/geoepi-hub) · [Lab Book](https://geoepi.github.io/geoepi-notebook/) · [Site source](https://github.com/geoepi/geoepi.github.io)"
+
 format:
   html:
-    theme:
-      light: scss/light.scss
-      dark:  scss/dark.scss
-    revealjs:
-      logo: images/geoepi_logo_xsm.png
-      css: scss/styles.css
-    link-external-icon: true
+    theme: scss/light.scss
+    link-external-icon: false
     link-external-newwindow: true
     smooth-scroll: true
-    highlight-style: gruvbox
+    highlight-style: github
     df-print: kable
 
 editor: visual

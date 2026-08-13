@@ -1,25 +1,81 @@
 ---
-image: images/helix.png
-about:
-  template: trestles
+title: "GeoEpi Research Group"
 format:
   html:
-    code-fold: show
-    code-summary: "Hide code"
-    code-overflow: wrap
+    page-layout: full
+    toc: false
     number-sections: false
-    html-math-method: katex
-    toc-location: left
     smooth-scroll: true
 comments: false
-title-block-banner: true
-editor_options: 
-  chunk_output_type: console
 ---
 
-<div>
-# GeoEpi Group
-<span style="font-size: 18px;">
-The GeoEpi Group applies geographical epidemiology to investigate animal disease transmission and outbreak dynamics. Leveraging statistical and mathematical modeling, bioinformatics, and artificial intelligence, our work aims to bridge the molecular and landscape scales to reveal insights into the ecology and spatiotemporal dynamics of foreign, transboundary, emerging, and zoonotic animal diseases.
-</span>
-<div>
+<div class="geoepi-homepage">
+<section class="geoepi-hero" aria-labelledby="hero-title">
+<img src="images/geoepi_header.png" class="geoepi-header-image" alt="GeoEpi — Geographical Epidemiology, with four visual themes: Geography, Epidemiology, Modeling, and Ecology." />
+<div class="geoepi-hero-copy">
+<p class="geoepi-eyebrow">GEOGRAPHICAL EPIDEMIOLOGY</p>
+<h1 id="hero-title">Disease science across scales.</h1>
+<p>GeoEpi studies the ecology, transmission, spread, and management of animal diseases using spatial epidemiology, statistical and mathematical modeling, bioinformatics, simulation, and computational science.</p>
+<div class="geoepi-actions">
+<a class="geoepi-button geoepi-button-primary" href="pindex.qmd">Explore selected research <span aria-hidden="true">&#8599;</span></a>
+<a class="geoepi-button geoepi-button-secondary" href="about.qmd">About GeoEpi</a>
+</div>
+</div>
+</section>
+
+<section class="geoepi-section" aria-labelledby="themes-title">
+<div class="geoepi-section-heading">
+<p class="geoepi-eyebrow">FOUR CONNECTED PERSPECTIVES</p>
+<h2 id="themes-title">From molecular signals to landscapes.</h2>
+<p>GeoEpi brings complementary scientific perspectives together to understand animal disease systems.</p>
+</div>
+
+<div class="geoepi-theme-grid">
+<article class="geoepi-theme-card theme-geography">
+<span class="geoepi-theme-index" aria-hidden="true">01</span>
+<h3>Geography</h3>
+<p>Spatial structure, movement, landscape processes, and geographic variation.</p>
+</article>
+<article class="geoepi-theme-card theme-epidemiology">
+<span class="geoepi-theme-index" aria-hidden="true">02</span>
+<h3>Epidemiology</h3>
+<p>Transmission, outbreak dynamics, surveillance, and population-level disease patterns.</p>
+</article>
+<article class="geoepi-theme-card theme-modeling">
+<span class="geoepi-theme-index" aria-hidden="true">03</span>
+<h3>Modeling</h3>
+<p>Statistical, mathematical, simulation, and computational approaches to disease systems.</p>
+</article>
+<article class="geoepi-theme-card theme-ecology">
+<span class="geoepi-theme-index" aria-hidden="true">04</span>
+<h3>Ecology</h3>
+<p>Hosts, pathogens, environments, populations, and the ecological processes linking them.</p>
+</article>
+</div>
+</section>
+
+<section class="geoepi-section geoepi-explore" aria-labelledby="explore-title">
+<div class="geoepi-section-heading">
+<p class="geoepi-eyebrow">EXPLORE GEOEPI</p>
+<h2 id="explore-title">One group, three ways in.</h2>
+</div>
+
+<div class="geoepi-navigation-grid">
+<div class="geoepi-navigation-card">
+<span class="geoepi-card-kicker">PUBLIC SCIENCE</span>
+<h3><a class="geoepi-card-link" href="pindex.qmd">Research <span aria-hidden="true">&#8599;</span></a></h3>
+<p>Selected GeoEpi research projects and public scientific outputs.</p>
+</div>
+<div class="geoepi-navigation-card">
+<span class="geoepi-card-kicker">CURRENT ACTIVITY</span>
+<h3><a class="geoepi-card-link" href="https://github.com/geoepi/geoepi-hub">GeoEpi Hub <span aria-hidden="true">&#8599;</span></a></h3>
+<p>Current projects, analytical subprojects, milestones, and portfolio state.</p>
+</div>
+<div class="geoepi-navigation-card">
+<span class="geoepi-card-kicker">WORKING PRACTICES</span>
+<h3><a class="geoepi-card-link" href="https://geoepi.github.io/geoepi-notebook/">GeoEpi Lab Book <span aria-hidden="true">&#8599;</span></a></h3>
+<p>Practical guidance describing how GeoEpi organizes and conducts reproducible work.</p>
+</div>
+</div>
+</section>
+</div>
