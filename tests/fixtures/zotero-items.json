@@ -1,0 +1,114 @@
+[
+  {
+    "key": "JOURNAL1",
+    "version": 12,
+    "links": {
+      "alternate": {"href": "https://www.zotero.org/groups/6637692/items/JOURNAL1"}
+    },
+    "data": {
+      "itemType": "journalArticle",
+      "title": "Spatial patterns in a synthetic disease system",
+      "creators": [
+        {"creatorType": "author", "firstName": "Ada", "lastName": "Lovelace"},
+        {"creatorType": "author", "firstName": "Grace", "lastName": "Hopper"}
+      ],
+      "date": "2024-06-01",
+      "publicationTitle": "Journal of Synthetic Epidemiology",
+      "journalAbbreviation": "J Synth Epi",
+      "volume": "12",
+      "issue": "2",
+      "pages": "10-22",
+      "DOI": "10.1234/synthetic.2024.001",
+      "url": "https://example.org/articles/spatial-patterns",
+      "abstractNote": "This is a synthetic fixture abstract.",
+      "tags": [{"tag": "spatial epidemiology"}],
+      "version": 12
+    },
+    "bib": "Lovelace, A., & Hopper, G. (2024). Spatial patterns in a synthetic disease system."
+  },
+  {
+    "key": "NOABSTRACT",
+    "version": 3,
+    "links": {
+      "alternate": {"href": "https://www.zotero.org/groups/6637692/items/NOABSTRACT"}
+    },
+    "data": {
+      "itemType": "journalArticle",
+      "title": "A synthetic article without an abstract",
+      "creators": [
+        {"creatorType": "author", "firstName": "Katherine", "lastName": "Johnson"}
+      ],
+      "date": "2023",
+      "publicationTitle": "Synthetic Methods Quarterly",
+      "DOI": "",
+      "url": "https://example.org/articles/no-abstract",
+      "abstractNote": "   "
+    },
+    "bib": "Johnson, K. (2023). A synthetic article without an abstract."
+  },
+  {
+    "key": "INSTITUTIONAL",
+    "version": 1,
+    "links": {
+      "alternate": {"href": "https://www.zotero.org/groups/6637692/items/INSTITUTIONAL"}
+    },
+    "data": {
+      "itemType": "report",
+      "title": "Synthetic institutional surveillance report",
+      "creators": [
+        {"creatorType": "author", "name": "GeoEpi Methods Consortium"},
+        {"creatorType": "editor", "firstName": "Editor", "lastName": "Example"}
+      ],
+      "date": "2022",
+      "publisher": "Synthetic Public Health Press",
+      "place": "Madison",
+      "abstractNote": "Institutional report abstract.",
+      "tags": [{"tag": "report"}]
+    },
+    "bib": "GeoEpi Methods Consortium. (2022). Synthetic institutional surveillance report."
+  },
+  {
+    "key": "UNPARSEABLE",
+    "version": 1,
+    "links": {
+      "alternate": {"href": "https://www.zotero.org/groups/6637692/items/UNPARSEABLE"}
+    },
+    "data": {
+      "itemType": "book",
+      "title": "Synthetic book with an undated record",
+      "creators": [{"creatorType": "author", "name": "Synthetic Research Group"}],
+      "date": "forthcoming",
+      "publisher": "Synthetic University Press"
+    }
+  },
+  {
+    "key": "BOOKSECTION",
+    "version": 1,
+    "links": {
+      "alternate": {"href": "https://www.zotero.org/groups/6637692/items/BOOKSECTION"}
+    },
+    "data": {
+      "itemType": "bookSection",
+      "title": "A synthetic chapter",
+      "creators": [{"creatorType": "author", "firstName": "Mary", "lastName": "Jackson"}],
+      "date": "2021",
+      "bookTitle": "Synthetic Research Handbook",
+      "publisher": "Synthetic University Press"
+    }
+  },
+  {
+    "key": "ATTACHMENT1",
+    "version": 1,
+    "data": {"itemType": "attachment", "title": "PDF attachment"}
+  },
+  {
+    "key": "NOTE1",
+    "version": 1,
+    "data": {"itemType": "note", "title": "Internal note"}
+  },
+  {
+    "key": "TITLELESS",
+    "version": 1,
+    "data": {"itemType": "document", "title": "   ", "date": "2020"}
+  }
+]

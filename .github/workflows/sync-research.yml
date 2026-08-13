@@ -9,7 +9,7 @@ permissions:
   contents: write
 
 concurrency:
-  group: geoepi-website-research-sync
+  group: geoepi-website-generated-sync
   cancel-in-progress: false
 
 jobs:

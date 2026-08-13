@@ -67,12 +67,12 @@ ul.task-list li input[type="checkbox"] {
     const listingTargetEl = window.document.querySelector('#listing-listing .list');
     if (!listingTargetEl) {
       // No listing discovered, do not attach.
-      return; 
+      return;
     }
 
     const options = {
       valueNames: ['listing-image','listing-title','listing-description','listing-content_status','listing-categories',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
-      
+
       searchColumns: ["listing-title","listing-author","listing-description","listing-categories"],
     };
 
@@ -121,46 +121,50 @@ ul.task-list li input[type="checkbox"] {
   <li class="nav-item">
     <a class="nav-link" href="./index.html">
  <span class="menu-text">Home</span></a>
-  </li>  
+  </li>
   <li class="nav-item">
     <a class="nav-link active" href="./pindex.html" aria-current="page">
  <span class="menu-text">Research</span></a>
-  </li>  
+  </li>
+  <li class="nav-item">
+    <a class="nav-link" href="./publications.html">
+ <span class="menu-text">Publications</span></a>
+  </li>
   <li class="nav-item">
     <a class="nav-link" href="./about.html">
  <span class="menu-text">About</span></a>
-  </li>  
+  </li>
   <li class="nav-item">
     <a class="nav-link" href="https://github.com/geoepi/geoepi-hub">
  <span class="menu-text">GeoEpi Hub</span></a>
-  </li>  
+  </li>
   <li class="nav-item">
     <a class="nav-link" href="https://geoepi.github.io/geoepi-notebook/">
  <span class="menu-text">GeoEpi Lab Book</span></a>
-  </li>  
+  </li>
   <li class="nav-item dropdown ">
     <a class="nav-link dropdown-toggle" href="#" id="nav-menu-connect" role="button" data-bs-toggle="dropdown" aria-expanded="false">
  <span class="menu-text">Connect</span>
     </a>
-    <ul class="dropdown-menu dropdown-menu-end" aria-labelledby="nav-menu-connect">    
+    <ul class="dropdown-menu dropdown-menu-end" aria-labelledby="nav-menu-connect">
         <li>
     <a class="dropdown-item" href="https://github.com/geoepi"><i class="bi bi-github" role="img">
-</i> 
+</i>
  <span class="dropdown-text">GeoEpi GitHub organization</span></a>
-  </li>  
+  </li>
         <li>
     <a class="dropdown-item" href="https://osf.io/hf8t2/"><i class="bi bi-octagon" role="img">
-</i> 
+</i>
  <span class="dropdown-text">Open Science Framework</span></a>
-  </li>  
+  </li>
         <li>
     <a class="dropdown-item" href="https://github.com/geoepi/geoepi.github.io">
  <span class="dropdown-text">Site Source Code</span></a>
-  </li>  
+  </li>
         <li>
     <a class="dropdown-item" href="https://github.com/geoepi/geoepi.github.io/issues">
  <span class="dropdown-text">Report Site Issue</span></a>
-  </li>  
+  </li>
     </ul>
   </li>
 </ul>
@@ -174,7 +178,7 @@ ul.task-list li input[type="checkbox"] {
 <!-- sidebar -->
 <!-- margin-sidebar -->
     <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
-        
+
     <h5 class="quarto-listing-category-title">Categories</h5><div class="quarto-listing-category category-default"><div class="category" data-category="">All <span class="quarto-category-count">(8)</span></div><div class="category" data-category="ecology">ecology <span class="quarto-category-count">(1)</span></div><div class="category" data-category="epidemiology">epidemiology <span class="quarto-category-count">(8)</span></div><div class="category" data-category="geography">geography <span class="quarto-category-count">(4)</span></div><div class="category" data-category="modeling">modeling <span class="quarto-category-count">(5)</span></div></div></div>
 <!-- main -->
 <main class="content column-page-left" id="quarto-document-content">
@@ -189,11 +193,11 @@ ul.task-list li input[type="checkbox"] {
 
 <div class="quarto-title-meta">
 
-    
-  
-    
+
+
+
   </div>
-  
+
 
 </header>
 
@@ -210,7 +214,7 @@ ul.task-list li input[type="checkbox"] {
     </div>
 </div>
 <div class="list grid quarto-listing-cols-3">
-<div class="g-col-1" data-index="0" data-categories="epidemiology,modeling" data-listing-file-modified-sort="1786586672714" data-listing-reading-time-sort="0.45">
+<div class="g-col-1" data-index="0" data-categories="epidemiology,modeling" data-listing-file-modified-sort="1786590775603" data-listing-reading-time-sort="0.45">
 <a href="./research/asf-risk/index.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <div class="card-img-bg" style="height: 150px;">
@@ -247,7 +251,7 @@ scaffold
 </div>
 </a>
 </div>
-<div class="g-col-1" data-index="1" data-categories="geography,epidemiology,ecology" data-listing-file-modified-sort="1786586672717" data-listing-reading-time-sort="0.595">
+<div class="g-col-1" data-index="1" data-categories="geography,epidemiology,ecology" data-listing-file-modified-sort="1786590775604" data-listing-reading-time-sort="0.595">
 <a href="./research/asf-swine/index.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <div class="card-img-bg" style="height: 150px;">
@@ -287,7 +291,7 @@ scaffold
 </div>
 </a>
 </div>
-<div class="g-col-1" data-index="2" data-categories="geography,epidemiology" data-listing-file-modified-sort="1786586672723" data-listing-reading-time-sort="0.615">
+<div class="g-col-1" data-index="2" data-categories="geography,epidemiology" data-listing-file-modified-sort="1786590775606" data-listing-reading-time-sort="0.615">
 <a href="./research/hpai-plume/index.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <div class="card-img-bg" style="height: 150px;">
@@ -324,7 +328,7 @@ scaffold
 </div>
 </a>
 </div>
-<div class="g-col-1" data-index="3" data-categories="geography,epidemiology,modeling" data-listing-file-modified-sort="1786586672721" data-listing-reading-time-sort="0.66">
+<div class="g-col-1" data-index="3" data-categories="geography,epidemiology,modeling" data-listing-file-modified-sort="1786590775606" data-listing-reading-time-sort="0.66">
 <a href="./research/fmd-risk/index.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <div class="card-img-bg" style="height: 150px;">
@@ -364,7 +368,7 @@ scaffold
 </div>
 </a>
 </div>
-<div class="g-col-1" data-index="4" data-categories="epidemiology,modeling" data-listing-file-modified-sort="1786586672725" data-listing-reading-time-sort="0.735">
+<div class="g-col-1" data-index="4" data-categories="epidemiology,modeling" data-listing-file-modified-sort="1786590775607" data-listing-reading-time-sort="0.735">
 <a href="./research/nws-risk/index.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <div class="card-img-bg" style="height: 150px;">
@@ -401,7 +405,7 @@ scaffold
 </div>
 </a>
 </div>
-<div class="g-col-1" data-index="5" data-categories="epidemiology" data-listing-file-modified-sort="1786586672719" data-listing-reading-time-sort="0.675">
+<div class="g-col-1" data-index="5" data-categories="epidemiology" data-listing-file-modified-sort="1786590775605" data-listing-reading-time-sort="0.675">
 <a href="./research/fmd-patho/index.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <div class="card-img-bg" style="height: 150px;">
@@ -435,7 +439,7 @@ scaffold
 </div>
 </a>
 </div>
-<div class="g-col-1" data-index="6" data-categories="geography,epidemiology,modeling" data-listing-file-modified-sort="1786586672727" data-listing-reading-time-sort="0.69">
+<div class="g-col-1" data-index="6" data-categories="geography,epidemiology,modeling" data-listing-file-modified-sort="1786590775611" data-listing-reading-time-sort="0.69">
 <a href="./research/vsv-risk/index.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <div class="card-img-bg" style="height: 150px;">
@@ -475,7 +479,7 @@ scaffold
 </div>
 </a>
 </div>
-<div class="g-col-1" data-index="7" data-categories="epidemiology,modeling" data-listing-file-modified-sort="1786586672729" data-listing-reading-time-sort="0.555">
+<div class="g-col-1" data-index="7" data-categories="epidemiology,modeling" data-listing-file-modified-sort="1786590775612" data-listing-reading-time-sort="0.555">
 <a href="./research/wnv-risk/index.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <div class="card-img-bg" style="height: 150px;">
@@ -536,7 +540,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       toggleBodyColorMode(bsSheetEl);
     }
   }
-  toggleBodyColorPrimary();  
+  toggleBodyColorPrimary();
   const icon = "";
   const anchorJS = new window.AnchorJS();
   anchorJS.options = {
@@ -563,11 +567,11 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       button.setAttribute("data-bs-toggle", "tooltip");
       button.setAttribute("data-bs-placement", "left");
       button.setAttribute("data-bs-title", "Copied!");
-      tooltip = new bootstrap.Tooltip(button, 
-        { trigger: "manual", 
+      tooltip = new bootstrap.Tooltip(button,
+        { trigger: "manual",
           customClass: "code-copy-button-tooltip",
           offset: [0, -8]});
-      tooltip.show();    
+      tooltip.show();
     }
     setTimeout(function() {
       if (tooltip) {
@@ -597,7 +601,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       theme: 'quarto',
       placement: 'bottom-start'
     };
-    window.tippy(el, config); 
+    window.tippy(el, config);
   }
   const noterefs = window.document.querySelectorAll('a[role="doc-noteref"]');
   for (var i=0; i<noterefs.length; i++) {
@@ -667,7 +671,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
 </div> <!-- /content -->
 <footer class="footer">
   <div class="nav-footer">
-    <div class="nav-footer-left">GeoEpi Research Group</div>   
+    <div class="nav-footer-left">GeoEpi Research Group</div>
     <div class="nav-footer-right"><a href="https://github.com/geoepi">GitHub</a> · <a href="https://github.com/geoepi/geoepi-hub">Hub</a> · <a href="https://geoepi.github.io/geoepi-notebook/">Lab Book</a> · <a href="https://github.com/geoepi/geoepi.github.io">Site source</a></div>
   </div>
 </footer>

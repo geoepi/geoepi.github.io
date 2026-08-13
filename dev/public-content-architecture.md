@@ -1,15 +1,15 @@
 # GeoEpi public content architecture
 
-This note records the intended direction for later website automation. It is
-an internal development document and is not part of the public navigation.
+This note records the implemented and planned website content automation. It
+is an internal development document and is not part of the public navigation.
 
 ## Source of truth
 
 ```text
 GeoEpi Hub / canonical sources
-                ↓
+                |
       website synchronization
-                ↓
+                |
  generated public presentation
 ```
 
@@ -24,13 +24,13 @@ The first research publishing path is implemented:
 
 ```text
 Hub projects/<project_id>/public.yml
-                ↓
+                |
       Hub generated/public-research.json
-                ↓
+                |
  website data/hub-public-research.json
-                ↓
+                |
        generated research/<project_id>/index.qmd
-                ↓
+                |
              Research page
 ```
 
@@ -62,32 +62,37 @@ The Hub and subproject repositories remain separate from the website source;
 scientific implementation and detailed analytical provenance stay in the
 canonical subproject repositories.
 
-## Future Zotero publication model
+## Zotero publication publishing — Phase 3A implemented
 
-The desired publication workflow is:
+The basic public publication workflow is implemented:
 
 ```text
-GeoEpi Zotero group library
-                ↓
- dedicated website collection/folder
-                ↓
-       Zotero API synchronization
-                ↓
-    generated publication metadata
-                ↓
+GeoEpi public Zotero group (6637692)
+                |
+       Zotero Web API v3
+                |
+ data/zotero-publications.json
+                |
+       publications.qmd
+                |
           Publications page
 ```
 
-The Zotero library should remain the authoritative bibliographic source. A
-later phase should determine the GeoEpi Zotero group/library ID, the collection
-key or folder used for website publications, whether all items or only tagged
-items appear, how preprints differ from published articles, how missing
-abstracts are handled, and how projects/topics are tagged.
+Zotero is the authoritative bibliographic source. Website publication files
+are generated; maintainers and scientists should edit Zotero rather than
+`publications.qmd`. Abstracts are displayed only when present in Zotero, and
+the website never fabricates or externally enriches a missing abstract. The
+public group requires no credentials while it remains public.
 
-When available in Zotero, the generated metadata may include title, authors,
-year/date, journal or source, DOI, URL, abstract, and citation metadata. The
-website must never fabricate a missing abstract. No Zotero API integration,
-credentials, or private keys are added in Phase 2.
+The entire group library is currently used because the group is dedicated to
+GeoEpi publications. The source configuration uses `collection_key: null`; a
+future specific collection key can switch the endpoint without redesigning
+the publication system.
+
+To publish an item, add or correct it in the public Zotero group, then allow
+the daily **Sync GeoEpi publications** workflow to retrieve the API v3 feed or
+run it manually. The committed snapshot and generated Publications page keep
+ordinary rendering and pull-request validation offline-safe.
 
 ## Future People page
 

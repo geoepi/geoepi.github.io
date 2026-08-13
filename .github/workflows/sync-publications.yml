@@ -1,0 +1,68 @@
+name: Sync GeoEpi publications
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "45 13 * * *"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: geoepi-website-generated-sync
+  cancel-in-progress: false
+
+jobs:
+  sync:
+    name: Refresh Zotero publications
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out website main
+        uses: actions/checkout@v4
+        with:
+          ref: main
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Run website generation tests
+        run: python -m unittest discover -s tests -v
+
+      - name: Synchronize public Zotero publications
+        run: python scripts/sync_zotero_publications.py
+
+      - name: Detect publication content changes
+        id: publication-content
+        run: |
+          if git diff --quiet -- data/zotero-publications.json publications.qmd; then
+            echo "changed=false" >> "$GITHUB_OUTPUT"
+          else
+            echo "changed=true" >> "$GITHUB_OUTPUT"
+          fi
+
+      - name: Check generated Zotero publication sources
+        run: python scripts/sync_zotero_publications.py --check
+
+      - name: Set up Quarto
+        uses: quarto-dev/quarto-actions/setup@v2
+
+      - name: Render site
+        uses: quarto-dev/quarto-actions/render@v2
+
+      - name: Discard render-only output when publications are unchanged
+        if: steps.publication-content.outputs.changed == 'false'
+        run: git restore docs/
+
+      - name: Commit changed generated publications and site output
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/zotero-publications.json publications.qmd docs/
+          if git diff --cached --quiet; then
+            echo "No generated publication or site changes."
+            exit 0
+          fi
+          git commit -m "chore(site): sync Zotero publications"
+          git push origin HEAD:main

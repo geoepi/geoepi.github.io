@@ -57,7 +57,7 @@ comments: false
 <section class="geoepi-section geoepi-explore" aria-labelledby="explore-title">
 <div class="geoepi-section-heading">
 <p class="geoepi-eyebrow">EXPLORE GEOEPI</p>
-<h2 id="explore-title">One group, three ways in.</h2>
+<h2 id="explore-title">One group, four ways in.</h2>
 </div>
 
 <div class="geoepi-navigation-grid">
@@ -65,6 +65,11 @@ comments: false
 <span class="geoepi-card-kicker">PUBLIC SCIENCE</span>
 <h3><a class="geoepi-card-link" href="pindex.qmd">Research <span aria-hidden="true">&#8599;</span></a></h3>
 <p>Selected GeoEpi research projects and public scientific outputs.</p>
+</div>
+<div class="geoepi-navigation-card">
+<span class="geoepi-card-kicker">SCIENTIFIC OUTPUTS</span>
+<h3><a class="geoepi-card-link" href="publications.qmd">Publications <span aria-hidden="true">&#8599;</span></a></h3>
+<p>Peer-reviewed and other scientific outputs maintained through the GeoEpi Zotero library.</p>
 </div>
 <div class="geoepi-navigation-card">
 <span class="geoepi-card-kicker">CURRENT ACTIVITY</span>
