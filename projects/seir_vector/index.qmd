@@ -1,6 +1,7 @@
 ---
 title: "VSV Compartmental Model SEIR-SEI"
 description: "An SEIR-SEI compartmental model model."
+image: seir.png
 date: "2024-08-18"
 categories: [Vesicular stomatitis, VSV, Stan, R, Sampling Bias, Compartmental Model]
 format:
@@ -13,8 +14,6 @@ format:
     toc-depth: 2
     number-sections: false
     html-math-method: katex
-    css: styles.css
-    theme: flatly
     toc-location: left
     smooth-scroll: true
 editor_options: 

@@ -1,51 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://github.com/geoepi/geoepi.github.io/index.html</loc>
-    <lastmod>2024-02-01T21:55:03.848Z</lastmod>
-  </url>
-  <url>
-    <loc>https://github.com/geoepi/geoepi.github.io/projects/flavi_wnv/index.html</loc>
-    <lastmod>2024-02-01T21:55:21.742Z</lastmod>
-  </url>
-  <url>
-    <loc>https://github.com/geoepi/geoepi.github.io/about.html</loc>
-    <lastmod>2024-02-01T21:56:35.174Z</lastmod>
-  </url>
-  <url>
-    <loc>https://github.com/geoepi/geoepi.github.io/pindex.html</loc>
-    <lastmod>2024-02-01T21:55:16.190Z</lastmod>
+    <loc>https://geoepi.github.io/index.html</loc>
+    <lastmod>2026-08-13T01:14:12.780Z</lastmod>
   </url>
   <url>
     <loc>https://geoepi.github.io/pindex.html</loc>
-    <lastmod>2025-08-26T23:42:44.319Z</lastmod>
-  </url>
-  <url>
-    <loc>https://geoepi.github.io/projects/flavi_wnv/index.html</loc>
-    <lastmod>2024-02-16T15:59:17.351Z</lastmod>
-  </url>
-  <url>
-    <loc>https://geoepi.github.io/index.html</loc>
-    <lastmod>2024-08-19T00:10:37.260Z</lastmod>
+    <lastmod>2026-08-13T01:14:14.126Z</lastmod>
   </url>
   <url>
     <loc>https://geoepi.github.io/about.html</loc>
-    <lastmod>2024-06-22T16:15:34.953Z</lastmod>
+    <lastmod>2026-08-13T01:14:14.958Z</lastmod>
   </url>
   <url>
-    <loc>https://geoepi.github.io/projects/vsv_epizootics/index.html</loc>
-    <lastmod>2024-08-19T00:08:58.612Z</lastmod>
-  </url>
-  <url>
-    <loc>https://geoepi.github.io/projects/vsv_epizootics/xindex.html</loc>
-    <lastmod>2024-07-11T16:26:02.830Z</lastmod>
-  </url>
-  <url>
-    <loc>https://geoepi.github.io/projects/seir_vector/index.html</loc>
-    <lastmod>2024-08-19T00:10:56.223Z</lastmod>
+    <loc>https://geoepi.github.io/projects/flavi_wnv/index.html</loc>
+    <lastmod>2026-08-13T01:14:17.860Z</lastmod>
   </url>
   <url>
     <loc>https://geoepi.github.io/projects/fmd_preclinical_spread/index.html</loc>
-    <lastmod>2025-08-26T23:42:38.232Z</lastmod>
+    <lastmod>2026-08-13T01:14:18.992Z</lastmod>
+  </url>
+  <url>
+    <loc>https://geoepi.github.io/projects/seir_vector/index.html</loc>
+    <lastmod>2026-08-13T01:14:21.402Z</lastmod>
+  </url>
+  <url>
+    <loc>https://geoepi.github.io/projects/vsv_epizootics/index.html</loc>
+    <lastmod>2026-08-13T01:14:22.977Z</lastmod>
   </url>
 </urlset>

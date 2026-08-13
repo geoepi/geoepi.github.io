@@ -1,6 +1,7 @@
 ---
 title: "VSV Genomes & Geography"
 description: "VSV Outbreak phylogeography, phylodynamics, and spatiotemporal modeling."
+image: phylogeog.jpg
 date: "2024-07-11"
 categories: [Vesicular stomatitis, VSV, R, Phylogeography, Phylodynamics, Preferential Sampling]
 format:
@@ -13,8 +14,6 @@ format:
     toc-depth: 2
     number-sections: false
     html-math-method: katex
-    css: styles.css
-    theme: flatly
     toc-location: left
     smooth-scroll: true
 editor_options: 

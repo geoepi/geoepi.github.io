@@ -1,34 +1,21 @@
 ---
 title: "Research"
-#subtitle: "Past, current, and aspiring projects"
+subtitle: "Selected GeoEpi research"
 link-external-newwindow: true
 listing:
-  contents: 
+  contents:
     - "projects/*/index.qmd"
-   # - aliases: https://geoepi.github.io/vs-epizootics/overview
-    #  image: /projects/vsv_epizootics/phylogeog.jpg
-    #  title: "VSV Genomes & Geography"
-    #  description: "VSV Outbreak phylogeography, phylodynamics, and spatiotemporal modeling."
-   #   date: "2024-07-11"
-   #   categories: [Vesicular stomatitis, VSV, R, Phylogeography, Phylodynamics, Preferential Sampling]
-  fields: [image, date, title, reading-time, description, file-modified]
+  fields: [image, title, description, categories]
   field-display-names:
-    file-modified: "Updated"
-  sort: "date desc"
+    categories: "Topics"
+  sort: "title asc"
   type: grid
   categories: numbered
-  sort-ui: [date, file-modified]
-  filter-ui: false
-  feed: 
-    categories: R
-    items: 10
-  page-size: 10
+  sort-ui: false
+  filter-ui: true
+  page-size: 12
 page-layout: full
-title-block-banner: true
 comments: false
-date-format: medium
-author: ""
-date-modified: ""
 ---
 
-#### [Group projects]{.third-color}, vignettes, and other research items
+The page collects selected public research records from the current site. It is a portfolio view of existing content, not a complete representation of all current GeoEpi work. Follow each card for the authoritative project page or external product.
