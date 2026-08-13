@@ -37,6 +37,20 @@ class FeedValidationTests(unittest.TestCase):
         feed["projects"][0]["current_focus"] = "private"
         self.assertTrue(any("operational field" in error for error in sync.validate_feed(feed)))
 
+    def test_missing_repository_visibility_rejected(self):
+        feed = fixture_feed()
+        del feed["projects"][0]["subprojects"][0]["repository_visibility"]
+        self.assertTrue(
+            any("repository_visibility" in error for error in sync.validate_feed(feed))
+        )
+
+    def test_invalid_repository_visibility_rejected(self):
+        feed = fixture_feed()
+        feed["projects"][0]["subprojects"][0]["repository_visibility"] = "unknown"
+        self.assertTrue(
+            any("repository_visibility" in error for error in sync.validate_feed(feed))
+        )
+
 
 class GenerationTests(unittest.TestCase):
     def test_project_order_is_deterministic(self):
@@ -71,6 +85,45 @@ class GenerationTests(unittest.TestCase):
         self.assertNotIn("current_focus", page)
         self.assertNotIn("milestone", page)
         self.assertNotIn("compute", page)
+
+    def test_public_repository_name_and_direct_link_render(self):
+        project = fixture_feed()["projects"][0]
+        project["subprojects"] = [project["subprojects"][1]]
+        page = sync.generate_project_page(project)
+        self.assertIn("geoepi/alpha-one", page)
+        self.assertIn('href="https://github.com/geoepi/alpha-one"', page)
+        self.assertNotIn("Access currently restricted", page)
+        self.assertNotIn("repository-access.html", page)
+
+    def test_private_repository_is_restricted_without_direct_link(self):
+        page = sync.generate_project_page(fixture_feed()["projects"][0])
+        self.assertIn("geoepi/alpha-two", page)
+        self.assertIn("Access currently restricted", page)
+        self.assertIn("../../repository-access.html", page)
+        self.assertNotIn('href="https://github.com/geoepi/alpha-two"', page)
+
+    def test_internal_repository_uses_restricted_behavior(self):
+        feed = fixture_feed()
+        feed["projects"][0]["subprojects"][1]["repository_visibility"] = "internal"
+        page = sync.generate_project_page(feed["projects"][0])
+        self.assertIn("geoepi/alpha-two", page)
+        self.assertIn("Access currently restricted", page)
+        self.assertNotIn('href="https://github.com/geoepi/alpha-two"', page)
+
+    def test_visibility_transition_switches_rendered_behavior(self):
+        feed = fixture_feed()
+        project = feed["projects"][0]
+        project["subprojects"] = [project["subprojects"][0]]
+        private_page = sync.generate_project_page(project)
+        project["subprojects"][0]["repository_visibility"] = "public"
+        public_page = sync.generate_project_page(project)
+        self.assertIn("Access currently restricted", private_page)
+        self.assertNotIn("Access currently restricted", public_page)
+        self.assertIn('href="https://github.com/geoepi/alpha-two"', public_page)
+
+    def test_repository_access_page_is_in_render_configuration(self):
+        quarto = (Path(__file__).parents[1] / "_quarto.yml").read_text(encoding="utf-8")
+        self.assertIn("repository-access.qmd", quarto)
 
     def test_no_image_and_no_links_render_cleanly(self):
         page = sync.generate_project_page(fixture_feed()["projects"][1])

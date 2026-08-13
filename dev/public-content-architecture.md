@@ -63,6 +63,18 @@ scientific implementation and detailed analytical provenance stay in the
 canonical subproject repositories.
 
 ## Zotero publication publishing — Phase 3A implemented
+## Canonical repository visibility
+
+Canonical repository visibility is detected automatically by the trusted Hub
+refresh. Scientists do not maintain repository visibility metadata, and
+`.geoepi.yml` remains unchanged. GitHub repository visibility is authoritative.
+
+Public repositories retain a direct GitHub link on the research page. For
+restricted repositories, the canonical repository name remains visible and
+the public visitor is routed to the generic repository-access information
+page. Changing repository visibility automatically updates the public site
+after the normal Hub and website synchronization steps.
+
 
 The basic public publication workflow is implemented:
 
