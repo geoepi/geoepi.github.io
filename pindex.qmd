@@ -4,9 +4,10 @@ subtitle: "Selected GeoEpi research"
 link-external-newwindow: true
 listing:
   contents:
-    - "projects/*/index.qmd"
-  fields: [image, title, description, categories]
+    - "research/*/index.qmd"
+  fields: [image, title, description, content_status, categories]
   field-display-names:
+    content_status: "Review status"
     categories: "Topics"
   sort: "title asc"
   type: grid
@@ -18,4 +19,4 @@ page-layout: full
 comments: false
 ---
 
-The page collects selected public research records from the current site. It is a portfolio view of existing content, not a complete representation of all current GeoEpi work. Follow each card for the authoritative project page or external product.
+GeoEpi research projects are published from curated public project records maintained in the [GeoEpi Hub](https://github.com/geoepi/geoepi-hub). Individual analytical subprojects remain documented in their canonical repositories. This generated portfolio is not a complete representation of all current GeoEpi work.

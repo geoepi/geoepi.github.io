@@ -1,0 +1,51 @@
+{
+  "schema_version": 1,
+  "source": "geoepi/geoepi-hub",
+  "projects": [
+    {
+      "project_id": "alpha-project",
+      "title": "Alpha Project",
+      "short_summary": "A reviewed project summary.",
+      "abstract": "A reviewed project description.",
+      "content_status": "reviewed",
+      "themes": ["geography", "modeling"],
+      "keywords": ["alpha"],
+      "featured": false,
+      "image": null,
+      "links": [],
+      "hub_url": "https://github.com/geoepi/geoepi-hub/tree/main/projects/alpha-project",
+      "subprojects": [
+        {
+          "subproject_id": "alpha-two",
+          "title": "Alpha second analysis",
+          "summary": "Second associated analysis.",
+          "repository": "geoepi/alpha-two",
+          "repository_url": "https://github.com/geoepi/alpha-two",
+          "status": "paused"
+        },
+        {
+          "subproject_id": "alpha-one",
+          "title": "Alpha first analysis",
+          "summary": "First associated analysis.",
+          "repository": "geoepi/alpha-one",
+          "repository_url": "https://github.com/geoepi/alpha-one",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "project_id": "scaffold-project",
+      "title": "Scaffold Project",
+      "short_summary": "A scaffold project summary.",
+      "abstract": "A scaffold project description.",
+      "content_status": "scaffold",
+      "themes": ["ecology"],
+      "keywords": ["scaffold"],
+      "featured": false,
+      "image": null,
+      "links": [],
+      "hub_url": "https://github.com/geoepi/geoepi-hub/tree/main/projects/scaffold-project",
+      "subprojects": []
+    }
+  ]
+}

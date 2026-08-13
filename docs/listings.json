@@ -2,10 +2,14 @@
   {
     "listing": "/pindex.html",
     "items": [
-      "/projects/fmd_preclinical_spread/index.html",
-      "/projects/flavi_wnv/index.html",
-      "/projects/seir_vector/index.html",
-      "/projects/vsv_epizootics/index.html"
+      "/research/asf-risk/index.html",
+      "/research/asf-swine/index.html",
+      "/research/hpai-plume/index.html",
+      "/research/fmd-risk/index.html",
+      "/research/nws-risk/index.html",
+      "/research/fmd-patho/index.html",
+      "/research/vsv-risk/index.html",
+      "/research/wnv-risk/index.html"
     ]
   }
 ]

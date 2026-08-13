@@ -7,3 +7,6 @@
 
 # working files
 /assets
+
+# Python test caches
+__pycache__/
