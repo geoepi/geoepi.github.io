@@ -1,7 +1,15 @@
-# The GeoEpi Research Group landing page.
-## [GeoEpi Website](https://geoepi.github.io/)
+# GeoEpi Research Group website
 
-Page design inspired by [Quantum Jitter](https://www.quantumjitter.com/)
+The public site is a Quarto website published from the generated `docs/`
+directory: [GeoEpi Website](https://geoepi.github.io/).
+
+- Research pages are synchronized from public metadata in
+  [GeoEpi Hub](https://github.com/geoepi/geoepi-hub).
+- Publications are synchronized from the public GeoEpi Zotero group.
+- Generated research, publication, and `docs/` files should not be hand-edited;
+  use the synchronization scripts and rerender the site instead.
+
+Page design inspired by [Quantum Jitter](https://www.quantumjitter.com/).
 
 ## Maintainer note: publications
 
