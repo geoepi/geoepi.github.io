@@ -8,13 +8,17 @@ format:
 comments: false
 ---
 
-<div class="geoepi-page-intro">
-<p class="geoepi-eyebrow">ABOUT GEOEPI</p>
+::: geoepi-page-intro
+<p class="geoepi-eyebrow">
 
-# A scientific group focused on animal disease systems
+ABOUT GEOEPI
+
+</p>
+
+# A research group focused on animal disease systems
 
 GeoEpi (Geographical Epidemiology) is a research group studying the ecology, transmission, spread, and management of animal diseases. Our work connects molecular and landscape perspectives to investigate foreign, transboundary, emerging, and zoonotic animal diseases.
-</div>
+:::
 
 ## How we work
 
