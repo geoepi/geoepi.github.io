@@ -1,0 +1,81 @@
+---
+title: "NWS Risk and Operational Decision Assessment"
+description: "Build automated tools to assess NWS risk and support APHIS operational decision making."
+categories: ["epidemiology", "modeling"]
+content_status: scaffold
+page-layout: full
+comments: false
+---
+
+<div class="geoepi-generated-project">
+<p class="geoepi-eyebrow">HUB-GENERATED RESEARCH</p>
+# NWS Risk and Operational Decision Assessment
+
+<p class="geoepi-scaffold-status">Scaffold project summary</p>
+
+<p class="geoepi-scaffold-note">This summary was assembled from current GeoEpi project metadata and is pending project-level review.</p>
+
+<p class="geoepi-project-summary">Build automated tools to assess NWS risk and support APHIS operational decision making.</p>
+
+## Abstract
+
+This GeoEpi project brings together automated tools for NWS risk assessment and support of APHIS operational decision making. Registered work includes geostatistical modeling, cellular automata, data processing, dashboard pipelines, and a group NWS repository.
+
+## Themes and topics
+
+<div class="geoepi-project-tags">
+<span class="geoepi-project-tag">epidemiology</span>
+<span class="geoepi-project-tag">modeling</span>
+<span class="geoepi-project-tag">NWS risk</span>
+<span class="geoepi-project-tag">risk assessment</span>
+<span class="geoepi-project-tag">operational decision making</span>
+<span class="geoepi-project-tag">automated tools</span>
+</div>
+
+## Associated subprojects
+
+<div class="geoepi-subproject-grid">
+<article class="geoepi-subproject-card">
+### Bayesian NWS Geostatistical Model
+
+Summary not provided.
+
+<a href="https://github.com/geoepi/hominivorax-geostat">Canonical repository <span aria-hidden="true">&#8599;</span></a>
+
+</article>
+<article class="geoepi-subproject-card">
+### NWS Cellular Automata
+
+Summary not provided.
+
+<a href="https://github.com/geoepi/hominivorax-CA">Canonical repository <span aria-hidden="true">&#8599;</span></a>
+
+</article>
+<article class="geoepi-subproject-card">
+### Pipeline for CDS Data Processing
+
+Summary not provided.
+
+<a href="https://github.com/geoepi/cds-datagrab">Canonical repository <span aria-hidden="true">&#8599;</span></a>
+
+</article>
+<article class="geoepi-subproject-card">
+### Pipeline for NWS Dashboard
+
+Summary not provided.
+
+<a href="https://github.com/geoepi/nws-postprocessing">Canonical repository <span aria-hidden="true">&#8599;</span></a>
+
+</article>
+<article class="geoepi-subproject-card">
+### Group NWS Repository
+
+Summary not provided.
+
+<a href="https://github.com/geoepi/NWScrewworm">Canonical repository <span aria-hidden="true">&#8599;</span></a>
+
+</article>
+</div>
+
+<p class="geoepi-authority-link"><a href="https://github.com/geoepi/geoepi-hub/tree/main/projects/nws-risk">Authoritative Hub project record <span aria-hidden="true">&#8599;</span></a></p>
+</div>

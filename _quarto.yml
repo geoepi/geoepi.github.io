@@ -5,7 +5,8 @@ project:
     - index.qmd
     - pindex.qmd
     - about.qmd
-    - projects
+    - "research/*/index.qmd"
+    - "projects/*/index.qmd"
 
 execute:
   freeze: auto

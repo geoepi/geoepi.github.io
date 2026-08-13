@@ -18,38 +18,49 @@ The GeoEpi Hub should describe current project activity and portfolio state.
 The GeoEpi Lab Book should describe how the group works. The website should
 not become another manually maintained source of project truth.
 
-## Future research publication model
+## Hub-generated research publishing
 
-The current `projects/*/index.qmd` records are retained as a temporary Phase 1
-content source. A future system should allow the GeoEpi Hub to own project
-identity and public project context, while each canonical subproject repository
-owns scientific implementation and detailed subproject documentation. The
-group website would publish generated public-facing summaries.
+The first research publishing path is implemented:
 
-One option to evaluate later is a project-level public record such as
-`projects/<project_id>/public.yml` (or another clearly named metadata file)
-with fields such as:
-
-```yaml
-schema_version:
-project_id:
-title:
-short_summary:
-abstract:
-image:
-keywords:
-featured:
-links:
+```text
+Hub projects/<project_id>/public.yml
+                ↓
+      Hub generated/public-research.json
+                ↓
+ website data/hub-public-research.json
+                ↓
+       generated research/<project_id>/index.qmd
+                ↓
+             Research page
 ```
 
-This is an architectural proposal only. Do not add these fields to
-`.geoepi.yml` Version 1. That file should remain portfolio-state metadata;
-public research narrative belongs at the project/publication level. Project
-scientists could update a Hub record through normal pull requests, and the
-website could render those records automatically.
+The Hub is authoritative for public project identity and narrative. Its
+`public.yml` Version 1 schema is separate from `.geoepi.yml` Version 1, which
+remains portfolio-state metadata. Only `publish: true` records enter the
+public feed. `content_status: scaffold` identifies wording that still needs
+project-level review; `content_status: reviewed` indicates that a scientist
+has reviewed the public record.
 
-The Hub and subproject repositories are intentionally outside the scope of
-this phase.
+To update a public project description:
+
+1. Edit `projects/<project_id>/public.yml` in `geoepi/geoepi-hub`.
+2. Validate and merge the Hub change.
+3. Allow or manually run Hub synchronization.
+4. Allow or manually run website research synchronization.
+5. Verify the generated Research page.
+
+The website consumes the committed snapshot at
+`data/hub-public-research.json` and generated pages under `research/`. Do not
+edit generated website `research/` pages directly. The authoritative editable
+record is the Hub `public.yml`; the website sync workflow retrieves the public
+Hub feed explicitly and does not fetch it during ordinary Quarto rendering.
+
+Legacy `projects/*` pages remain rendered for historical URLs and redirects,
+but they no longer power the Research listing.
+
+The Hub and subproject repositories remain separate from the website source;
+scientific implementation and detailed analytical provenance stay in the
+canonical subproject repositories.
 
 ## Future Zotero publication model
 
@@ -76,7 +87,7 @@ abstracts are handled, and how projects/topics are tagged.
 When available in Zotero, the generated metadata may include title, authors,
 year/date, journal or source, DOI, URL, abstract, and citation metadata. The
 website must never fabricate a missing abstract. No Zotero API integration,
-credentials, or private keys are added in Phase 1.
+credentials, or private keys are added in Phase 2.
 
 ## Future People page
 

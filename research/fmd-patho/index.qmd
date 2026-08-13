@@ -1,0 +1,72 @@
+---
+title: "Patho-epidemiological Analyses of Foot-and-mouth Disease."
+description: "Studies incorporating FMD genomics, within-host dynamics, or animal experiment results."
+categories: ["epidemiology"]
+content_status: scaffold
+page-layout: full
+comments: false
+---
+
+<div class="geoepi-generated-project">
+<p class="geoepi-eyebrow">HUB-GENERATED RESEARCH</p>
+# Patho-epidemiological Analyses of Foot-and-mouth Disease.
+
+<p class="geoepi-scaffold-status">Scaffold project summary</p>
+
+<p class="geoepi-scaffold-note">This summary was assembled from current GeoEpi project metadata and is pending project-level review.</p>
+
+<p class="geoepi-project-summary">Studies incorporating FMD genomics, within-host dynamics, or animal experiment results.</p>
+
+## Abstract
+
+This GeoEpi project brings together studies incorporating foot-and-mouth disease genomics, within-host dynamics, or animal experiment results. Registered work includes an agent-based disease transmission model, sequence mapping, incubation-phase transmission, and FMDV co-infection and recombination.
+
+## Themes and topics
+
+<div class="geoepi-project-tags">
+<span class="geoepi-project-tag">epidemiology</span>
+<span class="geoepi-project-tag">foot-and-mouth disease</span>
+<span class="geoepi-project-tag">genomics</span>
+<span class="geoepi-project-tag">within-host dynamics</span>
+<span class="geoepi-project-tag">animal experiments</span>
+</div>
+
+## Associated subprojects
+
+<div class="geoepi-subproject-grid">
+<article class="geoepi-subproject-card">
+### challengeABM an Agent-Based Disease Transmission Model
+
+Summary not provided.
+
+<a href="https://github.com/geoepi/challengeABM">Canonical repository <span aria-hidden="true">&#8599;</span></a>
+
+</article>
+<article class="geoepi-subproject-card">
+### Incubation Phase Transmission of Foot-and-mouth Disease
+
+Summary not provided.
+
+<a href="https://github.com/geoepi/fmdv-preclinical">Canonical repository <span aria-hidden="true">&#8599;</span></a>
+
+</article>
+<article class="geoepi-subproject-card">
+### FMDV Co-Infection and Recombination
+
+Summary not provided.
+
+<a href="https://github.com/geoepi/pak-coinfection">Canonical repository <span aria-hidden="true">&#8599;</span></a>
+
+</article>
+<article class="geoepi-subproject-card">
+### Mapping Virus Diversity and Variation
+
+Summary not provided.
+
+<a href="https://github.com/geoepi/sequence-map">Canonical repository <span aria-hidden="true">&#8599;</span></a>
+
+</article>
+</div>
+
+<p class="geoepi-authority-link"><a href="https://github.com/geoepi/geoepi-hub/tree/main/projects/fmd-patho">Authoritative Hub project record <span aria-hidden="true">&#8599;</span></a></p>
+</div>

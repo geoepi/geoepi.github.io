@@ -1,0 +1,66 @@
+---
+title: "Foot-and-mouth Disease Risk Assessments"
+description: "Foot-and-mouth spread dynamics, transmission, and simulated response analyses."
+categories: ["geography", "epidemiology", "modeling"]
+content_status: scaffold
+page-layout: full
+comments: false
+---
+
+<div class="geoepi-generated-project">
+<p class="geoepi-eyebrow">HUB-GENERATED RESEARCH</p>
+# Foot-and-mouth Disease Risk Assessments
+
+<p class="geoepi-scaffold-status">Scaffold project summary</p>
+
+<p class="geoepi-scaffold-note">This summary was assembled from current GeoEpi project metadata and is pending project-level review.</p>
+
+<p class="geoepi-project-summary">Foot-and-mouth spread dynamics, transmission, and simulated response analyses.</p>
+
+## Abstract
+
+This GeoEpi project brings together work on foot-and-mouth disease spread dynamics, transmission, and simulated response analyses. Registered work includes preclinical spread, control-zone design in Sri Lanka, and endemic foot-and-mouth disease analyses for Vietnam.
+
+## Themes and topics
+
+<div class="geoepi-project-tags">
+<span class="geoepi-project-tag">geography</span>
+<span class="geoepi-project-tag">epidemiology</span>
+<span class="geoepi-project-tag">modeling</span>
+<span class="geoepi-project-tag">foot-and-mouth disease</span>
+<span class="geoepi-project-tag">spread dynamics</span>
+<span class="geoepi-project-tag">transmission</span>
+<span class="geoepi-project-tag">simulated response</span>
+</div>
+
+## Associated subprojects
+
+<div class="geoepi-subproject-grid">
+<article class="geoepi-subproject-card">
+### Epidemiologic consequences of preclinical transmission of foot-and-mouth disease virus in cattle
+
+Summary not provided.
+
+<a href="https://github.com/geoepi/FMD-preclinical-spread">Canonical repository <span aria-hidden="true">&#8599;</span></a>
+
+</article>
+<article class="geoepi-subproject-card">
+### Designing Control Zones for Foot-and-mouth Disease in Sri Lanka
+
+Summary not provided.
+
+<a href="https://github.com/geoepi/sri-lanka-fmd">Canonical repository <span aria-hidden="true">&#8599;</span></a>
+
+</article>
+<article class="geoepi-subproject-card">
+### Endemic FMD analyses for Vietnam
+
+Summary not provided.
+
+<a href="https://github.com/geoepi/fmd-vietnam">Canonical repository <span aria-hidden="true">&#8599;</span></a>
+
+</article>
+</div>
+
+<p class="geoepi-authority-link"><a href="https://github.com/geoepi/geoepi-hub/tree/main/projects/fmd-risk">Authoritative Hub project record <span aria-hidden="true">&#8599;</span></a></p>
+</div>

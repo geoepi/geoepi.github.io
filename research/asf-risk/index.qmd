@@ -1,0 +1,47 @@
+---
+title: "African Swine Fever Risk"
+description: "Model-based analyses for African Swine Fever risk assessment."
+categories: ["epidemiology", "modeling"]
+content_status: scaffold
+page-layout: full
+comments: false
+---
+
+<div class="geoepi-generated-project">
+<p class="geoepi-eyebrow">HUB-GENERATED RESEARCH</p>
+# African Swine Fever Risk
+
+<p class="geoepi-scaffold-status">Scaffold project summary</p>
+
+<p class="geoepi-scaffold-note">This summary was assembled from current GeoEpi project metadata and is pending project-level review.</p>
+
+<p class="geoepi-project-summary">Model-based analyses for African Swine Fever risk assessment.</p>
+
+## Abstract
+
+This GeoEpi project brings together work on model-based analyses for African Swine Fever risk assessment. The project currently includes registered analytical work under the ASF-GBRTs subproject.
+
+## Themes and topics
+
+<div class="geoepi-project-tags">
+<span class="geoepi-project-tag">epidemiology</span>
+<span class="geoepi-project-tag">modeling</span>
+<span class="geoepi-project-tag">African Swine Fever</span>
+<span class="geoepi-project-tag">risk assessment</span>
+</div>
+
+## Associated subprojects
+
+<div class="geoepi-subproject-grid">
+<article class="geoepi-subproject-card">
+### Sensitivity to Epidemiological Traits of ASF Strains
+
+Summary not provided.
+
+<a href="https://github.com/geoepi/ASF-GBRTs">Canonical repository <span aria-hidden="true">&#8599;</span></a>
+
+</article>
+</div>
+
+<p class="geoepi-authority-link"><a href="https://github.com/geoepi/geoepi-hub/tree/main/projects/asf-risk">Authoritative Hub project record <span aria-hidden="true">&#8599;</span></a></p>
+</div>

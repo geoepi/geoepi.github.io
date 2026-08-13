@@ -11,7 +11,7 @@
     "href": "pindex.html",
     "title": "Research",
     "section": "",
-    "text": "The page collects selected public research records from the current site. It is a portfolio view of existing content, not a complete representation of all current GeoEpi work. Follow each card for the authoritative project page or external product.\n\n\n\n\n\n\n    \n      \n      \n    \n\n\n\n\n\n\n\n\n\n\nFMD Preclinical Spread\n\n\n\nFoot-and-mouth disease virus\n\n\nFMDV\n\n\nR\n\n\nInterSpread Plus\n\n\nISP\n\n\n\nDemonstrative workflow of transmission analyses for FMDV spread model in InterSpread Plus.\n\n\n\n\n\n\n\n\n\n\n\n\n\nFlavivirus Project\n\n\n\nFlavivirus\n\n\nWNV\n\n\nR\n\n\nMachine Learning\n\n\n\nJust a webpage test\n\n\n\n\n\n\n\n\n\n\n\n\n\nVSV Compartmental Model SEIR-SEI\n\n\n\nVesicular stomatitis\n\n\nVSV\n\n\nStan\n\n\nR\n\n\nSampling Bias\n\n\nCompartmental Model\n\n\n\nAn SEIR-SEI compartmental model model.\n\n\n\n\n\n\n\n\n\n\n\n\n\nVSV Genomes & Geography\n\n\n\nVesicular stomatitis\n\n\nVSV\n\n\nR\n\n\nPhylogeography\n\n\nPhylodynamics\n\n\nPreferential Sampling\n\n\n\nVSV Outbreak phylogeography, phylodynamics, and spatiotemporal modeling.\n\n\n\n\n\n\n\nNo matching items"
+    "text": "GeoEpi research projects are published from curated public project records maintained in the GeoEpi Hub. Individual analytical subprojects remain documented in their canonical repositories. This generated portfolio is not a complete representation of all current GeoEpi work.\n\n\n\n\n\n\n    \n      \n      \n    \n\n\n\n\n\n\n \n\n\n\nAfrican Swine Fever Risk\n\n\n\nepidemiology\n\n\nmodeling\n\n\n\nModel-based analyses for African Swine Fever risk assessment.\n\n\n\n\n\nReview status\n\n\nscaffold\n\n\n\n\n\n\n\n\n\n\n\n\n \n\n\n\nAfrican Swine Fever Transmission by Feral Swine\n\n\n\ngeography\n\n\nepidemiology\n\n\necology\n\n\n\nMovement and genomic studies of ASF in feral swine.\n\n\n\n\n\nReview status\n\n\nscaffold\n\n\n\n\n\n\n\n\n\n\n\n\n \n\n\n\nAtmospheric Dispersion of HPAI\n\n\n\ngeography\n\n\nepidemiology\n\n\n\nRetrospective analysis of atmospheric HPAI transport between poultry facilities.\n\n\n\n\n\nReview status\n\n\nscaffold\n\n\n\n\n\n\n\n\n\n\n\n\n \n\n\n\nFoot-and-mouth Disease Risk Assessments\n\n\n\ngeography\n\n\nepidemiology\n\n\nmodeling\n\n\n\nFoot-and-mouth spread dynamics, transmission, and simulated response analyses.\n\n\n\n\n\nReview status\n\n\nscaffold\n\n\n\n\n\n\n\n\n\n\n\n\n \n\n\n\nNWS Risk and Operational Decision Assessment\n\n\n\nepidemiology\n\n\nmodeling\n\n\n\nBuild automated tools to assess NWS risk and support APHIS operational decision making.\n\n\n\n\n\nReview status\n\n\nscaffold\n\n\n\n\n\n\n\n\n\n\n\n\n \n\n\n\nPatho-epidemiological Analyses of Foot-and-mouth Disease.\n\n\n\nepidemiology\n\n\n\nStudies incorporating FMD genomics, within-host dynamics, or animal experiment results.\n\n\n\n\n\nReview status\n\n\nscaffold\n\n\n\n\n\n\n\n\n\n\n\n\n \n\n\n\nVesicular Stomatitis Virus Risk Assessments\n\n\n\ngeography\n\n\nepidemiology\n\n\nmodeling\n\n\n\nModels and analyses focussed on VSV risks to the United States.\n\n\n\n\n\nReview status\n\n\nscaffold\n\n\n\n\n\n\n\n\n\n\n\n\n \n\n\n\nWest Nile Virus Risk Assessments for Livestock\n\n\n\nepidemiology\n\n\nmodeling\n\n\n\nModels and analyses examining WNV risk to U.S. livestock.\n\n\n\n\n\nReview status\n\n\nscaffold\n\n\n\n\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "about.html",
@@ -33,6 +33,62 @@
     "title": "About the GeoEpi Group",
     "section": "Find GeoEpi elsewhere",
     "text": "Find GeoEpi elsewhere\n\nGeoEpi GitHub organization\nOpen Science Framework\nGeoEpi site source"
+  },
+  {
+    "objectID": "research/asf-risk/index.html",
+    "href": "research/asf-risk/index.html",
+    "title": "African Swine Fever Risk",
+    "section": "",
+    "text": "HUB-GENERATED RESEARCH\n\n\n\n\nScaffold project summary\n\n\nThis summary was assembled from current GeoEpi project metadata and is pending project-level review.\n\n\nModel-based analyses for African Swine Fever risk assessment.\n\n\n\nThis GeoEpi project brings together work on model-based analyses for African Swine Fever risk assessment. The project currently includes registered analytical work under the ASF-GBRTs subproject.\n\n\n\n\nepidemiology modeling African Swine Fever risk assessment\n\n\n\n\n\n\n\n\nSummary not provided.\nCanonical repository ↗\nAuthoritative Hub project record ↗"
+  },
+  {
+    "objectID": "research/asf-swine/index.html",
+    "href": "research/asf-swine/index.html",
+    "title": "African Swine Fever Transmission by Feral Swine",
+    "section": "",
+    "text": "HUB-GENERATED RESEARCH\n\n\n\n\nScaffold project summary\n\n\nThis summary was assembled from current GeoEpi project metadata and is pending project-level review.\n\n\nMovement and genomic studies of ASF in feral swine.\n\n\n\nThis GeoEpi project brings together movement and genomic studies of African Swine Fever in feral swine. Registered project work includes studies of swine movement and social cohesion and simulation of feral swine pedigrees based on admixture analysis.\n\n\n\n\ngeography epidemiology ecology African Swine Fever feral swine movement genomics\n\n\n\n\n\n\n\n\nSummary not provided.\nCanonical repository ↗\n\n\n\n\n\nSummary not provided.\nCanonical repository ↗\nAuthoritative Hub project record ↗"
+  },
+  {
+    "objectID": "research/fmd-patho/index.html",
+    "href": "research/fmd-patho/index.html",
+    "title": "Patho-epidemiological Analyses of Foot-and-mouth Disease.",
+    "section": "",
+    "text": "HUB-GENERATED RESEARCH\n\n\n\n\nScaffold project summary\n\n\nThis summary was assembled from current GeoEpi project metadata and is pending project-level review.\n\n\nStudies incorporating FMD genomics, within-host dynamics, or animal experiment results.\n\n\n\nThis GeoEpi project brings together studies incorporating foot-and-mouth disease genomics, within-host dynamics, or animal experiment results. Registered work includes an agent-based disease transmission model, sequence mapping, incubation-phase transmission, and FMDV co-infection and recombination.\n\n\n\n\nepidemiology foot-and-mouth disease genomics within-host dynamics animal experiments\n\n\n\n\n\n\n\n\nSummary not provided.\nCanonical repository ↗\n\n\n\n\n\nSummary not provided.\nCanonical repository ↗\n\n\n\n\n\nSummary not provided.\nCanonical repository ↗\n\n\n\n\n\nSummary not provided.\nCanonical repository ↗\nAuthoritative Hub project record ↗"
+  },
+  {
+    "objectID": "research/fmd-risk/index.html",
+    "href": "research/fmd-risk/index.html",
+    "title": "Foot-and-mouth Disease Risk Assessments",
+    "section": "",
+    "text": "HUB-GENERATED RESEARCH\n\n\n\n\nScaffold project summary\n\n\nThis summary was assembled from current GeoEpi project metadata and is pending project-level review.\n\n\nFoot-and-mouth spread dynamics, transmission, and simulated response analyses.\n\n\n\nThis GeoEpi project brings together work on foot-and-mouth disease spread dynamics, transmission, and simulated response analyses. Registered work includes preclinical spread, control-zone design in Sri Lanka, and endemic foot-and-mouth disease analyses for Vietnam.\n\n\n\n\ngeography epidemiology modeling foot-and-mouth disease spread dynamics transmission simulated response\n\n\n\n\n\n\n\n\nSummary not provided.\nCanonical repository ↗\n\n\n\n\n\nSummary not provided.\nCanonical repository ↗\n\n\n\n\n\nSummary not provided.\nCanonical repository ↗\nAuthoritative Hub project record ↗"
+  },
+  {
+    "objectID": "research/hpai-plume/index.html",
+    "href": "research/hpai-plume/index.html",
+    "title": "Atmospheric Dispersion of HPAI",
+    "section": "",
+    "text": "HUB-GENERATED RESEARCH\n\n\n\n\nScaffold project summary\n\n\nThis summary was assembled from current GeoEpi project metadata and is pending project-level review.\n\n\nRetrospective analysis of atmospheric HPAI transport between poultry facilities.\n\n\n\nThis GeoEpi project brings together retrospective analysis of atmospheric HPAI transport between poultry facilities. Registered work includes an atmospheric dispersion project, HPAI visualization and analyses, and tools for the Biosecurity Compliance Audit Program.\n\n\n\n\ngeography epidemiology HPAI atmospheric dispersion poultry facilities transport\n\n\n\n\n\n\n\n\nSummary not provided.\nCanonical repository ↗\n\n\n\n\n\nSummary not provided.\nCanonical repository ↗\n\n\n\n\n\nSummary not provided.\nCanonical repository ↗\nAuthoritative Hub project record ↗"
+  },
+  {
+    "objectID": "research/nws-risk/index.html",
+    "href": "research/nws-risk/index.html",
+    "title": "NWS Risk and Operational Decision Assessment",
+    "section": "",
+    "text": "HUB-GENERATED RESEARCH\n\n\n\n\nScaffold project summary\n\n\nThis summary was assembled from current GeoEpi project metadata and is pending project-level review.\n\n\nBuild automated tools to assess NWS risk and support APHIS operational decision making.\n\n\n\nThis GeoEpi project brings together automated tools for NWS risk assessment and support of APHIS operational decision making. Registered work includes geostatistical modeling, cellular automata, data processing, dashboard pipelines, and a group NWS repository.\n\n\n\n\nepidemiology modeling NWS risk risk assessment operational decision making automated tools\n\n\n\n\n\n\n\n\nSummary not provided.\nCanonical repository ↗\n\n\n\n\n\nSummary not provided.\nCanonical repository ↗\n\n\n\n\n\nSummary not provided.\nCanonical repository ↗\n\n\n\n\n\nSummary not provided.\nCanonical repository ↗\n\n\n\n\n\nSummary not provided.\nCanonical repository ↗\nAuthoritative Hub project record ↗"
+  },
+  {
+    "objectID": "research/vsv-risk/index.html",
+    "href": "research/vsv-risk/index.html",
+    "title": "Vesicular Stomatitis Virus Risk Assessments",
+    "section": "",
+    "text": "HUB-GENERATED RESEARCH\n\n\n\n\nScaffold project summary\n\n\nThis summary was assembled from current GeoEpi project metadata and is pending project-level review.\n\n\nModels and analyses focussed on VSV risks to the United States.\n\n\n\nThis GeoEpi project brings together models and analyses focused on vesicular stomatitis virus risks to the United States. Registered work includes an SEIR-SEI outbreak model, genome and geography analyses, and a California outbreak project.\n\n\n\n\ngeography epidemiology modeling vesicular stomatitis virus risk assessment SEIR-SEI genomes\n\n\n\n\n\n\n\n\nSummary not provided.\nCanonical repository ↗\n\n\n\n\n\nSummary not provided.\nCanonical repository ↗\n\n\n\n\n\nSummary not provided.\nCanonical repository ↗\nAuthoritative Hub project record ↗"
+  },
+  {
+    "objectID": "research/wnv-risk/index.html",
+    "href": "research/wnv-risk/index.html",
+    "title": "West Nile Virus Risk Assessments for Livestock",
+    "section": "",
+    "text": "HUB-GENERATED RESEARCH\n\n\n\n\nScaffold project summary\n\n\nThis summary was assembled from current GeoEpi project metadata and is pending project-level review.\n\n\nModels and analyses examining WNV risk to U.S. livestock.\n\n\n\nThis GeoEpi project brings together models and analyses examining West Nile virus risk to U.S. livestock. Registered work includes a graph neural network project and a GeoAI flavivirus sandbox.\n\n\n\n\nepidemiology modeling West Nile virus livestock risk assessment graph neural networks GeoAI\n\n\n\n\n\n\n\n\nSummary not provided.\nCanonical repository ↗\n\n\n\n\n\nSummary not provided.\nCanonical repository ↗\nAuthoritative Hub project record ↗"
   },
   {
     "objectID": "projects/flavi_wnv/index.html",

@@ -1,0 +1,58 @@
+---
+title: "African Swine Fever Transmission by Feral Swine"
+description: "Movement and genomic studies of ASF in feral swine."
+categories: ["geography", "epidemiology", "ecology"]
+content_status: scaffold
+page-layout: full
+comments: false
+---
+
+<div class="geoepi-generated-project">
+<p class="geoepi-eyebrow">HUB-GENERATED RESEARCH</p>
+# African Swine Fever Transmission by Feral Swine
+
+<p class="geoepi-scaffold-status">Scaffold project summary</p>
+
+<p class="geoepi-scaffold-note">This summary was assembled from current GeoEpi project metadata and is pending project-level review.</p>
+
+<p class="geoepi-project-summary">Movement and genomic studies of ASF in feral swine.</p>
+
+## Abstract
+
+This GeoEpi project brings together movement and genomic studies of African Swine Fever in feral swine. Registered project work includes studies of swine movement and social cohesion and simulation of feral swine pedigrees based on admixture analysis.
+
+## Themes and topics
+
+<div class="geoepi-project-tags">
+<span class="geoepi-project-tag">geography</span>
+<span class="geoepi-project-tag">epidemiology</span>
+<span class="geoepi-project-tag">ecology</span>
+<span class="geoepi-project-tag">African Swine Fever</span>
+<span class="geoepi-project-tag">feral swine</span>
+<span class="geoepi-project-tag">movement</span>
+<span class="geoepi-project-tag">genomics</span>
+</div>
+
+## Associated subprojects
+
+<div class="geoepi-subproject-grid">
+<article class="geoepi-subproject-card">
+### Swine Movement and Social Cohesion
+
+Summary not provided.
+
+<a href="https://github.com/geoepi/swine-contacts">Canonical repository <span aria-hidden="true">&#8599;</span></a>
+
+</article>
+<article class="geoepi-subproject-card">
+### Simulation of feral swine pedigrees based on admixture analysis
+
+Summary not provided.
+
+<a href="https://github.com/geoepi/FeralSwine_Ben">Canonical repository <span aria-hidden="true">&#8599;</span></a>
+
+</article>
+</div>
+
+<p class="geoepi-authority-link"><a href="https://github.com/geoepi/geoepi-hub/tree/main/projects/asf-swine">Authoritative Hub project record <span aria-hidden="true">&#8599;</span></a></p>
+</div>
