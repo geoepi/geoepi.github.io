@@ -410,6 +410,84 @@ h1, h2, h3, h4 {
   padding-top: 1.25rem;
 }
 
+.geoepi-publications {
+  max-width: 960px;
+  margin: 0 auto;
+  padding: clamp(2rem, 5vw, 4.5rem) 0 clamp(4rem, 8vw, 7rem);
+}
+
+.geoepi-publications > h1 {
+  margin: 0 0 1rem;
+  font-size: clamp(2.5rem, 5vw, 4.5rem);
+}
+
+.geoepi-publication {
+  margin: 1.25rem 0 2rem;
+  border-top: 1px solid #dce3e7;
+  padding-top: 1.35rem;
+}
+
+.geoepi-publication h3 {
+  margin: 0 0 0.45rem;
+  font-size: clamp(1.25rem, 2vw, 1.65rem);
+  line-height: 1.2;
+}
+
+.geoepi-publication-creators,
+.geoepi-publication-context,
+.geoepi-publication-reference,
+.geoepi-publication-links {
+  margin: 0.35rem 0;
+  color: #53616b;
+  line-height: 1.55;
+}
+
+.geoepi-publication-reference {
+  font-size: 0.94rem;
+}
+
+.geoepi-publication-reference,
+.geoepi-publication-reference a,
+.geoepi-publication-links a {
+  overflow-wrap: anywhere;
+}
+
+.geoepi-publication-links {
+  font-weight: 700;
+}
+
+.geoepi-publication-tags {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.4rem;
+  margin-top: 0.75rem;
+}
+
+.geoepi-publication-tag {
+  border: 1px solid #cbd7de;
+  border-radius: 999px;
+  padding: 0.25rem 0.6rem;
+  color: $geoepi-navy;
+  font-size: 0.78rem;
+}
+
+.geoepi-publication-abstract {
+  max-width: 780px;
+  margin-top: 0.9rem;
+  color: #53616b;
+  line-height: 1.6;
+}
+
+.geoepi-publication-abstract summary {
+  cursor: pointer;
+  color: $geoepi-navy;
+  font-weight: 700;
+}
+
+.geoepi-publication-abstract p {
+  margin: 0.75rem 0 0;
+}
+
 #quarto-content {
   padding-bottom: 0.5rem;
 }
@@ -443,4 +521,5 @@ h1, h2, h3, h4 {
   .geoepi-theme-card { min-height: auto; }
   .geoepi-button { width: 100%; justify-content: center; }
   .geoepi-generated-project { padding-left: 1rem; padding-right: 1rem; }
+  .geoepi-publications { padding-left: 1rem; padding-right: 1rem; }
 }

@@ -1,0 +1,2524 @@
+{
+  "schema_version": 1,
+  "source": {
+    "provider": "Zotero",
+    "group_id": 6637692,
+    "collection_key": null
+  },
+  "publications": [
+    {
+      "key": "AWWXUYR6",
+      "version": 2,
+      "item_type": "journalArticle",
+      "title": "A spatiotemporal analysis of the spread of African swine fever in Vietnam in 2019",
+      "creators": [
+        {
+          "creator_type": "author",
+          "first_name": "Vo Dinh",
+          "last_name": "Chuong",
+          "name": null
+        },
+        {
+          "creator_type": "author",
+          "first_name": "Rachel A.",
+          "last_name": "Schambow",
+          "name": null
+        },
+        {
+          "creator_type": "author",
+          "first_name": "Chia-Hui",
+          "last_name": "Hsu",
+          "name": null
+        },
+        {
+          "creator_type": "author",
+          "first_name": "Nguyen Thi",
+          "last_name": "Diep",
+          "name": null
+        },
+        {
+          "creator_type": "author",
+          "first_name": "Phan Quang",
+          "last_name": "Minh",
+          "name": null
+        },
+        {
+          "creator_type": "author",
+          "first_name": "Hoang Manh",
+          "last_name": "Tien",
+          "name": null
+        },
+        {
+          "creator_type": "author",
+          "first_name": "John M.",
+          "last_name": "Humphreys",
+          "name": null
+        },
+        {
+          "creator_type": "author",
+          "first_name": "Andres M.",
+          "last_name": "Perez",
+          "name": null
+        }
+      ],
+      "creator_display": "Vo Dinh Chuong, Rachel A. Schambow, Chia-Hui Hsu, Nguyen Thi Diep, Phan Quang Minh, Hoang Manh Tien, John M. Humphreys, Andres M. Perez",
+      "date": "2026-07-08",
+      "year": 2026,
+      "publication_title": "Frontiers in Veterinary Science",
+      "journal_abbreviation": "Front. Vet. Sci.",
+      "volume": "13",
+      "issue": null,
+      "pages": null,
+      "publisher": "Frontiers",
+      "place": null,
+      "doi": "10.3389/fvets.2026.1858865",
+      "url": "https://www.frontiersin.org/journals/veterinary-science/articles/10.3389/fvets.2026.1858865/full",
+      "abstract": "IntroductionAfrican swine fever (ASF) was first detected in Vietnam in early February 2019 and spread rapidly nationwide. By December 2019, ASF had been reported in 8,509 of 11,055 communes (77%) across all 63 provinces and municipalities.MethodsDescriptive analyses were performed to summarize temporal and spatial patterns of ASF-affected communes (outbreaks). Outbreak data were aggregated weekly (week 1–48) based on onset date, and weekly counts, cumulative numbers, and proportions of affected communes were calculated. To quantify the early spread of ASF, we analyzed commune-level outbreak data from 2019. Temporal progression was assessed using linear and negative binomial regression models, whereas spatiotemporal clusters were identified using a space–time permutation model.ResultsThe linear regression analysis indicated an approximately 2.5 percentage-point weekly increase in the cumulative proportion of affected communes (R2 = 0.94) from 1 February to 14 July 2019. The negative binomial regression model estimated an approximately 7.6% weekly increase in affected commune counts (β = 0.073) from 1 February to 14 July 2019, corresponding to a doubling time of approximately 9.5 weeks. Consequently, more than half of the communes were affected within the first 24 weeks of the first detected case. A total of 18 statistically significant spatiotemporal clusters were identified. The earliest cluster was detected in the North, where the first outbreak was confirmed, and the most numerous clusters were in the Central region. Many cluster centers were located in areas of relatively high pig density, particularly in the Red River Delta and Mekong River Delta.ConclusionThese findings highlight the extensive geographic scale of ASF transmission in Vietnam in the first year of the epidemic. The rapid and extensive spread observed suggests that a stamping-out strategy, as typically implemented, may face substantial challenges under such epidemic conditions. Instead, the results emphasize the importance of impact-mitigation strategies and long-term management approaches, including enhanced biosecurity, farmer support, and measures to maintain a stable pork supply. These findings also provide relevant insights for countries facing similar endemic conditions or at risk of ASF introduction.",
+      "tags": [
+        "/unread"
+      ],
+      "zotero_url": "https://www.zotero.org/groups/geoepi_publications/items/AWWXUYR6",
+      "formatted_reference": "<div class=\"csl-bib-body\" style=\"line-height: 2; padding-left: 1em; text-indent:-1em;\">\n  <div class=\"csl-entry\">Chuong, V. D., Schambow, R. A., Hsu, C.-H., Diep, N. T., Minh, P. Q., Tien, H. M., Humphreys, J. M., &amp; Perez, A. M. (2026). A spatiotemporal analysis of the spread of African swine fever in Vietnam in 2019. <i>Frontiers in Veterinary Science</i>, <i>13</i>. <a href=\"https://doi.org/10.3389/fvets.2026.1858865\">https://doi.org/10.3389/fvets.2026.1858865</a></div>\n</div>"
+    },
+    {
+      "key": "LRV6P6DN",
+      "version": 18,
+      "item_type": "journalArticle",
+      "title": "Incubation phase transmission of foot-and-mouth disease virus in cattle: experimental evidence and simulated impacts",
+      "creators": [
+        {
+          "creator_type": "author",
+          "first_name": "Carolina",
+          "last_name": "Stenfeldt",
+          "name": null
+        },
+        {
+          "creator_type": "author",
+          "first_name": "John M.",
+          "last_name": "Humphreys",
+          "name": null
+        },
+        {
+          "creator_type": "author",
+          "first_name": "Jonathan",
+          "last_name": "Arzt",
+          "name": null
+        }
+      ],
+      "creator_display": "Carolina Stenfeldt, John M. Humphreys, Jonathan Arzt",
+      "date": "2026-01-07",
+      "year": 2026,
+      "publication_title": "Scientific Reports",
+      "journal_abbreviation": "Sci Rep",
+      "volume": "16",
+      "issue": "1",
+      "pages": "4023",
+      "publisher": "Nature Publishing Group",
+      "place": null,
+      "doi": "10.1038/s41598-025-34132-x",
+      "url": "https://www.nature.com/articles/s41598-025-34132-x",
+      "abstract": "The capacity of any pathogen to transmit from infected hosts prior to the development of clinical disease substantially impacts the ability to effectively control an outbreak. Foot-and-mouth disease virus (FMDV) is known for its rapid spread and ability to cause severe disease outbreaks amongst susceptible livestock species. In this current investigation, it was demonstrated that cattle infected with FMDV were capable of transmitting infection at least 24 h prior to the development of clinical signs. Additionally, the progression of infection in cattle exposed to infected donors during the early infectious phase was slower than in cattle exposed at later time points, suggesting a dose-dependent effect on infection dynamics in contact-exposed cattle. To quantify the impact, outcomes from the transmission experiment were used to parameterize agent-based simulations at three biological levels, within-host, within-herd, and between-farm. Simulations revealed that outbreaks spread more rapidly and infect more cattle and farms when models account for preclinical transmission. Specifically, including pre-clinical transmission in a between-farm simulation resulted in a 33.7% increase in the number of affected farms, demonstrating that incubation phase infectiousness has important implications for outbreak preparedness and response.",
+      "tags": [
+        "/unread"
+      ],
+      "zotero_url": "https://www.zotero.org/groups/geoepi_publications/items/LRV6P6DN",
+      "formatted_reference": "<div class=\"csl-bib-body\" style=\"line-height: 2; padding-left: 1em; text-indent:-1em;\">\n  <div class=\"csl-entry\">Stenfeldt, C., Humphreys, J. M., &amp; Arzt, J. (2026). Incubation phase transmission of foot-and-mouth disease virus in cattle: experimental evidence and simulated impacts. <i>Scientific Reports</i>, <i>16</i>(1), 4023. <a href=\"https://doi.org/10.1038/s41598-025-34132-x\">https://doi.org/10.1038/s41598-025-34132-x</a></div>\n</div>"
+    },
+    {
+      "key": "5VXHDPPU",
+      "version": 14,
+      "item_type": "journalArticle",
+      "title": "Spatial Suitability of Peste des Petits Ruminants in North Africa Using Machine-Learning Ecological Niche Modeling",
+      "creators": [
+        {
+          "creator_type": "author",
+          "first_name": "Dinara",
+          "last_name": "Imanbayeva",
+          "name": null
+        },
+        {
+          "creator_type": "author",
+          "first_name": "Moh A.",
+          "last_name": "Alkhamis",
+          "name": null
+        },
+        {
+          "creator_type": "author",
+          "first_name": "John M.",
+          "last_name": "Humphreys",
+          "name": null
+        },
+        {
+          "creator_type": "author",
+          "first_name": "Andres M.",
+          "last_name": "Perez",
+          "name": null
+        }
+      ],
+      "creator_display": "Dinara Imanbayeva, Moh A. Alkhamis, John M. Humphreys, Andres M. Perez",
+      "date": "2026-04-23",
+      "year": 2026,
+      "publication_title": "Pathogens",
+      "journal_abbreviation": null,
+      "volume": "15",
+      "issue": "5",
+      "pages": null,
+      "publisher": "Multidisciplinary Digital Publishing Institute",
+      "place": null,
+      "doi": "10.3390/pathogens15050466",
+      "url": "https://www.mdpi.com/2076-0817/15/5/466",
+      "abstract": "Peste des Petits Ruminants (PPR) is a highly contagious viral disease of small ruminants and remains a major threat to food security and rural livelih...",
+      "tags": [
+        "/unread"
+      ],
+      "zotero_url": "https://www.zotero.org/groups/geoepi_publications/items/5VXHDPPU",
+      "formatted_reference": "<div class=\"csl-bib-body\" style=\"line-height: 2; padding-left: 1em; text-indent:-1em;\">\n  <div class=\"csl-entry\">Imanbayeva, D., Alkhamis, M. A., Humphreys, J. M., &amp; Perez, A. M. (2026). Spatial Suitability of Peste des Petits Ruminants in North Africa Using Machine-Learning Ecological Niche Modeling. <i>Pathogens</i>, <i>15</i>(5). <a href=\"https://doi.org/10.3390/pathogens15050466\">https://doi.org/10.3390/pathogens15050466</a></div>\n</div>"
+    },
+    {
+      "key": "PYCNLGE8",
+      "version": 9,
+      "item_type": "journalArticle",
+      "title": "The evolving landscape of African swine fever: the game-changing impact of recombinant genotype I/II on Asia–Pacific control strategies",
+      "creators": [
+        {
+          "creator_type": "author",
+          "first_name": "Jesper Chia-Hui",
+          "last_name": "Hsu",
+          "name": null
+        },
+        {
+          "creator_type": "author",
+          "first_name": "Rachel A.",
+          "last_name": "Schambow",
+          "name": null
+        },
+        {
+          "creator_type": "author",
+          "first_name": "Yu-Liang",
+          "last_name": "Huang",
+          "name": null
+        },
+        {
+          "creator_type": "author",
+          "first_name": "Vo Dinh",
+          "last_name": "Chuong",
+          "name": null
+        },
+        {
+          "creator_type": "author",
+          "first_name": "John M.",
+          "last_name": "Humphreys",
+          "name": null
+        },
+        {
+          "creator_type": "author",
+          "first_name": "Andres M.",
+          "last_name": "Perez",
+          "name": null
+        }
+      ],
+      "creator_display": "Jesper Chia-Hui Hsu, Rachel A. Schambow, Yu-Liang Huang, Vo Dinh Chuong, John M. Humphreys, Andres M. Perez",
+      "date": "2026-07-15",
+      "year": 2026,
+      "publication_title": "Frontiers in Veterinary Science",
+      "journal_abbreviation": "Front. Vet. Sci.",
+      "volume": "13",
+      "issue": null,
+      "pages": null,
+      "publisher": "Frontiers",
+      "place": null,
+      "doi": "10.3389/fvets.2026.1855026",
+      "url": "https://www.frontiersin.org/journals/veterinary-science/articles/10.3389/fvets.2026.1855026/full",
+      "abstract": "The emergence of genotype I/II recombinant African swine fever virus (rASFV) in the Asia–Pacific region represents a significant shift in the molecular epidemiology of the ongoing ASF panzootic. Following the PRISMA-ScR framework, this study synthesizes sources of evidence from China, Vietnam, Russia, and Taiwan published between 2021 and 2025. Four electronic databases and relevant gray literature were included in the review. The evidence indicates that “JS/LG/21-like” recombinant strains exhibit a stable chimeric genome architecture, comprising a genotype I backbone incorporating genotype II-associated virulence determinants, including EP402R and members of the MGF_505/360 gene families. This genomic mosaicism appears to confer a synergistic phenotype characterized by high lethality and preserved hemadsorption (HAD+) activity, exceeding the typically lower virulence profile of ASF genotype I lineages. The research further identifies key systemic vulnerabilities. First, diagnostic platforms relying primarily on genotype II-specific primers may lead to misclassification or under-detection of recombinant strains. Second, existing genotype II-targeted vaccine candidates exhibit limited cross-protective immunity against rASFV. Comparative genomic analyses demonstrate extremely high nucleotide identity (>99.9%) across affected regions, supporting the hypothesis of a monophyletic evolutionary profile followed by rapid clonal expansion. These findings highlight the urgent need to update diagnostic platforms, expand high-resolution genomic surveillance (e.g., whole genome sequencing), and integrate sylvatic cycle dynamics into routine monitoring frameworks. Strengthened policy coordination and One Health-oriented strategies are essential to mitigate the sustained regional transmission and ecological entrenchment of these stabilized recombinant lineages.",
+      "tags": [
+        "/unread"
+      ],
+      "zotero_url": "https://www.zotero.org/groups/geoepi_publications/items/PYCNLGE8",
+      "formatted_reference": "<div class=\"csl-bib-body\" style=\"line-height: 2; padding-left: 1em; text-indent:-1em;\">\n  <div class=\"csl-entry\">Hsu, J. C.-H., Schambow, R. A., Huang, Y.-L., Chuong, V. D., Humphreys, J. M., &amp; Perez, A. M. (2026). The evolving landscape of African swine fever: the game-changing impact of recombinant genotype I/II on Asia&#x2013;Pacific control strategies. <i>Frontiers in Veterinary Science</i>, <i>13</i>. <a href=\"https://doi.org/10.3389/fvets.2026.1855026\">https://doi.org/10.3389/fvets.2026.1855026</a></div>\n</div>"
+    },
+    {
+      "key": "FGX8RX7N",
+      "version": 42,
+      "item_type": "journalArticle",
+      "title": "Epidemiologic consequences of preclinical transmission of foot-and-mouth disease virus in cattle",
+      "creators": [
+        {
+          "creator_type": "author",
+          "first_name": "Stormy",
+          "last_name": "Scharzenberger",
+          "name": null
+        },
+        {
+          "creator_type": "author",
+          "first_name": "John M.",
+          "last_name": "Humphreys",
+          "name": null
+        },
+        {
+          "creator_type": "author",
+          "first_name": "Columb",
+          "last_name": "Rigney",
+          "name": null
+        },
+        {
+          "creator_type": "author",
+          "first_name": "Alexis",
+          "last_name": "Freifeld",
+          "name": null
+        },
+        {
+          "creator_type": "author",
+          "first_name": "Carolina",
+          "last_name": "Stenfeldt",
+          "name": null
+        },
+        {
+          "creator_type": "author",
+          "first_name": "Jonathan",
+          "last_name": "Arzt",
+          "name": null
+        }
+      ],
+      "creator_display": "Stormy Scharzenberger, John M. Humphreys, Columb Rigney, Alexis Freifeld, Carolina Stenfeldt, Jonathan Arzt",
+      "date": "2025-08-29",
+      "year": 2025,
+      "publication_title": "Frontiers in Veterinary Science",
+      "journal_abbreviation": "Front. Vet. Sci.",
+      "volume": "12",
+      "issue": null,
+      "pages": null,
+      "publisher": "Frontiers",
+      "place": null,
+      "doi": "10.3389/fvets.2025.1651091",
+      "url": "https://www.frontiersin.org/journals/veterinary-science/articles/10.3389/fvets.2025.1651091/full",
+      "abstract": "Foot-and-mouth disease virus (FMDV) can be transmitted during the incubation phase, before clinical detection, but the epidemiological consequences of this preclinical infectious period have not been fully assessed in cattle. Using experimental data derived from transmission studies performed in vivo, we parameterized a state-transition model and simulated FMDV outbreaks across three U.S. regions under varying durations of preclinical infectiousness. We evaluated multiple epidemiologic outcomes under both optimal (1 day after clinical onset) and suboptimal (4 days after clinical onset) detection scenarios. The modeled output demonstrated that even a single day of preclinical transmission significantly increased outbreak magnitude, spatial extent, and duration. These effects were magnified under suboptimal detection and when simulating low-virulence virus strains with prolonged preclinical phases. Optimal response consistently reduced outbreak severity, with greater mitigation observed in the Eastern and Central U.S. as the preclinical phase lengthened. Our findings demonstrate that omission of preclinical transmission from FMD models results in systematic underestimation of outbreak impacts. Incorporating incubation phase transmission is essential for realistic epidemic forecasting, effective preparedness planning, and region-specific response prioritization.",
+      "tags": [
+        "/unread"
+      ],
+      "zotero_url": "https://www.zotero.org/groups/geoepi_publications/items/FGX8RX7N",
+      "formatted_reference": "<div class=\"csl-bib-body\" style=\"line-height: 2; padding-left: 1em; text-indent:-1em;\">\n  <div class=\"csl-entry\">Scharzenberger, S., Humphreys, J. M., Rigney, C., Freifeld, A., Stenfeldt, C., &amp; Arzt, J. (2025). Epidemiologic consequences of preclinical transmission of foot-and-mouth disease virus in cattle. <i>Frontiers in Veterinary Science</i>, <i>12</i>. <a href=\"https://doi.org/10.3389/fvets.2025.1651091\">https://doi.org/10.3389/fvets.2025.1651091</a></div>\n</div>"
+    },
+    {
+      "key": "HQRUTVFP",
+      "version": 44,
+      "item_type": "journalArticle",
+      "title": "Epidemiology and economics of foot-and-mouth disease: current understanding and knowledge gaps",
+      "creators": [
+        {
+          "creator_type": "author",
+          "first_name": "John M.",
+          "last_name": "Humphreys",
+          "name": null
+        },
+        {
+          "creator_type": "author",
+          "first_name": "Carolina",
+          "last_name": "Stenfeldt",
+          "name": null
+        },
+        {
+          "creator_type": "author",
+          "first_name": "Donald P.",
+          "last_name": "King",
+          "name": null
+        },
+        {
+          "creator_type": "author",
+          "first_name": "Theodore",
+          "last_name": "Knight-Jones",
+          "name": null
+        },
+        {
+          "creator_type": "author",
+          "first_name": "Andres M.",
+          "last_name": "Perez",
+          "name": null
+        },
+        {
+          "creator_type": "author",
+          "first_name": "Kimberly",
+          "last_name": "VanderWaal",
+          "name": null
+        },
+        {
+          "creator_type": "author",
+          "first_name": "Michael W.",
+          "last_name": "Sanderson",
+          "name": null
+        },
+        {
+          "creator_type": "author",
+          "first_name": "Antonello",
+          "last_name": "Di Nardo",
+          "name": null
+        },
+        {
+          "creator_type": "author",
+          "first_name": "Wudu T.",
+          "last_name": "Jemberu",
+          "name": null
+        },
+        {
+          "creator_type": "author",
+          "first_name": "Nakarin",
+          "last_name": "Pamornchainavakul",
+          "name": null
+        },
+        {
+          "creator_type": "author",
+          "first_name": "Jonathan",
+          "last_name": "Arzt",
+          "name": null
+        }
+      ],
+      "creator_display": "John M. Humphreys, Carolina Stenfeldt, Donald P. King, Theodore Knight-Jones, Andres M. Perez, Kimberly VanderWaal, Michael W. Sanderson, Antonello Di Nardo, Wudu T. Jemberu, Nakarin Pamornchainavakul, Jonathan Arzt",
+      "date": "2025-07-07",
+      "year": 2025,
+      "publication_title": "Veterinary Research",
+      "journal_abbreviation": "Vet Res",
+      "volume": "56",
+      "issue": "1",
+      "pages": "141",
+      "publisher": null,
+      "place": null,
+      "doi": "10.1186/s13567-025-01561-5",
+      "url": "https://doi.org/10.1186/s13567-025-01561-5",
+      "abstract": "Foot-and-mouth disease virus (FMDV) is one of the few veterinary pathogens that defines policy and global trade in animal products. Its prominence necessitates approaches to control that integrate the multiple factors contributing to the disease’s biology and transmission characteristics. Central to this concept is the epidemiological FMD status (endemic or FMD-free, with or without vaccination) of a territory, which defines access to export markets. FMD epidemiology is complex, insufficiently understood, and intertwined with the biology of the virus (multiple serotypes and subtypes), global distribution (distinct regional virus pools), pathogenesis (subclinical infections and species differences), and host range (broad range of susceptible domestic and wild animals). Despite steady advances, critical knowledge gaps persist in FMD epidemiology that undermine the optimal control of FMD. This review summarizes the distinct thematic compartments of FMD epidemiology and presents the critical knowledge gaps that continue to limit the effectiveness of global, regional, and national initiatives to control and eradicate FMD.",
+      "tags": [
+        "/unread"
+      ],
+      "zotero_url": "https://www.zotero.org/groups/geoepi_publications/items/HQRUTVFP",
+      "formatted_reference": "<div class=\"csl-bib-body\" style=\"line-height: 2; padding-left: 1em; text-indent:-1em;\">\n  <div class=\"csl-entry\">Humphreys, J. M., Stenfeldt, C., King, D. P., Knight-Jones, T., Perez, A. M., VanderWaal, K., Sanderson, M. W., Di Nardo, A., Jemberu, W. T., Pamornchainavakul, N., &amp; Arzt, J. (2025). Epidemiology and economics of foot-and-mouth disease: current understanding and knowledge gaps. <i>Veterinary Research</i>, <i>56</i>(1), 141. <a href=\"https://doi.org/10.1186/s13567-025-01561-5\">https://doi.org/10.1186/s13567-025-01561-5</a></div>\n</div>"
+    },
+    {
+      "key": "YUFB5XWZ",
+      "version": 56,
+      "item_type": "journalArticle",
+      "title": "Evaluation of the 2022 West Nile virus forecasting challenge, USA",
+      "creators": [
+        {
+          "creator_type": "author",
+          "first_name": "Ryan D.",
+          "last_name": "Harp",
+          "name": null
+        },
+        {
+          "creator_type": "author",
+          "first_name": "Karen M.",
+          "last_name": "Holcomb",
+          "name": null
+        },
+        {
+          "creator_type": "author",
+          "first_name": "Renata",
+          "last_name": "Retkute",
+          "name": null
+        },
+        {
+          "creator_type": "author",
+          "first_name": "Alisa",
+          "last_name": "Prusokiene",
+          "name": null
+        },
+        {
+          "creator_type": "author",
+          "first_name": "Augustinas",
+          "last_name": "Prusokas",
+          "name": null
+        },
+        {
+          "creator_type": "author",
+          "first_name": "Zeynep",
+          "last_name": "Ertem",
+          "name": null
+        },
+        {
+          "creator_type": "author",
+          "first_name": "Marco",
+          "last_name": "Ajelli",
+          "name": null
+        },
+        {
+          "creator_type": "author",
+          "first_name": "Allisandra G.",
+          "last_name": "Kummer",
+          "name": null
+        },
+        {
+          "creator_type": "author",
+          "first_name": "Maria",
+          "last_name": "Litvinova",
+          "name": null
+        },
+        {
+          "creator_type": "author",
+          "first_name": "Stefano",
+          "last_name": "Merler",
+          "name": null
+        },
+        {
+          "creator_type": "author",
+          "first_name": "Ana Pastore y.",
+          "last_name": "Piontti",
+          "name": null
+        },
+        {
+          "creator_type": "author",
+          "first_name": "Piero",
+          "last_name": "Poletti",
+          "name": null
+        },
+        {
+          "creator_type": "author",
+          "first_name": "Alessandro",
+          "last_name": "Vespignani",
+          "name": null
+        },
+        {
+          "creator_type": "author",
+          "first_name": "Andre B. B.",
+          "last_name": "Wilke",
+          "name": null
+        },
+        {
+          "creator_type": "author",
+          "first_name": "Agnese",
+          "last_name": "Zardini",
+          "name": null
+        },
+        {
+          "creator_type": "author",
+          "first_name": "Kelly Helm",
+          "last_name": "Smith",
+          "name": null
+        },
+        {
+          "creator_type": "author",
+          "first_name": "Philip",
+          "last_name": "Armstrong",
+          "name": null
+        },
+        {
+          "creator_type": "author",
+          "first_name": "Nicholas",
+          "last_name": "DeFelice",
+          "name": null
+        },
+        {
+          "creator_type": "author",
+          "first_name": "Alexander",
+          "last_name": "Keyel",
+          "name": null
+        },
+        {
+          "creator_type": "author",
+          "first_name": "John",
+          "last_name": "Shepard",
+          "name": null
+        },
+        {
+          "creator_type": "author",
+          "first_name": "Rebecca",
+          "last_name": "Smith",
+          "name": null
+        },
+        {
+          "creator_type": "author",
+          "first_name": "Andrew",
+          "last_name": "Tyre",
+          "name": null
+        },
+        {
+          "creator_type": "author",
+          "first_name": "John",
+          "last_name": "Humphreys",
+          "name": null
+        },
+        {
+          "creator_type": "author",
+          "first_name": "Lee W.",
+          "last_name": "Cohnstaedt",
+          "name": null
+        },
+        {
+          "creator_type": "author",
+          "first_name": "Saman",
+          "last_name": "Hosseini",
+          "name": null
+        },
+        {
+          "creator_type": "author",
+          "first_name": "Caterina",
+          "last_name": "Scoglio",
+          "name": null
+        },
+        {
+          "creator_type": "author",
+          "first_name": "Morgan E.",
+          "last_name": "Gorris",
+          "name": null
+        },
+        {
+          "creator_type": "author",
+          "first_name": "Martha",
+          "last_name": "Barnard",
+          "name": null
+        },
+        {
+          "creator_type": "author",
+          "first_name": "S. Kane",
+          "last_name": "Moser",
+          "name": null
+        },
+        {
+          "creator_type": "author",
+          "first_name": "Julie A.",
+          "last_name": "Spencer",
+          "name": null
+        },
+        {
+          "creator_type": "author",
+          "first_name": "Maggie S. J.",
+          "last_name": "McCarter",
+          "name": null
+        },
+        {
+          "creator_type": "author",
+          "first_name": "Christopher",
+          "last_name": "Lee",
+          "name": null
+        },
+        {
+          "creator_type": "author",
+          "first_name": "Melissa S.",
+          "last_name": "Nolan",
+          "name": null
+        },
+        {
+          "creator_type": "author",
+          "first_name": "Christopher M.",
+          "last_name": "Barker",
+          "name": null
+        },
+        {
+          "creator_type": "author",
+          "first_name": "J. Erin",
+          "last_name": "Staples",
+          "name": null
+        },
+        {
+          "creator_type": "author",
+          "first_name": "Randall J.",
+          "last_name": "Nett",
+          "name": null
+        },
+        {
+          "creator_type": "author",
+          "first_name": "Michael A.",
+          "last_name": "Johansson",
+          "name": null
+        }
+      ],
+      "creator_display": "Ryan D. Harp, Karen M. Holcomb, Renata Retkute, Alisa Prusokiene, Augustinas Prusokas, Zeynep Ertem, Marco Ajelli, Allisandra G. Kummer, Maria Litvinova, Stefano Merler, Ana Pastore y. Piontti, Piero Poletti, Alessandro Vespignani, Andre B. B. Wilke, Agnese Zardini, Kelly Helm Smith, Philip Armstrong, Nicholas DeFelice, Alexander Keyel, John Shepard, Rebecca Smith, Andrew Tyre, John Humphreys, Lee W. Cohnstaedt, Saman Hosseini, Caterina Scoglio, Morgan E. Gorris, Martha Barnard, S. Kane Moser, Julie A. Spencer, Maggie S. J. McCarter, Christopher Lee, Melissa S. Nolan, Christopher M. Barker, J. Erin Staples, Randall J. Nett, Michael A. Johansson",
+      "date": "2025-04-23",
+      "year": 2025,
+      "publication_title": "Parasites & Vectors",
+      "journal_abbreviation": "Parasites Vectors",
+      "volume": "18",
+      "issue": "1",
+      "pages": "152",
+      "publisher": null,
+      "place": null,
+      "doi": "10.1186/s13071-025-06767-2",
+      "url": "https://doi.org/10.1186/s13071-025-06767-2",
+      "abstract": "West Nile virus (WNV) is the most common cause of mosquito-borne disease in the continental USA, with an average of ~1200 severe, neuroinvasive cases reported annually from 2005 to 2021 (range 386–2873). Despite this burden, efforts to forecast WNV disease to inform public health measures to reduce disease incidence have had limited success. Here, we analyze forecasts submitted to the 2022 WNV Forecasting Challenge, a follow-up to the 2020 WNV Forecasting Challenge.",
+      "tags": [
+        "/unread"
+      ],
+      "zotero_url": "https://www.zotero.org/groups/geoepi_publications/items/YUFB5XWZ",
+      "formatted_reference": "<div class=\"csl-bib-body\" style=\"line-height: 2; padding-left: 1em; text-indent:-1em;\">\n  <div class=\"csl-entry\">Harp, R. D., Holcomb, K. M., Retkute, R., Prusokiene, A., Prusokas, A., Ertem, Z., Ajelli, M., Kummer, A. G., Litvinova, M., Merler, S., Piontti, A. P. y., Poletti, P., Vespignani, A., Wilke, A. B. B., Zardini, A., Smith, K. H., Armstrong, P., DeFelice, N., Keyel, A., &#x2026; Johansson, M. A. (2025). Evaluation of the 2022 West Nile virus forecasting challenge, USA. <i>Parasites &amp; Vectors</i>, <i>18</i>(1), 152. <a href=\"https://doi.org/10.1186/s13071-025-06767-2\">https://doi.org/10.1186/s13071-025-06767-2</a></div>\n</div>"
+    },
+    {
+      "key": "PNTTXK96",
+      "version": 23,
+      "item_type": "journalArticle",
+      "title": "Foot-and-mouth disease virus variability and recombination on dairy farms in Pakistan",
+      "creators": [
+        {
+          "creator_type": "author",
+          "first_name": "Ian",
+          "last_name": "Fish",
+          "name": null
+        },
+        {
+          "creator_type": "author",
+          "first_name": "Carolina",
+          "last_name": "Stenfeldt",
+          "name": null
+        },
+        {
+          "creator_type": "author",
+          "first_name": "Umer",
+          "last_name": "Farooq",
+          "name": null
+        },
+        {
+          "creator_type": "author",
+          "first_name": "John",
+          "last_name": "Humphreys",
+          "name": null
+        },
+        {
+          "creator_type": "author",
+          "first_name": "Zaheer",
+          "last_name": "Ahmed",
+          "name": null
+        },
+        {
+          "creator_type": "author",
+          "first_name": "Jonathan",
+          "last_name": "Arzt",
+          "name": null
+        }
+      ],
+      "creator_display": "Ian Fish, Carolina Stenfeldt, Umer Farooq, John Humphreys, Zaheer Ahmed, Jonathan Arzt",
+      "date": "2025-12-01",
+      "year": 2025,
+      "publication_title": "Infection, Genetics and Evolution",
+      "journal_abbreviation": "Infection, Genetics and Evolution",
+      "volume": "136",
+      "issue": null,
+      "pages": "105858",
+      "publisher": null,
+      "place": null,
+      "doi": "10.1016/j.meegid.2025.105858",
+      "url": "https://www.sciencedirect.com/science/article/pii/S1567134825001479",
+      "abstract": "Field studies on foot-and-mouth disease virus (FMDV) have historically concentrated on viral sequences obtained from clinical cases. However, FMDV often causes several forms of subclinical infections in ruminants, which are further complicated by heterologous FMDV coinfections and reinfections. The focus of this current study was genomic analysis of FMDV isolates obtained from domestic water buffalo (Bubalus bubalis) with no visible signs of disease – subclinical infections. Over a 12-month period, buffalo from dairy farms in Islamabad, Pakistan, were repeatedly sampled. We used full-genome next-generation sequencing to analyze FMDVs isolated from 68 oropharyngeal fluid (OPF) samples, representing 44 animals across 18 farms. The analysis revealed the circulation of three distinct serotypes – O, A, and Asia-1. Examination of persistent viruses showed variable within-host evolution, with 0–25 substitutions observed between sampling points. Notably, several animals were infected by recombinant viruses derived from antigenically distinct parental strains. This included at least five different recombinants recovered from one animal, as confirmed through plaque purification of OPF samples. In several instances, recombination events were determined to have occurred within the course of the study period. These results highlight the complexity of naturally occurring subclinical FMDV infections and emphasize the role of recombination in enhancing viral diversity in endemic regions.",
+      "tags": [
+        "/unread"
+      ],
+      "zotero_url": "https://www.zotero.org/groups/geoepi_publications/items/PNTTXK96",
+      "formatted_reference": "<div class=\"csl-bib-body\" style=\"line-height: 2; padding-left: 1em; text-indent:-1em;\">\n  <div class=\"csl-entry\">Fish, I., Stenfeldt, C., Farooq, U., Humphreys, J., Ahmed, Z., &amp; Arzt, J. (2025). Foot-and-mouth disease virus variability and recombination on dairy farms in Pakistan. <i>Infection, Genetics and Evolution</i>, <i>136</i>, 105858. <a href=\"https://doi.org/10.1016/j.meegid.2025.105858\">https://doi.org/10.1016/j.meegid.2025.105858</a></div>\n</div>"
+    },
+    {
+      "key": "MIMKKLYP",
+      "version": 60,
+      "item_type": "journalArticle",
+      "title": "Perspective: challenges and research opportunities to enhance African Swine Fever control in the Philippines",
+      "creators": [
+        {
+          "creator_type": "author",
+          "first_name": "Chia-Hui",
+          "last_name": "Hsu",
+          "name": null
+        },
+        {
+          "creator_type": "author",
+          "first_name": "Rachel A.",
+          "last_name": "Schambow",
+          "name": null
+        },
+        {
+          "creator_type": "author",
+          "first_name": "John",
+          "last_name": "Humphreys",
+          "name": null
+        },
+        {
+          "creator_type": "author",
+          "first_name": "Maximino",
+          "last_name": "Montenegro",
+          "name": null
+        },
+        {
+          "creator_type": "author",
+          "first_name": "Jonathan",
+          "last_name": "Arzt",
+          "name": null
+        },
+        {
+          "creator_type": "author",
+          "first_name": "Andres M.",
+          "last_name": "Perez",
+          "name": null
+        }
+      ],
+      "creator_display": "Chia-Hui Hsu, Rachel A. Schambow, John Humphreys, Maximino Montenegro, Jonathan Arzt, Andres M. Perez",
+      "date": "2025-09-30",
+      "year": 2025,
+      "publication_title": "Frontiers in Veterinary Science",
+      "journal_abbreviation": "Front. Vet. Sci.",
+      "volume": "12",
+      "issue": null,
+      "pages": null,
+      "publisher": "Frontiers",
+      "place": null,
+      "doi": "10.3389/fvets.2025.1675095",
+      "url": "https://www.frontiersin.org/journals/veterinary-science/articles/10.3389/fvets.2025.1675095/full",
+      "abstract": "African Swine Fever (ASF) is recognized as one of the most significant transboundary swine diseases due to its high mortality rate, rapid regional spread, and devastating economic consequences. Since its initial outbreak in July 2019, ASF has afflicted the Philippine swine industry for over 6 years. The implications of the epidemic extend beyond animal health, severely impacting the national pork supply chain and causing environmental concerns. In response, the Philippine government has implemented numerous policies for ASF management and control to support swine industry recovery. However, despite these substantial financial and logistical efforts, ASF remains prevalent, with frequent reemergence in many regions across the country. This perspective paper presents the outcomes of a collaborative workshop with the Philippine College of Swine Practitioners (PCSP), held in Batangas, Philippines, in November 2024. During this initiative, 40 local veterinary experts identified and ranked the most pressing challenges hindering current ASF control. Among the highest-ranked priorities were: (1) the role of intermediaries within the complex swine supply chain, (2) the inconsistent enforcement of guidelines across local government units, and (3) the underreporting of cases due to a lack of relevant local incentives. The resulting prioritizations offer valuable, field-level insights for refining national control strategies and hold significant relevance for neighboring countries facing similar struggles with ASF.",
+      "tags": [
+        "/unread"
+      ],
+      "zotero_url": "https://www.zotero.org/groups/geoepi_publications/items/MIMKKLYP",
+      "formatted_reference": "<div class=\"csl-bib-body\" style=\"line-height: 2; padding-left: 1em; text-indent:-1em;\">\n  <div class=\"csl-entry\">Hsu, C.-H., Schambow, R. A., Humphreys, J., Montenegro, M., Arzt, J., &amp; Perez, A. M. (2025). Perspective: challenges and research opportunities to enhance African Swine Fever control in the Philippines. <i>Frontiers in Veterinary Science</i>, <i>12</i>. <a href=\"https://doi.org/10.3389/fvets.2025.1675095\">https://doi.org/10.3389/fvets.2025.1675095</a></div>\n</div>"
+    },
+    {
+      "key": "MWJIVQXJ",
+      "version": 30,
+      "item_type": "journalArticle",
+      "title": "Predicting the Landscape Epidemiology of Foot-and-Mouth Disease in Endemic Regions: An Interpretable Machine Learning Approach",
+      "creators": [
+        {
+          "creator_type": "author",
+          "first_name": "Moh A.",
+          "last_name": "Alkhamis",
+          "name": null
+        },
+        {
+          "creator_type": "author",
+          "first_name": "Hamad",
+          "last_name": "Abouelhassan",
+          "name": null
+        },
+        {
+          "creator_type": "author",
+          "first_name": "Abdulaziz",
+          "last_name": "Alateeqi",
+          "name": null
+        },
+        {
+          "creator_type": "author",
+          "first_name": "Abrar",
+          "last_name": "Husain",
+          "name": null
+        },
+        {
+          "creator_type": "author",
+          "first_name": "John M.",
+          "last_name": "Humphreys",
+          "name": null
+        },
+        {
+          "creator_type": "author",
+          "first_name": "Jonathan",
+          "last_name": "Arzt",
+          "name": null
+        },
+        {
+          "creator_type": "author",
+          "first_name": "Andres M.",
+          "last_name": "Perez",
+          "name": null
+        }
+      ],
+      "creator_display": "Moh A. Alkhamis, Hamad Abouelhassan, Abdulaziz Alateeqi, Abrar Husain, John M. Humphreys, Jonathan Arzt, Andres M. Perez",
+      "date": "2025-10-16",
+      "year": 2025,
+      "publication_title": "Viruses",
+      "journal_abbreviation": null,
+      "volume": "17",
+      "issue": "10",
+      "pages": null,
+      "publisher": "Multidisciplinary Digital Publishing Institute",
+      "place": null,
+      "doi": "10.3390/v17101383",
+      "url": "https://www.mdpi.com/1999-4915/17/10/1383",
+      "abstract": "Foot-and-mouth disease (FMD) remains a devastating threat to livestock health and food security in the Middle East and North Africa (MENA), where comp...",
+      "tags": [
+        "/unread"
+      ],
+      "zotero_url": "https://www.zotero.org/groups/geoepi_publications/items/MWJIVQXJ",
+      "formatted_reference": "<div class=\"csl-bib-body\" style=\"line-height: 2; padding-left: 1em; text-indent:-1em;\">\n  <div class=\"csl-entry\">Alkhamis, M. A., Abouelhassan, H., Alateeqi, A., Husain, A., Humphreys, J. M., Arzt, J., &amp; Perez, A. M. (2025). Predicting the Landscape Epidemiology of Foot-and-Mouth Disease in Endemic Regions: An Interpretable Machine Learning Approach. <i>Viruses</i>, <i>17</i>(10). <a href=\"https://doi.org/10.3390/v17101383\">https://doi.org/10.3390/v17101383</a></div>\n</div>"
+    },
+    {
+      "key": "TYJB2AIL",
+      "version": 38,
+      "item_type": "preprint",
+      "title": "Spatial transmission dynamics of African Swine Fever in wild pigs: Sensitivity to epidemiological traits of different viral strains",
+      "creators": [
+        {
+          "creator_type": "author",
+          "first_name": "Madison B.",
+          "last_name": "Berger",
+          "name": null
+        },
+        {
+          "creator_type": "author",
+          "first_name": "Ryan S.",
+          "last_name": "Miller",
+          "name": null
+        },
+        {
+          "creator_type": "author",
+          "first_name": "John M.",
+          "last_name": "Humphreys",
+          "name": null
+        },
+        {
+          "creator_type": "author",
+          "first_name": "Kim M.",
+          "last_name": "Pepin",
+          "name": null
+        }
+      ],
+      "creator_display": "Madison B. Berger, Ryan S. Miller, John M. Humphreys, Kim M. Pepin",
+      "date": "2025-10-01",
+      "year": 2025,
+      "publication_title": null,
+      "journal_abbreviation": null,
+      "volume": null,
+      "issue": null,
+      "pages": null,
+      "publisher": null,
+      "place": null,
+      "doi": "10.1101/2025.09.30.679520",
+      "url": "https://www.biorxiv.org/content/10.1101/2025.09.30.679520v1",
+      "abstract": "African Swine Fever virus (ASFv) is a rapidly spreading animal disease with impacts on global economy and food security. Since the first known case of ASFv in Kenya in 1921, the virus has undergone significant evolution resulting in the emergence of 25 distinct genotypes. These genotypes have a wide variety of epidemiological traits, leading to uncertainty about how a genotype or variant of a genotype might spread in a population. Understanding the impacts of different epidemiological traits on the spread of ASFv is important for developing effective surveillance systems and control strategies. We developed a spatial epidemiological model of ASFv transmission in wild pigs, which contributes to ASFv persistence in countries where wild pig populations are widespread. We evaluated the impacts of a realistic set of epidemiological traits including incubation period, infectious period, disease-induced mortality rate, and length of immunity on spatial transmission dynamics under different ecological conditions for the host population (i.e. host density). We analyze effects of these conditions on outbreak metrics using boosted regression models with response variables: peak incidence, rate of spatial spread, seroprevalence and area invaded after one year, and probability that an outbreak will occur. We found that the infectious period of living individuals is the most important predictor at all pig densities for peak incidence and the area affected at one year, followed closely by the incubation period of the virus. We discuss considerations for surveillance and control strategies for different genotypes of ASFv.",
+      "tags": [],
+      "zotero_url": "https://www.zotero.org/groups/geoepi_publications/items/TYJB2AIL",
+      "formatted_reference": "<div class=\"csl-bib-body\" style=\"line-height: 2; padding-left: 1em; text-indent:-1em;\">\n  <div class=\"csl-entry\">Berger, M. B., Miller, R. S., Humphreys, J. M., &amp; Pepin, K. M. (2025). <i>Spatial transmission dynamics of African Swine Fever in wild pigs: Sensitivity to epidemiological traits of different viral strains</i>. bioRxiv. <a href=\"https://doi.org/10.1101/2025.09.30.679520\">https://doi.org/10.1101/2025.09.30.679520</a></div>\n</div>"
+    },
+    {
+      "key": "VHF2QER3",
+      "version": 64,
+      "item_type": "journalArticle",
+      "title": "The emergence of NY10: insights into the 2012 West Nile Virus outbreak in the United States",
+      "creators": [
+        {
+          "creator_type": "author",
+          "first_name": "Chad",
+          "last_name": "Fautt",
+          "name": null
+        },
+        {
+          "creator_type": "author",
+          "first_name": "Melanie R",
+          "last_name": "Boudreau",
+          "name": null
+        },
+        {
+          "creator_type": "author",
+          "first_name": "Amber C",
+          "last_name": "Mooney",
+          "name": null
+        },
+        {
+          "creator_type": "author",
+          "first_name": "Lee W",
+          "last_name": "Cohnstaedt",
+          "name": null
+        },
+        {
+          "creator_type": "author",
+          "first_name": "Amy R",
+          "last_name": "Hudson",
+          "name": null
+        },
+        {
+          "creator_type": "author",
+          "first_name": "John M",
+          "last_name": "Humphreys",
+          "name": null
+        }
+      ],
+      "creator_display": "Chad Fautt, Melanie R Boudreau, Amber C Mooney, Lee W Cohnstaedt, Amy R Hudson, John M Humphreys",
+      "date": "2025-01-01",
+      "year": 2025,
+      "publication_title": "Virus Evolution",
+      "journal_abbreviation": "Virus Evol",
+      "volume": "11",
+      "issue": "1",
+      "pages": "veaf037",
+      "publisher": null,
+      "place": null,
+      "doi": "10.1093/ve/veaf037",
+      "url": "https://doi.org/10.1093/ve/veaf037",
+      "abstract": "West Nile Virus (WNV) remains a public health risk across North America due to its capacity for rapid adaptation and evolution. While research in the United States has focused on the WN02 and SW03 mutations, the NY10 genotype, first detected in 2010, has received comparatively little attention. We conducted a phylogenetic and phylodynamic investigation of NY10, revealing its rapid increase in detection frequency and effective population size in the early 2010s. Our analysis suggests that NY10 played an important role in the 2012 WNV outbreak, with an effective population size indicating higher diversity than other lineages during this period. Despite this, NY10 appears geographically restricted, with no detections west of Colorado, indicating that barriers in the southwestern United States may influence its spread. These findings highlight the complex interplay between viral evolution, geography, and the environmental factors that shape WNV epidemiology. The study emphasizes the potential of WNV to generate genotypes with epidemic potential and underscores the importance of integrating genetic data into surveillance and forecasting systems to better predict and manage future outbreaks. Understanding the drivers of WNV’s genetic diversity will be crucial for developing more effective public health strategies as the virus continues to evolve.",
+      "tags": [
+        "/unread"
+      ],
+      "zotero_url": "https://www.zotero.org/groups/geoepi_publications/items/VHF2QER3",
+      "formatted_reference": "<div class=\"csl-bib-body\" style=\"line-height: 2; padding-left: 1em; text-indent:-1em;\">\n  <div class=\"csl-entry\">Fautt, C., Boudreau, M. R., Mooney, A. C., Cohnstaedt, L. W., Hudson, A. R., &amp; Humphreys, J. M. (2025). The emergence of NY10: insights into the 2012 West Nile Virus outbreak in the United States. <i>Virus Evolution</i>, <i>11</i>(1), veaf037. <a href=\"https://doi.org/10.1093/ve/veaf037\">https://doi.org/10.1093/ve/veaf037</a></div>\n</div>"
+    },
+    {
+      "key": "I5BHERGM",
+      "version": 52,
+      "item_type": "journalArticle",
+      "title": "The pathogenesis of foot-and-mouth disease virus: current understandings and knowledge gaps",
+      "creators": [
+        {
+          "creator_type": "author",
+          "first_name": "Carolina",
+          "last_name": "Stenfeldt",
+          "name": null
+        },
+        {
+          "creator_type": "author",
+          "first_name": "Michael",
+          "last_name": "Eschbaumer",
+          "name": null
+        },
+        {
+          "creator_type": "author",
+          "first_name": "John",
+          "last_name": "Humphreys",
+          "name": null
+        },
+        {
+          "creator_type": "author",
+          "first_name": "Gisselle N.",
+          "last_name": "Medina",
+          "name": null
+        },
+        {
+          "creator_type": "author",
+          "first_name": "Jonathan",
+          "last_name": "Arzt",
+          "name": null
+        }
+      ],
+      "creator_display": "Carolina Stenfeldt, Michael Eschbaumer, John Humphreys, Gisselle N. Medina, Jonathan Arzt",
+      "date": "2025-06-16",
+      "year": 2025,
+      "publication_title": "Veterinary Research",
+      "journal_abbreviation": "Vet Res",
+      "volume": "56",
+      "issue": "1",
+      "pages": "119",
+      "publisher": null,
+      "place": null,
+      "doi": "10.1186/s13567-025-01545-5",
+      "url": "https://doi.org/10.1186/s13567-025-01545-5",
+      "abstract": "Foot-and-mouth disease (FMD) continues to be one of the most important diseases of livestock globally based upon both biological features and regulatory aspects. Few pathogens have had comparable impact on global livestock production and regulation of international trade in animal-derived products. The pathogenesis (interaction between pathogen and host) is central to the importance of the disease ranging from how the causal pathogen, FMD virus (FMDV), transmits between hosts and is maintained in populations. Key accomplishments over the last decade include description of the primary sites of infection in domestic species, delineating critical differences in temporo-anatomic progression in different host species and emphasizing that knowledge gained regarding FMDV pathogenesis in one host cannot necessarily be extrapolated and applied to a different host. Host responses to infection and viral genomics have been characterized with ever-increasing granularity. Yet, the numerous knowledge gaps that remain in understanding FMDV pathogenesis impede advancements in FMD control and eradication. For instance, it remains unclear if long-term asymptomatic FMDV carriers are biologically relevant (contagious) and the manner in which host genomics and transcriptomics affect pathogenesis during different phases of infection. The characterization of neoteric subclinical infection as a disease stage that is distinct from the persistent “FMDV carrier state” has emphasized the importance of sample collection from clinically unaffected animals for FMDV surveillance. Similarly, incorporating a phase of pre-clinical infectiousness in simulation modeling can dramatically improve prediction of FMD outbreaks in non-endemic regions. The outcome of FMDV infection with regards to viral persistence differs between host species as well as between individuals of the same species. Yet, we lack a satisfactory explanation of the host factors that drive the FMDV carrier state divergence. This review was based upon a gap-analysis workshop organized by the Global Foot-and-Mouth Disease Research Alliance (GFRA) in Buenos Aires, Argentina, in December of 2022. The purpose of this work is to summarize the current understanding of the distinct compartments of FMD pathogenesis with an emphasis on progress made within the last decade and present the critical knowledge gaps that continue to limit FMD control and eradication.",
+      "tags": [
+        "/unread"
+      ],
+      "zotero_url": "https://www.zotero.org/groups/geoepi_publications/items/I5BHERGM",
+      "formatted_reference": "<div class=\"csl-bib-body\" style=\"line-height: 2; padding-left: 1em; text-indent:-1em;\">\n  <div class=\"csl-entry\">Stenfeldt, C., Eschbaumer, M., Humphreys, J., Medina, G. N., &amp; Arzt, J. (2025). The pathogenesis of foot-and-mouth disease virus: current understandings and knowledge gaps. <i>Veterinary Research</i>, <i>56</i>(1), 119. <a href=\"https://doi.org/10.1186/s13567-025-01545-5\">https://doi.org/10.1186/s13567-025-01545-5</a></div>\n</div>"
+    },
+    {
+      "key": "RVDF8F2Z",
+      "version": 71,
+      "item_type": "journalArticle",
+      "title": "A parsimonious Bayesian predictive model for forecasting new reported cases of West Nile disease",
+      "creators": [
+        {
+          "creator_type": "author",
+          "first_name": "Saman",
+          "last_name": "Hosseini",
+          "name": null
+        },
+        {
+          "creator_type": "author",
+          "first_name": "Lee W.",
+          "last_name": "Cohnstaedt",
+          "name": null
+        },
+        {
+          "creator_type": "author",
+          "first_name": "John M.",
+          "last_name": "Humphreys",
+          "name": null
+        },
+        {
+          "creator_type": "author",
+          "first_name": "Caterina",
+          "last_name": "Scoglio",
+          "name": null
+        }
+      ],
+      "creator_display": "Saman Hosseini, Lee W. Cohnstaedt, John M. Humphreys, Caterina Scoglio",
+      "date": "2024-12-01",
+      "year": 2024,
+      "publication_title": "Infectious Disease Modelling",
+      "journal_abbreviation": "Infectious Disease Modelling",
+      "volume": "9",
+      "issue": "4",
+      "pages": "1175-1197",
+      "publisher": null,
+      "place": null,
+      "doi": "10.1016/j.idm.2024.06.004",
+      "url": "https://www.sciencedirect.com/science/article/pii/S2468042724000861",
+      "abstract": "Upon researching predictive models related to West Nile virus disease, it is discovered that there are numerous parameters and extensive information in most models, thus contributing to unnecessary complexity. Another challenge frequently encountered is the lead time, which refers to the period for which predictions are made and often is too short. This paper addresses these issues by introducing a parsimonious method based on ICC curves, offering a logistic distribution model derived from the vector-borne SEIR model. Unlike existing models relying on diverse environmental data, our approach exclusively utilizes historical and present infected human cases (number of new cases). With a year-long lead time, the predictions extend throughout the 12 months, gaining precision as new data emerge. Theoretical conditions are derived to minimize Bayesian loss, enhancing predictive precision. We construct a Bayesian forecasting probability density function using carefully selected prior distributions. Applying these functions, we predict month-specific infections nationwide, rigorously evaluating accuracy with probabilistic metrics. Additionally, HPD credible intervals at 90%, 95%, and 99% levels is performed. Precision assessment is conducted for HPD intervals, measuring the proportion of intervals that does not include actual reported cases for 2020–2022.",
+      "tags": [
+        "/unread"
+      ],
+      "zotero_url": "https://www.zotero.org/groups/geoepi_publications/items/RVDF8F2Z",
+      "formatted_reference": "<div class=\"csl-bib-body\" style=\"line-height: 2; padding-left: 1em; text-indent:-1em;\">\n  <div class=\"csl-entry\">Hosseini, S., Cohnstaedt, L. W., Humphreys, J. M., &amp; Scoglio, C. (2024). A parsimonious Bayesian predictive model for forecasting new reported cases of West Nile disease. <i>Infectious Disease Modelling</i>, <i>9</i>(4), 1175&#x2013;1197. <a href=\"https://doi.org/10.1016/j.idm.2024.06.004\">https://doi.org/10.1016/j.idm.2024.06.004</a></div>\n</div>"
+    },
+    {
+      "key": "KE4JIQY8",
+      "version": 82,
+      "item_type": "journalArticle",
+      "title": "Interrogating Genomes and Geography to Unravel Multiyear Vesicular Stomatitis Epizootics",
+      "creators": [
+        {
+          "creator_type": "author",
+          "first_name": "John M.",
+          "last_name": "Humphreys",
+          "name": null
+        },
+        {
+          "creator_type": "author",
+          "first_name": "Phillip T.",
+          "last_name": "Shults",
+          "name": null
+        },
+        {
+          "creator_type": "author",
+          "first_name": "Lauro",
+          "last_name": "Velazquez-Salinas",
+          "name": null
+        },
+        {
+          "creator_type": "author",
+          "first_name": "Miranda R.",
+          "last_name": "Bertram",
+          "name": null
+        },
+        {
+          "creator_type": "author",
+          "first_name": "Angela M.",
+          "last_name": "Pelzel-McCluskey",
+          "name": null
+        },
+        {
+          "creator_type": "author",
+          "first_name": "Steven J.",
+          "last_name": "Pauszek",
+          "name": null
+        },
+        {
+          "creator_type": "author",
+          "first_name": "Debra P. C.",
+          "last_name": "Peters",
+          "name": null
+        },
+        {
+          "creator_type": "author",
+          "first_name": "Luis L.",
+          "last_name": "Rodriguez",
+          "name": null
+        }
+      ],
+      "creator_display": "John M. Humphreys, Phillip T. Shults, Lauro Velazquez-Salinas, Miranda R. Bertram, Angela M. Pelzel-McCluskey, Steven J. Pauszek, Debra P. C. Peters, Luis L. Rodriguez",
+      "date": "2024-07-10",
+      "year": 2024,
+      "publication_title": "Viruses",
+      "journal_abbreviation": null,
+      "volume": "16",
+      "issue": "7",
+      "pages": null,
+      "publisher": "Multidisciplinary Digital Publishing Institute",
+      "place": null,
+      "doi": "10.3390/v16071118",
+      "url": "https://www.mdpi.com/1999-4915/16/7/1118",
+      "abstract": "We conducted an integrative analysis to elucidate the spatial epidemiological patterns of the Vesicular Stomatitis New Jersey virus (VSNJV) during the...",
+      "tags": [
+        "/unread"
+      ],
+      "zotero_url": "https://www.zotero.org/groups/geoepi_publications/items/KE4JIQY8",
+      "formatted_reference": "<div class=\"csl-bib-body\" style=\"line-height: 2; padding-left: 1em; text-indent:-1em;\">\n  <div class=\"csl-entry\">Humphreys, J. M., Shults, P. T., Velazquez-Salinas, L., Bertram, M. R., Pelzel-McCluskey, A. M., Pauszek, S. J., Peters, D. P. C., &amp; Rodriguez, L. L. (2024). Interrogating Genomes and Geography to Unravel Multiyear Vesicular Stomatitis Epizootics. <i>Viruses</i>, <i>16</i>(7). <a href=\"https://doi.org/10.3390/v16071118\">https://doi.org/10.3390/v16071118</a></div>\n</div>"
+    },
+    {
+      "key": "ZJ5Y4EYX",
+      "version": 78,
+      "item_type": "journalArticle",
+      "title": "Modeling the 2014–2015 Vesicular Stomatitis Outbreak in the United States Using an SEIR-SEI Approach",
+      "creators": [
+        {
+          "creator_type": "author",
+          "first_name": "John M.",
+          "last_name": "Humphreys",
+          "name": null
+        },
+        {
+          "creator_type": "author",
+          "first_name": "Angela M.",
+          "last_name": "Pelzel-McCluskey",
+          "name": null
+        },
+        {
+          "creator_type": "author",
+          "first_name": "Phillip T.",
+          "last_name": "Shults",
+          "name": null
+        },
+        {
+          "creator_type": "author",
+          "first_name": "Lauro",
+          "last_name": "Velazquez-Salinas",
+          "name": null
+        },
+        {
+          "creator_type": "author",
+          "first_name": "Miranda R.",
+          "last_name": "Bertram",
+          "name": null
+        },
+        {
+          "creator_type": "author",
+          "first_name": "Bethany L.",
+          "last_name": "McGregor",
+          "name": null
+        },
+        {
+          "creator_type": "author",
+          "first_name": "Lee W.",
+          "last_name": "Cohnstaedt",
+          "name": null
+        },
+        {
+          "creator_type": "author",
+          "first_name": "Dustin A.",
+          "last_name": "Swanson",
+          "name": null
+        },
+        {
+          "creator_type": "author",
+          "first_name": "Stacey L. P.",
+          "last_name": "Scroggs",
+          "name": null
+        },
+        {
+          "creator_type": "author",
+          "first_name": "Chad",
+          "last_name": "Fautt",
+          "name": null
+        },
+        {
+          "creator_type": "author",
+          "first_name": "Amber",
+          "last_name": "Mooney",
+          "name": null
+        },
+        {
+          "creator_type": "author",
+          "first_name": "Debra P. C.",
+          "last_name": "Peters",
+          "name": null
+        },
+        {
+          "creator_type": "author",
+          "first_name": "Luis L.",
+          "last_name": "Rodriguez",
+          "name": null
+        }
+      ],
+      "creator_display": "John M. Humphreys, Angela M. Pelzel-McCluskey, Phillip T. Shults, Lauro Velazquez-Salinas, Miranda R. Bertram, Bethany L. McGregor, Lee W. Cohnstaedt, Dustin A. Swanson, Stacey L. P. Scroggs, Chad Fautt, Amber Mooney, Debra P. C. Peters, Luis L. Rodriguez",
+      "date": "2024-08-17",
+      "year": 2024,
+      "publication_title": "Viruses",
+      "journal_abbreviation": null,
+      "volume": "16",
+      "issue": "8",
+      "pages": null,
+      "publisher": "Multidisciplinary Digital Publishing Institute",
+      "place": null,
+      "doi": "10.3390/v16081315",
+      "url": "https://www.mdpi.com/1999-4915/16/8/1315",
+      "abstract": "Vesicular stomatitis (VS) is a vector-borne livestock disease caused by the vesicular stomatitis New Jersey virus (VSNJV). This study presents the fir...",
+      "tags": [
+        "/unread"
+      ],
+      "zotero_url": "https://www.zotero.org/groups/geoepi_publications/items/ZJ5Y4EYX",
+      "formatted_reference": "<div class=\"csl-bib-body\" style=\"line-height: 2; padding-left: 1em; text-indent:-1em;\">\n  <div class=\"csl-entry\">Humphreys, J. M., Pelzel-McCluskey, A. M., Shults, P. T., Velazquez-Salinas, L., Bertram, M. R., McGregor, B. L., Cohnstaedt, L. W., Swanson, D. A., Scroggs, S. L. P., Fautt, C., Mooney, A., Peters, D. P. C., &amp; Rodriguez, L. L. (2024). Modeling the 2014&#x2013;2015 Vesicular Stomatitis Outbreak in the United States Using an SEIR-SEI Approach. <i>Viruses</i>, <i>16</i>(8). <a href=\"https://doi.org/10.3390/v16081315\">https://doi.org/10.3390/v16081315</a></div>\n</div>"
+    },
+    {
+      "key": "9TNRH6VR",
+      "version": 99,
+      "item_type": "journalArticle",
+      "title": "Evaluation of an open forecasting challenge to assess skill of West Nile virus neuroinvasive disease prediction",
+      "creators": [
+        {
+          "creator_type": "author",
+          "first_name": "Karen M.",
+          "last_name": "Holcomb",
+          "name": null
+        },
+        {
+          "creator_type": "author",
+          "first_name": "Sarabeth",
+          "last_name": "Mathis",
+          "name": null
+        },
+        {
+          "creator_type": "author",
+          "first_name": "J. Erin",
+          "last_name": "Staples",
+          "name": null
+        },
+        {
+          "creator_type": "author",
+          "first_name": "Marc",
+          "last_name": "Fischer",
+          "name": null
+        },
+        {
+          "creator_type": "author",
+          "first_name": "Christopher M.",
+          "last_name": "Barker",
+          "name": null
+        },
+        {
+          "creator_type": "author",
+          "first_name": "Charles B.",
+          "last_name": "Beard",
+          "name": null
+        },
+        {
+          "creator_type": "author",
+          "first_name": "Randall J.",
+          "last_name": "Nett",
+          "name": null
+        },
+        {
+          "creator_type": "author",
+          "first_name": "Alexander C.",
+          "last_name": "Keyel",
+          "name": null
+        },
+        {
+          "creator_type": "author",
+          "first_name": "Matteo",
+          "last_name": "Marcantonio",
+          "name": null
+        },
+        {
+          "creator_type": "author",
+          "first_name": "Marissa L.",
+          "last_name": "Childs",
+          "name": null
+        },
+        {
+          "creator_type": "author",
+          "first_name": "Morgan E.",
+          "last_name": "Gorris",
+          "name": null
+        },
+        {
+          "creator_type": "author",
+          "first_name": "Ilia",
+          "last_name": "Rochlin",
+          "name": null
+        },
+        {
+          "creator_type": "author",
+          "first_name": "Marco",
+          "last_name": "Hamins-Puértolas",
+          "name": null
+        },
+        {
+          "creator_type": "author",
+          "first_name": "Evan L.",
+          "last_name": "Ray",
+          "name": null
+        },
+        {
+          "creator_type": "author",
+          "first_name": "Johnny A.",
+          "last_name": "Uelmen",
+          "name": null
+        },
+        {
+          "creator_type": "author",
+          "first_name": "Nicholas",
+          "last_name": "DeFelice",
+          "name": null
+        },
+        {
+          "creator_type": "author",
+          "first_name": "Andrew S.",
+          "last_name": "Freedman",
+          "name": null
+        },
+        {
+          "creator_type": "author",
+          "first_name": "Brandon D.",
+          "last_name": "Hollingsworth",
+          "name": null
+        },
+        {
+          "creator_type": "author",
+          "first_name": "Praachi",
+          "last_name": "Das",
+          "name": null
+        },
+        {
+          "creator_type": "author",
+          "first_name": "Dave",
+          "last_name": "Osthus",
+          "name": null
+        },
+        {
+          "creator_type": "author",
+          "first_name": "John M.",
+          "last_name": "Humphreys",
+          "name": null
+        },
+        {
+          "creator_type": "author",
+          "first_name": "Nicole",
+          "last_name": "Nova",
+          "name": null
+        },
+        {
+          "creator_type": "author",
+          "first_name": "Erin A.",
+          "last_name": "Mordecai",
+          "name": null
+        },
+        {
+          "creator_type": "author",
+          "first_name": "Lee W.",
+          "last_name": "Cohnstaedt",
+          "name": null
+        },
+        {
+          "creator_type": "author",
+          "first_name": "Devin",
+          "last_name": "Kirk",
+          "name": null
+        },
+        {
+          "creator_type": "author",
+          "first_name": "Laura D.",
+          "last_name": "Kramer",
+          "name": null
+        },
+        {
+          "creator_type": "author",
+          "first_name": "Mallory J.",
+          "last_name": "Harris",
+          "name": null
+        },
+        {
+          "creator_type": "author",
+          "first_name": "Morgan P.",
+          "last_name": "Kain",
+          "name": null
+        },
+        {
+          "creator_type": "author",
+          "first_name": "Emily M. X.",
+          "last_name": "Reed",
+          "name": null
+        },
+        {
+          "creator_type": "author",
+          "first_name": "Michael A.",
+          "last_name": "Johansson",
+          "name": null
+        }
+      ],
+      "creator_display": "Karen M. Holcomb, Sarabeth Mathis, J. Erin Staples, Marc Fischer, Christopher M. Barker, Charles B. Beard, Randall J. Nett, Alexander C. Keyel, Matteo Marcantonio, Marissa L. Childs, Morgan E. Gorris, Ilia Rochlin, Marco Hamins-Puértolas, Evan L. Ray, Johnny A. Uelmen, Nicholas DeFelice, Andrew S. Freedman, Brandon D. Hollingsworth, Praachi Das, Dave Osthus, John M. Humphreys, Nicole Nova, Erin A. Mordecai, Lee W. Cohnstaedt, Devin Kirk, Laura D. Kramer, Mallory J. Harris, Morgan P. Kain, Emily M. X. Reed, Michael A. Johansson",
+      "date": "2023-01-12",
+      "year": 2023,
+      "publication_title": "Parasites & Vectors",
+      "journal_abbreviation": "Parasites Vectors",
+      "volume": "16",
+      "issue": "1",
+      "pages": "11",
+      "publisher": null,
+      "place": null,
+      "doi": "10.1186/s13071-022-05630-y",
+      "url": "https://doi.org/10.1186/s13071-022-05630-y",
+      "abstract": "West Nile virus (WNV) is the leading cause of mosquito-borne illness in the continental USA. WNV occurrence has high spatiotemporal variation, and current approaches to targeted control of the virus are limited, making forecasting a public health priority. However, little research has been done to compare strengths and weaknesses of WNV disease forecasting approaches on the national scale. We used forecasts submitted to the 2020 WNV Forecasting Challenge, an open challenge organized by the Centers for Disease Control and Prevention, to assess the status of WNV neuroinvasive disease (WNND) prediction and identify avenues for improvement.",
+      "tags": [
+        "/unread"
+      ],
+      "zotero_url": "https://www.zotero.org/groups/geoepi_publications/items/9TNRH6VR",
+      "formatted_reference": "<div class=\"csl-bib-body\" style=\"line-height: 2; padding-left: 1em; text-indent:-1em;\">\n  <div class=\"csl-entry\">Holcomb, K. M., Mathis, S., Staples, J. E., Fischer, M., Barker, C. M., Beard, C. B., Nett, R. J., Keyel, A. C., Marcantonio, M., Childs, M. L., Gorris, M. E., Rochlin, I., Hamins-Pu&#xE9;rtolas, M., Ray, E. L., Uelmen, J. A., DeFelice, N., Freedman, A. S., Hollingsworth, B. D., Das, P., &#x2026; Johansson, M. A. (2023). Evaluation of an open forecasting challenge to assess skill of West Nile virus neuroinvasive disease prediction. <i>Parasites &amp; Vectors</i>, <i>16</i>(1), 11. <a href=\"https://doi.org/10.1186/s13071-022-05630-y\">https://doi.org/10.1186/s13071-022-05630-y</a></div>\n</div>"
+    },
+    {
+      "key": "CITKKEGU",
+      "version": 89,
+      "item_type": "journalArticle",
+      "title": "Habitat and climatic associations of climate-sensitive species along a southern range boundary",
+      "creators": [
+        {
+          "creator_type": "author",
+          "first_name": "Evan C.",
+          "last_name": "Wilson",
+          "name": null
+        },
+        {
+          "creator_type": "author",
+          "first_name": "Stella",
+          "last_name": "Cousins",
+          "name": null
+        },
+        {
+          "creator_type": "author",
+          "first_name": "Dwayne R.",
+          "last_name": "Etter",
+          "name": null
+        },
+        {
+          "creator_type": "author",
+          "first_name": "John M.",
+          "last_name": "Humphreys",
+          "name": null
+        },
+        {
+          "creator_type": "author",
+          "first_name": "Gary J.",
+          "last_name": "Roloff",
+          "name": null
+        },
+        {
+          "creator_type": "author",
+          "first_name": "Neil H.",
+          "last_name": "Carter",
+          "name": null
+        }
+      ],
+      "creator_display": "Evan C. Wilson, Stella Cousins, Dwayne R. Etter, John M. Humphreys, Gary J. Roloff, Neil H. Carter",
+      "date": "2023",
+      "year": 2023,
+      "publication_title": "Ecology and Evolution",
+      "journal_abbreviation": null,
+      "volume": "13",
+      "issue": "5",
+      "pages": "e10083",
+      "publisher": null,
+      "place": null,
+      "doi": "10.1002/ece3.10083",
+      "url": "https://onlinelibrary.wiley.com/doi/abs/10.1002/ece3.10083",
+      "abstract": "Climate change and habitat loss are recognized as important drivers of shifts in wildlife species' geographic distributions. While often considered independently, there is considerable overlap between these drivers, and understanding how they contribute to range shifts can predict future species assemblages and inform effective management. Our objective was to evaluate the impacts of habitat, climatic, and anthropogenic effects on the distributions of climate-sensitive vertebrates along a southern range boundary in Northern Michigan, USA. We combined multiple sources of occurrence data, including harvest and citizen-science data, then used hierarchical Bayesian spatial models to determine habitat and climatic associations for four climate-sensitive vertebrate species (American marten [Martes americana], snowshoe hare [Lepus americanus], ruffed grouse [Bonasa umbellus] and moose [Alces alces]). We used total basal area of at-risk forest types to represent habitat, and temperature and winter habitat indices to represent climate. Marten associated with upland spruce-fir and lowland riparian forest types, hares with lowland conifer and aspen-birch, grouse with lowland riparian hardwoods, and moose with upland spruce-fir. Species differed in climatic drivers with hares positively associated with cooler annual temperatures, moose with cooler summer temperatures and grouse with colder winter temperatures. Contrary to expectations, temperature variables outperformed winter habitat indices. Model performance varied greatly among species, as did predicted distributions along the southern edge of the Northwoods region. As multiple species were associated with lowland riparian and upland spruce-fir habitats, these results provide potential for efficient prioritization of habitat management. Both direct and indirect effects from climate change are likely to impact the distribution of climate-sensitive species in the future and the use of multiple data types and sources in the modelling of species distributions can result in more accurate predictions resulting in improved management at policy-relevant scales.",
+      "tags": [
+        "/unread"
+      ],
+      "zotero_url": "https://www.zotero.org/groups/geoepi_publications/items/CITKKEGU",
+      "formatted_reference": "<div class=\"csl-bib-body\" style=\"line-height: 2; padding-left: 1em; text-indent:-1em;\">\n  <div class=\"csl-entry\">Wilson, E. C., Cousins, S., Etter, D. R., Humphreys, J. M., Roloff, G. J., &amp; Carter, N. H. (2023). Habitat and climatic associations of climate-sensitive species along a southern range boundary. <i>Ecology and Evolution</i>, <i>13</i>(5), e10083. <a href=\"https://doi.org/10.1002/ece3.10083\">https://doi.org/10.1002/ece3.10083</a></div>\n</div>"
+    },
+    {
+      "key": "Q6KKU34X",
+      "version": 107,
+      "item_type": "journalArticle",
+      "title": "Amplification in Time and Dilution in Space: Partitioning Spatiotemporal Processes to Assess the Role of Avian-Host Phylodiversity in Shaping Eastern Equine Encephalitis Virus Distribution",
+      "creators": [
+        {
+          "creator_type": "author",
+          "first_name": "John M.",
+          "last_name": "Humphreys",
+          "name": null
+        }
+      ],
+      "creator_display": "John M. Humphreys",
+      "date": "2022-07-07",
+      "year": 2022,
+      "publication_title": "Geographies",
+      "journal_abbreviation": null,
+      "volume": "2",
+      "issue": "3",
+      "pages": "419-434",
+      "publisher": "Multidisciplinary Digital Publishing Institute",
+      "place": null,
+      "doi": "10.3390/geographies2030026",
+      "url": "https://www.mdpi.com/2673-7086/2/3/26",
+      "abstract": "Eastern equine encephalitis virus (EEEv) is an arthropod-borne virus and the causative agent of neurologic disease in humans, horses, poultry, and wil...",
+      "tags": [
+        "/unread"
+      ],
+      "zotero_url": "https://www.zotero.org/groups/geoepi_publications/items/Q6KKU34X",
+      "formatted_reference": "<div class=\"csl-bib-body\" style=\"line-height: 2; padding-left: 1em; text-indent:-1em;\">\n  <div class=\"csl-entry\">Humphreys, J. M. (2022). Amplification in Time and Dilution in Space: Partitioning Spatiotemporal Processes to Assess the Role of Avian-Host Phylodiversity in Shaping Eastern Equine Encephalitis Virus Distribution. <i>Geographies</i>, <i>2</i>(3), 419&#x2013;434. <a href=\"https://doi.org/10.3390/geographies2030026\">https://doi.org/10.3390/geographies2030026</a></div>\n</div>"
+    },
+    {
+      "key": "KWXUU2S3",
+      "version": 115,
+      "item_type": "journalArticle",
+      "title": "Behavioral states in space and time: understanding landscape use by an invasive mammal",
+      "creators": [
+        {
+          "creator_type": "author",
+          "first_name": "Steven M.",
+          "last_name": "Gray",
+          "name": null
+        },
+        {
+          "creator_type": "author",
+          "first_name": "John M.",
+          "last_name": "Humphreys",
+          "name": null
+        },
+        {
+          "creator_type": "author",
+          "first_name": "Robert A.",
+          "last_name": "Montgomery",
+          "name": null
+        },
+        {
+          "creator_type": "author",
+          "first_name": "Dwayne R.",
+          "last_name": "Etter",
+          "name": null
+        },
+        {
+          "creator_type": "author",
+          "first_name": "Kurt C.",
+          "last_name": "VerCauteren",
+          "name": null
+        },
+        {
+          "creator_type": "author",
+          "first_name": "Daniel B.",
+          "last_name": "Kramer",
+          "name": null
+        },
+        {
+          "creator_type": "author",
+          "first_name": "Gary J.",
+          "last_name": "Roloff",
+          "name": null
+        }
+      ],
+      "creator_display": "Steven M. Gray, John M. Humphreys, Robert A. Montgomery, Dwayne R. Etter, Kurt C. VerCauteren, Daniel B. Kramer, Gary J. Roloff",
+      "date": "2022",
+      "year": 2022,
+      "publication_title": "The Journal of Wildlife Management",
+      "journal_abbreviation": null,
+      "volume": "86",
+      "issue": "4",
+      "pages": "e22211",
+      "publisher": null,
+      "place": null,
+      "doi": "10.1002/jwmg.22211",
+      "url": "https://onlinelibrary.wiley.com/doi/abs/10.1002/jwmg.22211",
+      "abstract": "Animal movement models can be used to understand species behavior and assist with implementation of management activities. We explored behavioral states of an invasive wild pig (Sus scrofa) population that recently colonized central Michigan, USA, 2014–2018. To quantify environmental factors related to wild pig movement ecology and spatio-temporal landscape use, we predicted wild pig behavioral states relative to land cover type, landscape structure (i.e., edge and patch cohesion), and weather conditions. We used global positioning system (GPS)-collars and monitored 8 wild pigs from 2014–2018. We fit local convex hulls and calculated movement metrics revealing 3 wild pig behavioral states (resting, exploratory, and relocating) and constructed a 3-level model to predict behavioral state probabilities relative to biotic and abiotic conditions. Probabilities of exploratory and resting behaviors were higher nearer to riparian and open herbaceous cover types (oftentimes emergent marsh), indicating that these cover types provided security cover during activity and bedding. Hard mast cover types had a strong positive association with relocating behaviors. More cohesive patches of agriculture and shrub cover types were associated with higher probabilities of exploratory behaviors, while resting was more likely in continuous patches of agriculture (mostly mid-summer corn). The probability of exploratory behaviors increased exponentially with warming ambient temperature. Our results may be used by managers to develop control strategies conducive to landscape and environmental conditions where the likelihood of encountering wild pigs is highest or targeting wild pigs when in a behavioral state most vulnerable to a particular removal technique.",
+      "tags": [
+        "/unread"
+      ],
+      "zotero_url": "https://www.zotero.org/groups/geoepi_publications/items/KWXUU2S3",
+      "formatted_reference": "<div class=\"csl-bib-body\" style=\"line-height: 2; padding-left: 1em; text-indent:-1em;\">\n  <div class=\"csl-entry\">Gray, S. M., Humphreys, J. M., Montgomery, R. A., Etter, D. R., VerCauteren, K. C., Kramer, D. B., &amp; Roloff, G. J. (2022). Behavioral states in space and time: understanding landscape use by an invasive mammal. <i>The Journal of Wildlife Management</i>, <i>86</i>(4), e22211. <a href=\"https://doi.org/10.1002/jwmg.22211\">https://doi.org/10.1002/jwmg.22211</a></div>\n</div>"
+    },
+    {
+      "key": "D5SN2S7Y",
+      "version": 111,
+      "item_type": "journalArticle",
+      "title": "Geographic Variation in Migratory Grasshopper Recruitment under Projected Climate Change",
+      "creators": [
+        {
+          "creator_type": "author",
+          "first_name": "John M.",
+          "last_name": "Humphreys",
+          "name": null
+        },
+        {
+          "creator_type": "author",
+          "first_name": "Robert B.",
+          "last_name": "Srygley",
+          "name": null
+        },
+        {
+          "creator_type": "author",
+          "first_name": "David H.",
+          "last_name": "Branson",
+          "name": null
+        }
+      ],
+      "creator_display": "John M. Humphreys, Robert B. Srygley, David H. Branson",
+      "date": "2022-01-26",
+      "year": 2022,
+      "publication_title": "Geographies",
+      "journal_abbreviation": null,
+      "volume": "2",
+      "issue": "1",
+      "pages": "12-30",
+      "publisher": "Multidisciplinary Digital Publishing Institute",
+      "place": null,
+      "doi": "10.3390/geographies2010003",
+      "url": "https://www.mdpi.com/2673-7086/2/1/3",
+      "abstract": "Climate change is expected to alter prevailing temperature, precipitation, cloud cover, and humidity this century, thereby modifying insect demographi...",
+      "tags": [
+        "/unread"
+      ],
+      "zotero_url": "https://www.zotero.org/groups/geoepi_publications/items/D5SN2S7Y",
+      "formatted_reference": "<div class=\"csl-bib-body\" style=\"line-height: 2; padding-left: 1em; text-indent:-1em;\">\n  <div class=\"csl-entry\">Humphreys, J. M., Srygley, R. B., &amp; Branson, D. H. (2022). Geographic Variation in Migratory Grasshopper Recruitment under Projected Climate Change. <i>Geographies</i>, <i>2</i>(1), 12&#x2013;30. <a href=\"https://doi.org/10.3390/geographies2010003\">https://doi.org/10.3390/geographies2010003</a></div>\n</div>"
+    },
+    {
+      "key": "TW5SUPH8",
+      "version": 103,
+      "item_type": "journalArticle",
+      "title": "Grasshoppers exhibit asynchrony and spatial non-stationarity in response to the El Niño/Southern and Pacific Decadal Oscillations",
+      "creators": [
+        {
+          "creator_type": "author",
+          "first_name": "John M.",
+          "last_name": "Humphreys",
+          "name": null
+        },
+        {
+          "creator_type": "author",
+          "first_name": "Robert B.",
+          "last_name": "Srygley",
+          "name": null
+        },
+        {
+          "creator_type": "author",
+          "first_name": "Douglas",
+          "last_name": "Lawton",
+          "name": null
+        },
+        {
+          "creator_type": "author",
+          "first_name": "Amy R.",
+          "last_name": "Hudson",
+          "name": null
+        },
+        {
+          "creator_type": "author",
+          "first_name": "David H.",
+          "last_name": "Branson",
+          "name": null
+        }
+      ],
+      "creator_display": "John M. Humphreys, Robert B. Srygley, Douglas Lawton, Amy R. Hudson, David H. Branson",
+      "date": "2022-09-01",
+      "year": 2022,
+      "publication_title": "Ecological Modelling",
+      "journal_abbreviation": "Ecological Modelling",
+      "volume": "471",
+      "issue": null,
+      "pages": "110043",
+      "publisher": null,
+      "place": null,
+      "doi": "10.1016/j.ecolmodel.2022.110043",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0304380022001533",
+      "abstract": "Grasshoppers are preeminent herbivores and perhaps the most significant rangeland pests in the United States (US). Despite the important ecosystem functions they provide, grasshopper populations often obtain densities that cause significant economic harm to grazing operations and agricultural production. Although numerous studies conducted at the level of individual field sites have examined potential mechanisms contributing to grasshopper population “boom and bust” cycles, there has yet to be a large, regional scaled analysis that quantified grasshopper variation across the Western US as a whole. While taking steps to account for data collection biases, mediating effects, and variable confounding, we assessed the influence of Pacific Ocean sea surface temperature oscillations on a 40-year record of grasshopper density in the Western US. Central to our analysis was employing spatially varying coefficients to model time and location-specific variation in grasshopper response to climate. Our results quantitatively demonstrated interannual changes in grasshopper density to be indirectly effected by seasonal El Niño/Southern Oscillation (ENSO) and Pacific Decadal Oscillation (PDO) variability and to exhibit spatial asynchrony and non-stationarity such that the relative influence of climate on grasshopper density varied through time and across geographic space. Our model is the first to incorporate climate indices as spatially varying coefficients for assessment of a terrestrial species and represents a critical step towards understanding causal drivers of regional grasshopper density.",
+      "tags": [
+        "/unread"
+      ],
+      "zotero_url": "https://www.zotero.org/groups/geoepi_publications/items/TW5SUPH8",
+      "formatted_reference": "<div class=\"csl-bib-body\" style=\"line-height: 2; padding-left: 1em; text-indent:-1em;\">\n  <div class=\"csl-entry\">Humphreys, J. M., Srygley, R. B., Lawton, D., Hudson, A. R., &amp; Branson, D. H. (2022). Grasshoppers exhibit asynchrony and spatial non-stationarity in response to the El Ni&#xF1;o/Southern and Pacific Decadal Oscillations. <i>Ecological Modelling</i>, <i>471</i>, 110043. <a href=\"https://doi.org/10.1016/j.ecolmodel.2022.110043\">https://doi.org/10.1016/j.ecolmodel.2022.110043</a></div>\n</div>"
+    },
+    {
+      "key": "Y7AFWZKY",
+      "version": 134,
+      "item_type": "journalArticle",
+      "title": "Spatial variation in bioclimatic relationships for a snow-adapted species along a discontinuous southern range boundary",
+      "creators": [
+        {
+          "creator_type": "author",
+          "first_name": "Sean M.",
+          "last_name": "Sultaire",
+          "name": null
+        },
+        {
+          "creator_type": "author",
+          "first_name": "John M.",
+          "last_name": "Humphreys",
+          "name": null
+        },
+        {
+          "creator_type": "author",
+          "first_name": "Benjamin",
+          "last_name": "Zuckerberg",
+          "name": null
+        },
+        {
+          "creator_type": "author",
+          "first_name": "Jonathan N.",
+          "last_name": "Pauli",
+          "name": null
+        },
+        {
+          "creator_type": "author",
+          "first_name": "Gary J.",
+          "last_name": "Roloff",
+          "name": null
+        }
+      ],
+      "creator_display": "Sean M. Sultaire, John M. Humphreys, Benjamin Zuckerberg, Jonathan N. Pauli, Gary J. Roloff",
+      "date": "2022",
+      "year": 2022,
+      "publication_title": "Journal of Biogeography",
+      "journal_abbreviation": null,
+      "volume": "49",
+      "issue": "1",
+      "pages": "66-78",
+      "publisher": null,
+      "place": null,
+      "doi": "10.1111/jbi.14279",
+      "url": "https://onlinelibrary.wiley.com/doi/abs/10.1111/jbi.14279",
+      "abstract": "Aim Variation in the relationship between variables across space, known as spatial non-stationarity, is a common phenomenon in ecology. Species distribution models (SDMs), however, typically assume stationarity in species–environment relationships across space. Spatial non-stationarity may be particularly apparent in populations along range boundaries where species are actively adapting to changes in climate, and geographically isolated areas where isolation can facilitate adaptation. We used data collected from the southern range boundary of a winter-adapted mammal to evaluate spatially varying environmental relationships in a region with a geographically isolated population. Taxon Lepus americanus. Location Laurentian Great Lakes region, USA. Methods We surveyed 320 sites for snowshoe hares near their regional southern range boundary. We related snowshoe hare occurrence to short-term climate variables (snow cover duration, maximum temperature and their interaction) with a spatially explicit model that allowed the effect of climate variables on snowshoe hare occurrence to vary spatially. Results We found highest support for an SDM that incorporated geographic barriers when estimating spatial effects, in addition to spatially varying effects of maximum temperate, snow cover duration and their interaction. Hares were more likely to occupy sites with longer snow cover duration but the influence of temperature was more variable. Increasing temperature in northern portions of our study area had a positive influence on hare occurrence, but exhibited a negative relationship along the southern range boundary. Main Conclusions We provide a robust evaluation of stationarity assumptions in bioclimatic relationships and highlight spatially variable relationships between a cold-adapted species and short-term climate variables across a range boundary. However, spatial non-stationarity was not most apparent across dispersal barriers but coincided with differences in the relationship between climate variables across space. Our study provides evidence that the distribution of a winter-adapted species is strongly constrained by snow cover, but prevailing temperature modulates the strength of this relationship across space.",
+      "tags": [
+        "/unread"
+      ],
+      "zotero_url": "https://www.zotero.org/groups/geoepi_publications/items/Y7AFWZKY",
+      "formatted_reference": "<div class=\"csl-bib-body\" style=\"line-height: 2; padding-left: 1em; text-indent:-1em;\">\n  <div class=\"csl-entry\">Sultaire, S. M., Humphreys, J. M., Zuckerberg, B., Pauli, J. N., &amp; Roloff, G. J. (2022). Spatial variation in bioclimatic relationships for a snow-adapted species along a discontinuous southern range boundary. <i>Journal of Biogeography</i>, <i>49</i>(1), 66&#x2013;78. <a href=\"https://doi.org/10.1111/jbi.14279\">https://doi.org/10.1111/jbi.14279</a></div>\n</div>"
+    },
+    {
+      "key": "93NJ5EPY",
+      "version": 141,
+      "item_type": "journalArticle",
+      "title": "Evolution and expansion dynamics of a vector-borne virus: 2004–2006 vesicular stomatitis outbreak in the western USA",
+      "creators": [
+        {
+          "creator_type": "author",
+          "first_name": "Rachel",
+          "last_name": "Palinski",
+          "name": null
+        },
+        {
+          "creator_type": "author",
+          "first_name": "Steven J.",
+          "last_name": "Pauszek",
+          "name": null
+        },
+        {
+          "creator_type": "author",
+          "first_name": "John M.",
+          "last_name": "Humphreys",
+          "name": null
+        },
+        {
+          "creator_type": "author",
+          "first_name": "Debra P.C.",
+          "last_name": "Peters",
+          "name": null
+        },
+        {
+          "creator_type": "author",
+          "first_name": "D. Scott",
+          "last_name": "McVey",
+          "name": null
+        },
+        {
+          "creator_type": "author",
+          "first_name": "Angela M.",
+          "last_name": "Pelzel-McCluskey",
+          "name": null
+        },
+        {
+          "creator_type": "author",
+          "first_name": "Justin D.",
+          "last_name": "Derner",
+          "name": null
+        },
+        {
+          "creator_type": "author",
+          "first_name": "N. Dylan",
+          "last_name": "Burruss",
+          "name": null
+        },
+        {
+          "creator_type": "author",
+          "first_name": "Jonathan",
+          "last_name": "Arzt",
+          "name": null
+        },
+        {
+          "creator_type": "author",
+          "first_name": "Luis L.",
+          "last_name": "Rodriguez",
+          "name": null
+        }
+      ],
+      "creator_display": "Rachel Palinski, Steven J. Pauszek, John M. Humphreys, Debra P.C. Peters, D. Scott McVey, Angela M. Pelzel-McCluskey, Justin D. Derner, N. Dylan Burruss, Jonathan Arzt, Luis L. Rodriguez",
+      "date": "2021",
+      "year": 2021,
+      "publication_title": "Ecosphere",
+      "journal_abbreviation": null,
+      "volume": "12",
+      "issue": "10",
+      "pages": "e03793",
+      "publisher": null,
+      "place": null,
+      "doi": "10.1002/ecs2.3793",
+      "url": "https://onlinelibrary.wiley.com/doi/abs/10.1002/ecs2.3793",
+      "abstract": "Vesicular stomatitis (VS) is an arthropod-borne viral disease that negatively impacts domestic livestock and wildlife hosts, and economically impacts both private animal owners and the commercial livestock industry. Previous phylogenetic studies, based on partial P gene sequences, suggested that outbreak cycles of the virus (VSV) exhibit a two-phase dynamic (i.e., incursion and expansion). A single viral lineage from endemic areas of Mexico introduced into the southern United States during an incursion year (2004), can overwinter, and then expand throughout the western United States during the subsequent spring and summer seasons (2005). Our objective was to build on this past research using full-length viral genomic sequences from Mexico and the United States from the same outbreak, and a large suite of geospatial data to identify the environmental factors that influence VSV evolution in the United States and potentially drive the incursion–expansion dynamics. Our phylogeographic analysis confirmed that a single VS New Jersey virus (VSNJV) lineage initiated the 2004 incursion year outbreak was subject to decreasing genetic divergence during the 2004–2006 outbreak cycle, and likely overwintered between the 2004–2006 outbreak seasons. However, rather than a simple geographic relationship, viral genetic sublineages or patristic groups identified as part of our study, were found to be associated with seasonally varying evaporative demand, soil moisture, and precipitation. Our results suggest a functional role for these environmental factors in shaping the evolution and ecology of VSNJV. We speculate a nexus to insect-vector switching and possible adaptation to local environmental conditions to help explain the observed incursion–expansion dynamic in the United States in the 2004–2006 outbreak. Our approach of linking the phylogeography of a virus with the ecology of insect vectors can be applied to other vector-borne diseases.",
+      "tags": [
+        "/unread"
+      ],
+      "zotero_url": "https://www.zotero.org/groups/geoepi_publications/items/93NJ5EPY",
+      "formatted_reference": "<div class=\"csl-bib-body\" style=\"line-height: 2; padding-left: 1em; text-indent:-1em;\">\n  <div class=\"csl-entry\">Palinski, R., Pauszek, S. J., Humphreys, J. M., Peters, D. P. C., McVey, D. S., Pelzel-McCluskey, A. M., Derner, J. D., Burruss, N. D., Arzt, J., &amp; Rodriguez, L. L. (2021). Evolution and expansion dynamics of a vector-borne virus: 2004&#x2013;2006 vesicular stomatitis outbreak in the western USA. <i>Ecosphere</i>, <i>12</i>(10), e03793. <a href=\"https://doi.org/10.1002/ecs2.3793\">https://doi.org/10.1002/ecs2.3793</a></div>\n</div>"
+    },
+    {
+      "key": "473YCIKL",
+      "version": 126,
+      "item_type": "journalArticle",
+      "title": "Integrating Spatiotemporal Epidemiology, Eco-Phylogenetics, and Distributional Ecology to Assess West Nile Disease Risk in Horses",
+      "creators": [
+        {
+          "creator_type": "author",
+          "first_name": "John M.",
+          "last_name": "Humphreys",
+          "name": null
+        },
+        {
+          "creator_type": "author",
+          "first_name": "Angela M.",
+          "last_name": "Pelzel-McCluskey",
+          "name": null
+        },
+        {
+          "creator_type": "author",
+          "first_name": "Lee W.",
+          "last_name": "Cohnstaedt",
+          "name": null
+        },
+        {
+          "creator_type": "author",
+          "first_name": "Bethany L.",
+          "last_name": "McGregor",
+          "name": null
+        },
+        {
+          "creator_type": "author",
+          "first_name": "Kathryn A.",
+          "last_name": "Hanley",
+          "name": null
+        },
+        {
+          "creator_type": "author",
+          "first_name": "Amy R.",
+          "last_name": "Hudson",
+          "name": null
+        },
+        {
+          "creator_type": "author",
+          "first_name": "Katherine I.",
+          "last_name": "Young",
+          "name": null
+        },
+        {
+          "creator_type": "author",
+          "first_name": "Dannele",
+          "last_name": "Peck",
+          "name": null
+        },
+        {
+          "creator_type": "author",
+          "first_name": "Luis L.",
+          "last_name": "Rodriguez",
+          "name": null
+        },
+        {
+          "creator_type": "author",
+          "first_name": "Debra P. C.",
+          "last_name": "Peters",
+          "name": null
+        }
+      ],
+      "creator_display": "John M. Humphreys, Angela M. Pelzel-McCluskey, Lee W. Cohnstaedt, Bethany L. McGregor, Kathryn A. Hanley, Amy R. Hudson, Katherine I. Young, Dannele Peck, Luis L. Rodriguez, Debra P. C. Peters",
+      "date": "2021-09-11",
+      "year": 2021,
+      "publication_title": "Viruses",
+      "journal_abbreviation": null,
+      "volume": "13",
+      "issue": "9",
+      "pages": null,
+      "publisher": "Multidisciplinary Digital Publishing Institute",
+      "place": null,
+      "doi": "10.3390/v13091811",
+      "url": "https://www.mdpi.com/1999-4915/13/9/1811",
+      "abstract": "Mosquito-borne West Nile virus (WNV) is the causative agent of West Nile disease in humans, horses, and some bird species. Since the initial introduct...",
+      "tags": [
+        "/unread"
+      ],
+      "zotero_url": "https://www.zotero.org/groups/geoepi_publications/items/473YCIKL",
+      "formatted_reference": "<div class=\"csl-bib-body\" style=\"line-height: 2; padding-left: 1em; text-indent:-1em;\">\n  <div class=\"csl-entry\">Humphreys, J. M., Pelzel-McCluskey, A. M., Cohnstaedt, L. W., McGregor, B. L., Hanley, K. A., Hudson, A. R., Young, K. I., Peck, D., Rodriguez, L. L., &amp; Peters, D. P. C. (2021). Integrating Spatiotemporal Epidemiology, Eco-Phylogenetics, and Distributional Ecology to Assess West Nile Disease Risk in Horses. <i>Viruses</i>, <i>13</i>(9). <a href=\"https://doi.org/10.3390/v13091811\">https://doi.org/10.3390/v13091811</a></div>\n</div>"
+    },
+    {
+      "key": "HT7U2V4F",
+      "version": 148,
+      "item_type": "journalArticle",
+      "title": "Review of Vesicular Stomatitis in the United States with Focus on 2019 and 2020 Outbreaks",
+      "creators": [
+        {
+          "creator_type": "author",
+          "first_name": "Angela",
+          "last_name": "Pelzel-McCluskey",
+          "name": null
+        },
+        {
+          "creator_type": "author",
+          "first_name": "Brad",
+          "last_name": "Christensen",
+          "name": null
+        },
+        {
+          "creator_type": "author",
+          "first_name": "John",
+          "last_name": "Humphreys",
+          "name": null
+        },
+        {
+          "creator_type": "author",
+          "first_name": "Miranda",
+          "last_name": "Bertram",
+          "name": null
+        },
+        {
+          "creator_type": "author",
+          "first_name": "Robert",
+          "last_name": "Keener",
+          "name": null
+        },
+        {
+          "creator_type": "author",
+          "first_name": "Robert",
+          "last_name": "Ewing",
+          "name": null
+        },
+        {
+          "creator_type": "author",
+          "first_name": "Lee W.",
+          "last_name": "Cohnstaedt",
+          "name": null
+        },
+        {
+          "creator_type": "author",
+          "first_name": "Rachel",
+          "last_name": "Tell",
+          "name": null
+        },
+        {
+          "creator_type": "author",
+          "first_name": "Debra P. C.",
+          "last_name": "Peters",
+          "name": null
+        },
+        {
+          "creator_type": "author",
+          "first_name": "Luis",
+          "last_name": "Rodriguez",
+          "name": null
+        }
+      ],
+      "creator_display": "Angela Pelzel-McCluskey, Brad Christensen, John Humphreys, Miranda Bertram, Robert Keener, Robert Ewing, Lee W. Cohnstaedt, Rachel Tell, Debra P. C. Peters, Luis Rodriguez",
+      "date": "2021-08-05",
+      "year": 2021,
+      "publication_title": "Pathogens",
+      "journal_abbreviation": null,
+      "volume": "10",
+      "issue": "8",
+      "pages": null,
+      "publisher": "Multidisciplinary Digital Publishing Institute",
+      "place": null,
+      "doi": "10.3390/pathogens10080993",
+      "url": "https://www.mdpi.com/2076-0817/10/8/993",
+      "abstract": "Vesicular stomatitis (VS) is a vector-borne livestock disease caused by vesicular stomatitis New Jersey virus (VSNJV) or vesicular stomatitis Indiana ...",
+      "tags": [
+        "/unread"
+      ],
+      "zotero_url": "https://www.zotero.org/groups/geoepi_publications/items/HT7U2V4F",
+      "formatted_reference": "<div class=\"csl-bib-body\" style=\"line-height: 2; padding-left: 1em; text-indent:-1em;\">\n  <div class=\"csl-entry\">Pelzel-McCluskey, A., Christensen, B., Humphreys, J., Bertram, M., Keener, R., Ewing, R., Cohnstaedt, L. W., Tell, R., Peters, D. P. C., &amp; Rodriguez, L. (2021). Review of Vesicular Stomatitis in the United States with Focus on 2019 and 2020 Outbreaks. <i>Pathogens</i>, <i>10</i>(8). <a href=\"https://doi.org/10.3390/pathogens10080993\">https://doi.org/10.3390/pathogens10080993</a></div>\n</div>"
+    },
+    {
+      "key": "W2FQLZK5",
+      "version": 119,
+      "item_type": "journalArticle",
+      "title": "The spatial–temporal relationship of blue-winged teal to domestic poultry: Movement state modelling of a highly mobile avian influenza host",
+      "creators": [
+        {
+          "creator_type": "author",
+          "first_name": "John M.",
+          "last_name": "Humphreys",
+          "name": null
+        },
+        {
+          "creator_type": "author",
+          "first_name": "David C.",
+          "last_name": "Douglas",
+          "name": null
+        },
+        {
+          "creator_type": "author",
+          "first_name": "Andrew M.",
+          "last_name": "Ramey",
+          "name": null
+        },
+        {
+          "creator_type": "author",
+          "first_name": "Jennifer M.",
+          "last_name": "Mullinax",
+          "name": null
+        },
+        {
+          "creator_type": "author",
+          "first_name": "Catherine",
+          "last_name": "Soos",
+          "name": null
+        },
+        {
+          "creator_type": "author",
+          "first_name": "Paul",
+          "last_name": "Link",
+          "name": null
+        },
+        {
+          "creator_type": "author",
+          "first_name": "Patrick",
+          "last_name": "Walther",
+          "name": null
+        },
+        {
+          "creator_type": "author",
+          "first_name": "Diann J.",
+          "last_name": "Prosser",
+          "name": null
+        }
+      ],
+      "creator_display": "John M. Humphreys, David C. Douglas, Andrew M. Ramey, Jennifer M. Mullinax, Catherine Soos, Paul Link, Patrick Walther, Diann J. Prosser",
+      "date": "2021",
+      "year": 2021,
+      "publication_title": "Journal of Applied Ecology",
+      "journal_abbreviation": null,
+      "volume": "58",
+      "issue": "10",
+      "pages": "2040-2052",
+      "publisher": null,
+      "place": null,
+      "doi": "10.1111/1365-2664.13963",
+      "url": "https://onlinelibrary.wiley.com/doi/abs/10.1111/1365-2664.13963",
+      "abstract": "Migratory waterfowl facilitate long-distance dispersal of zoonotic pathogens and are increasingly recognized as contributing to the geographic spread of avian influenza viruses (AIVs). AIVs are globally distributed and have the potential to produce highly contagious poultry disease, economically impact both large-scale and backyard poultry producers, and raise the spectre of epidemics and pandemics in human populations. Because migratory waterfowl behaviour varies across multiple spatial and temporal scales, the timing and distribution of wild bird AIV introductions to poultry are also heterogeneous in time and space. To help reduce economic impacts to the poultry industry and enable poultry producers to better anticipate when and where poultry outbreaks may occur, it is critically important to consider the movement ecology of the waterfowl species transporting and transmitting AIVs. We used telemetry for a geographically widespread and common AIV host, blue-winged teal Spatula discors (BWTE), to model reservoir host movement states with respect to backyard and commercial poultry facilities in the United States. Our modelling framework enabled us to estimate wild bird proximity to poultry facilities while concurrently assessing the influence of poultry facilities on BWTE movement state transition. Our primary objective was to estimate the likelihood of duck and poultry overlap by estimating when and where BWTE were geographically closest to poultry. Synthesis and applications. Migratory waterfowl facilitate dispersal of the avian influenza viruses that cause highly contagious poultry disease. Movement analysis of blue-winged teal indicates that spatio-temporal overlap between wild birds and poultry facilities varies by season, the poultry type produced (e.g. turkey, chicken) and if the facility is a commercial or backyard operation. These findings are broadly applicable to disease ecology research and can be applied by poultry producers to improve biosecurity, enhance poultry management and prioritize disease surveillance efforts.",
+      "tags": [
+        "/unread"
+      ],
+      "zotero_url": "https://www.zotero.org/groups/geoepi_publications/items/W2FQLZK5",
+      "formatted_reference": "<div class=\"csl-bib-body\" style=\"line-height: 2; padding-left: 1em; text-indent:-1em;\">\n  <div class=\"csl-entry\">Humphreys, J. M., Douglas, D. C., Ramey, A. M., Mullinax, J. M., Soos, C., Link, P., Walther, P., &amp; Prosser, D. J. (2021). The spatial&#x2013;temporal relationship of blue-winged teal to domestic poultry: Movement state modelling of a highly mobile avian influenza host. <i>Journal of Applied Ecology</i>, <i>58</i>(10), 2040&#x2013;2052. <a href=\"https://doi.org/10.1111/1365-2664.13963\">https://doi.org/10.1111/1365-2664.13963</a></div>\n</div>"
+    },
+    {
+      "key": "5S5CYELQ",
+      "version": 130,
+      "item_type": "journalArticle",
+      "title": "Vector Surveillance, Host Species Richness, and Demographic Factors as West Nile Disease Risk Indicators",
+      "creators": [
+        {
+          "creator_type": "author",
+          "first_name": "John M.",
+          "last_name": "Humphreys",
+          "name": null
+        },
+        {
+          "creator_type": "author",
+          "first_name": "Katherine I.",
+          "last_name": "Young",
+          "name": null
+        },
+        {
+          "creator_type": "author",
+          "first_name": "Lee W.",
+          "last_name": "Cohnstaedt",
+          "name": null
+        },
+        {
+          "creator_type": "author",
+          "first_name": "Kathryn A.",
+          "last_name": "Hanley",
+          "name": null
+        },
+        {
+          "creator_type": "author",
+          "first_name": "Debra P. C.",
+          "last_name": "Peters",
+          "name": null
+        }
+      ],
+      "creator_display": "John M. Humphreys, Katherine I. Young, Lee W. Cohnstaedt, Kathryn A. Hanley, Debra P. C. Peters",
+      "date": "2021-05-17",
+      "year": 2021,
+      "publication_title": "Viruses",
+      "journal_abbreviation": null,
+      "volume": "13",
+      "issue": "5",
+      "pages": null,
+      "publisher": "Multidisciplinary Digital Publishing Institute",
+      "place": null,
+      "doi": "10.3390/v13050934",
+      "url": "https://www.mdpi.com/1999-4915/13/5/934",
+      "abstract": "West Nile virus (WNV) is the most common arthropod-borne virus (arbovirus) in the United States (US) and is the leading cause of viral encephalitis in...",
+      "tags": [
+        "/unread"
+      ],
+      "zotero_url": "https://www.zotero.org/groups/geoepi_publications/items/5S5CYELQ",
+      "formatted_reference": "<div class=\"csl-bib-body\" style=\"line-height: 2; padding-left: 1em; text-indent:-1em;\">\n  <div class=\"csl-entry\">Humphreys, J. M., Young, K. I., Cohnstaedt, L. W., Hanley, K. A., &amp; Peters, D. P. C. (2021). Vector Surveillance, Host Species Richness, and Demographic Factors as West Nile Disease Risk Indicators. <i>Viruses</i>, <i>13</i>(5). <a href=\"https://doi.org/10.3390/v13050934\">https://doi.org/10.3390/v13050934</a></div>\n</div>"
+    },
+    {
+      "key": "C6QVMSL9",
+      "version": 156,
+      "item_type": "journalArticle",
+      "title": "A geostatistical model for estimating edge effects and cumulative human disturbance in wetlands and coastal waters",
+      "creators": [
+        {
+          "creator_type": "author",
+          "first_name": "John M.",
+          "last_name": "Humphreys",
+          "name": null
+        },
+        {
+          "creator_type": "author",
+          "first_name": "Amirsassan",
+          "last_name": "Mahjoor",
+          "name": null
+        },
+        {
+          "creator_type": "author",
+          "first_name": "Kelly Chinners",
+          "last_name": "Reiss",
+          "name": null
+        },
+        {
+          "creator_type": "author",
+          "first_name": "Andres",
+          "last_name": "Arias Uribe",
+          "name": null
+        },
+        {
+          "creator_type": "author",
+          "first_name": "Mark T.",
+          "last_name": "Brown",
+          "name": null
+        }
+      ],
+      "creator_display": "John M. Humphreys, Amirsassan Mahjoor, Kelly Chinners Reiss, Andres Arias Uribe, Mark T. Brown",
+      "date": "2020-08-02",
+      "year": 2020,
+      "publication_title": "International Journal of Geographical Information Science",
+      "journal_abbreviation": null,
+      "volume": "34",
+      "issue": "8",
+      "pages": "1508-1529",
+      "publisher": "Taylor & Francis",
+      "place": null,
+      "doi": "10.1080/13658816.2019.1577431",
+      "url": "https://doi.org/10.1080/13658816.2019.1577431",
+      "abstract": "The modification of landscapes for agriculture, residential housing, and other human uses has the potential to alter ecosystem function, reduce native biodiversity, and to diminish the capacity of natural systems to provide essential goods and services. Resultantly, methods aimed at quantifying disturbance intensity at the intersection of anthropogenic and natural lands are important to applied aspects of landscape planning and natural resource management, as well as theoretical facets of spatial ecology. Tools to appraise human disturbance in wetlands and coastal waters are especially needed because the topographic settings of surface waters make them particularly susceptible to pollutant accumulation, hydrologic alteration, and other influences from the surrounding landscape. Assuming a water resources focus, we developed a novel geostatistical method to quantify and visualize edge effects and cumulative human disturbance for all wetlands and coastal waters in the State of Florida (USA). Model validation revealed that estimated disturbance intensity was strongly correlated to species richness, levels of heavy metal contamination, and persistent organic pollutant concentration. The presented modeling framework offers a flexible means to assess human disturbance across spatial scales and could be readily applied to prioritize conservation land acquisition and to anticipate future impacts from the proposed development.",
+      "tags": [
+        "/unread"
+      ],
+      "zotero_url": "https://www.zotero.org/groups/geoepi_publications/items/C6QVMSL9",
+      "formatted_reference": "<div class=\"csl-bib-body\" style=\"line-height: 2; padding-left: 1em; text-indent:-1em;\">\n  <div class=\"csl-entry\">Humphreys, J. M., Mahjoor, A., Reiss, K. C., Arias Uribe, A., &amp; Brown, M. T. (2020). A geostatistical model for estimating edge effects and cumulative human disturbance in wetlands and coastal waters. <i>International Journal of Geographical Information Science</i>, <i>34</i>(8), 1508&#x2013;1529. <a href=\"https://doi.org/10.1080/13658816.2019.1577431\">https://doi.org/10.1080/13658816.2019.1577431</a></div>\n</div>"
+    },
+    {
+      "key": "F2KVSU4P",
+      "version": 164,
+      "item_type": "journalArticle",
+      "title": "Full Genomic Sequencing of Vesicular Stomatitis Virus Isolates from the 2004–2006 US Outbreaks Reveals Associations of Viral Genetics to Environmental Variables",
+      "creators": [
+        {
+          "creator_type": "author",
+          "first_name": "Rachel",
+          "last_name": "Palinski",
+          "name": null
+        },
+        {
+          "creator_type": "author",
+          "first_name": "Steven",
+          "last_name": "Pauszek",
+          "name": null
+        },
+        {
+          "creator_type": "author",
+          "first_name": "N. Dylan",
+          "last_name": "Burruss",
+          "name": null
+        },
+        {
+          "creator_type": "author",
+          "first_name": "Heather",
+          "last_name": "Savoy",
+          "name": null
+        },
+        {
+          "creator_type": "author",
+          "first_name": "Angela",
+          "last_name": "Pelzel-McCluskey",
+          "name": null
+        },
+        {
+          "creator_type": "author",
+          "first_name": "Jonathan",
+          "last_name": "Arzt",
+          "name": null
+        },
+        {
+          "creator_type": "author",
+          "first_name": "Debra P. C.",
+          "last_name": "Peters",
+          "name": null
+        },
+        {
+          "creator_type": "author",
+          "first_name": "Luis",
+          "last_name": "Rodriguez",
+          "name": null
+        }
+      ],
+      "creator_display": "Rachel Palinski, Steven Pauszek, N. Dylan Burruss, Heather Savoy, Angela Pelzel-McCluskey, Jonathan Arzt, Debra P. C. Peters, Luis Rodriguez",
+      "date": "2020-06-16",
+      "year": 2020,
+      "publication_title": "Proceedings",
+      "journal_abbreviation": null,
+      "volume": "50",
+      "issue": "1",
+      "pages": null,
+      "publisher": "Multidisciplinary Digital Publishing Institute",
+      "place": null,
+      "doi": "10.3390/proceedings2020050076",
+      "url": "https://www.mdpi.com/2504-3900/50/1/76",
+      "abstract": "Vesicular stomatitis (VS) outbreaks in the western USA occur cyclically, approximately every 8–10 years. Phylogenetic evidence based on a 450 nt regio...",
+      "tags": [
+        "/unread"
+      ],
+      "zotero_url": "https://www.zotero.org/groups/geoepi_publications/items/F2KVSU4P",
+      "formatted_reference": "<div class=\"csl-bib-body\" style=\"line-height: 2; padding-left: 1em; text-indent:-1em;\">\n  <div class=\"csl-entry\">Palinski, R., Pauszek, S., Burruss, N. D., Savoy, H., Pelzel-McCluskey, A., Arzt, J., Peters, D. P. C., &amp; Rodriguez, L. (2020). Full Genomic Sequencing of Vesicular Stomatitis Virus Isolates from the 2004&#x2013;2006 US Outbreaks Reveals Associations of Viral Genetics to Environmental Variables. <i>Proceedings</i>, <i>50</i>(1). <a href=\"https://doi.org/10.3390/proceedings2020050076\">https://doi.org/10.3390/proceedings2020050076</a></div>\n</div>"
+    },
+    {
+      "key": "DD8V5XST",
+      "version": 152,
+      "item_type": "journalArticle",
+      "title": "Resource use by marten at fine spatial extents",
+      "creators": [
+        {
+          "creator_type": "author",
+          "first_name": "Gary J.",
+          "last_name": "Roloff",
+          "name": null
+        },
+        {
+          "creator_type": "author",
+          "first_name": "Bradford R.",
+          "last_name": "Silet",
+          "name": null
+        },
+        {
+          "creator_type": "author",
+          "first_name": "Steven M.",
+          "last_name": "Gray",
+          "name": null
+        },
+        {
+          "creator_type": "author",
+          "first_name": "John M.",
+          "last_name": "Humphreys",
+          "name": null
+        },
+        {
+          "creator_type": "author",
+          "first_name": "Eric M.",
+          "last_name": "Clark",
+          "name": null
+        }
+      ],
+      "creator_display": "Gary J. Roloff, Bradford R. Silet, Steven M. Gray, John M. Humphreys, Eric M. Clark",
+      "date": "2020-10-01",
+      "year": 2020,
+      "publication_title": "Mammal Research",
+      "journal_abbreviation": "Mamm Res",
+      "volume": "65",
+      "issue": "4",
+      "pages": "655-665",
+      "publisher": null,
+      "place": null,
+      "doi": "10.1007/s13364-020-00525-8",
+      "url": "https://doi.org/10.1007/s13364-020-00525-8",
+      "abstract": "Martens (Martes spp.) occupy areas with complex forest structure that can exhibit patchy distribution, particularly in managed forest landscapes. These structures (e.g., downed wood) are often difficult to reliably sample so more easily acquired surrogates may better describe marten habitat. Recent advances in global positioning system (GPS) collars combined with integrated (i.e., imagery with geospatial modeling), resolute, remotely sensed maps offer a potentially efficient means of understanding marten space use. We placed GPS collars on 13 American marten (M. americana), attempted to acquire a locational fix every 15 min, and calculated adaptive kernel home ranges from successful locations. We modeled probability of marten use as a function of covariates derived from remotely sensed data that included proportion of vegetation cover types, and distances to maintained roads and hydrographic features at 2.5, 4.5, and 7.1 ha extents. Average cover type values varied minimally across spatial extents we evaluated, indicating fine-scale homogenization. Amount of tall (> 10 m) deciduous forest, tall and short conifer forests, and riparian forests had positive effects on marten use, whereas distance to maintained roads had a weak negative effect. Broad riparian areas (e.g., scrub–shrub swamps that occur in broad topographic depressions), not necessarily associated with mapped hydrographic lines, were heavily used by marten. We found that core use areas for marten could reliably be predicted from 30 m remotely sensed maps summarized at relatively small extents (2.4–7.1 ha).",
+      "tags": [
+        "/unread"
+      ],
+      "zotero_url": "https://www.zotero.org/groups/geoepi_publications/items/DD8V5XST",
+      "formatted_reference": "<div class=\"csl-bib-body\" style=\"line-height: 2; padding-left: 1em; text-indent:-1em;\">\n  <div class=\"csl-entry\">Roloff, G. J., Silet, B. R., Gray, S. M., Humphreys, J. M., &amp; Clark, E. M. (2020). Resource use by marten at fine spatial extents. <i>Mammal Research</i>, <i>65</i>(4), 655&#x2013;665. <a href=\"https://doi.org/10.1007/s13364-020-00525-8\">https://doi.org/10.1007/s13364-020-00525-8</a></div>\n</div>"
+    },
+    {
+      "key": "43N7C6R5",
+      "version": 157,
+      "item_type": "journalArticle",
+      "title": "Using geospatial methods to measure the risk of environmental persistence of avian influenza virus in South Carolina",
+      "creators": [
+        {
+          "creator_type": "author",
+          "first_name": "C.",
+          "last_name": "Stenkamp-Strahm",
+          "name": null
+        },
+        {
+          "creator_type": "author",
+          "first_name": "K.",
+          "last_name": "Patyk",
+          "name": null
+        },
+        {
+          "creator_type": "author",
+          "first_name": "M. J.",
+          "last_name": "McCool-Eye",
+          "name": null
+        },
+        {
+          "creator_type": "author",
+          "first_name": "A.",
+          "last_name": "Fox",
+          "name": null
+        },
+        {
+          "creator_type": "author",
+          "first_name": "J.",
+          "last_name": "Humphreys",
+          "name": null
+        },
+        {
+          "creator_type": "author",
+          "first_name": "A.",
+          "last_name": "James",
+          "name": null
+        },
+        {
+          "creator_type": "author",
+          "first_name": "D.",
+          "last_name": "South",
+          "name": null
+        },
+        {
+          "creator_type": "author",
+          "first_name": "S.",
+          "last_name": "Magzamen",
+          "name": null
+        }
+      ],
+      "creator_display": "C. Stenkamp-Strahm, K. Patyk, M. J. McCool-Eye, A. Fox, J. Humphreys, A. James, D. South, S. Magzamen",
+      "date": "2020-08-01",
+      "year": 2020,
+      "publication_title": "Spatial and Spatio-temporal Epidemiology",
+      "journal_abbreviation": "Spatial and Spatio-temporal Epidemiology",
+      "volume": "34",
+      "issue": null,
+      "pages": "100342",
+      "publisher": null,
+      "place": null,
+      "doi": "10.1016/j.sste.2020.100342",
+      "url": "https://www.sciencedirect.com/science/article/pii/S1877584520300204",
+      "abstract": "Avian influenza (AIV) is a highly contagious virus that can infect both wild birds and domestic poultry. This study aimed to define areas within the state of South Carolina (SC) at heightened risk for environmental persistence of AIV using geospatial methods. Environmental factors known to influence AIV survival were identified through the published literature and using a multi-criteria decision analysis with GIS was performed. Risk was defined using five categories following the World Organization for Animal Health Risk Assessment Guidelines. Less than 1% of 1km grid cells in SC showed a high risk of AIV persistence. Approximately 2% - 17% of counties with high or very high environmental risk also had medium to very high numbers of commercial poultry operations. Results can be used to improve surveillance activities and to inform biosecurity practices and emergency preparedness efforts.",
+      "tags": [
+        "/unread"
+      ],
+      "zotero_url": "https://www.zotero.org/groups/geoepi_publications/items/43N7C6R5",
+      "formatted_reference": "<div class=\"csl-bib-body\" style=\"line-height: 2; padding-left: 1em; text-indent:-1em;\">\n  <div class=\"csl-entry\">Stenkamp-Strahm, C., Patyk, K., McCool-Eye, M. J., Fox, A., Humphreys, J., James, A., South, D., &amp; Magzamen, S. (2020). Using geospatial methods to measure the risk of environmental persistence of avian influenza virus in South Carolina. <i>Spatial and Spatio-Temporal Epidemiology</i>, <i>34</i>, 100342. <a href=\"https://doi.org/10.1016/j.sste.2020.100342\">https://doi.org/10.1016/j.sste.2020.100342</a></div>\n</div>"
+    },
+    {
+      "key": "YI9L735Q",
+      "version": 161,
+      "item_type": "journalArticle",
+      "title": "Waterfowl occurrence and residence time as indicators of H5 and H7 avian influenza in North American Poultry",
+      "creators": [
+        {
+          "creator_type": "author",
+          "first_name": "John M.",
+          "last_name": "Humphreys",
+          "name": null
+        },
+        {
+          "creator_type": "author",
+          "first_name": "Andrew M.",
+          "last_name": "Ramey",
+          "name": null
+        },
+        {
+          "creator_type": "author",
+          "first_name": "David C.",
+          "last_name": "Douglas",
+          "name": null
+        },
+        {
+          "creator_type": "author",
+          "first_name": "Jennifer M.",
+          "last_name": "Mullinax",
+          "name": null
+        },
+        {
+          "creator_type": "author",
+          "first_name": "Catherine",
+          "last_name": "Soos",
+          "name": null
+        },
+        {
+          "creator_type": "author",
+          "first_name": "Paul",
+          "last_name": "Link",
+          "name": null
+        },
+        {
+          "creator_type": "author",
+          "first_name": "Patrick",
+          "last_name": "Walther",
+          "name": null
+        },
+        {
+          "creator_type": "author",
+          "first_name": "Diann J.",
+          "last_name": "Prosser",
+          "name": null
+        }
+      ],
+      "creator_display": "John M. Humphreys, Andrew M. Ramey, David C. Douglas, Jennifer M. Mullinax, Catherine Soos, Paul Link, Patrick Walther, Diann J. Prosser",
+      "date": "2020-02-13",
+      "year": 2020,
+      "publication_title": "Scientific Reports",
+      "journal_abbreviation": "Sci Rep",
+      "volume": "10",
+      "issue": "1",
+      "pages": "2592",
+      "publisher": "Nature Publishing Group",
+      "place": null,
+      "doi": "10.1038/s41598-020-59077-1",
+      "url": "https://www.nature.com/articles/s41598-020-59077-1",
+      "abstract": "Avian influenza (AI) affects wild aquatic birds and poses hazards to human health, food security, and wildlife conservation globally. Accordingly, there is a recognized need for new methods and tools to help quantify the dynamic interaction between wild bird hosts and commercial poultry. Using satellite-marked waterfowl, we applied Bayesian joint hierarchical modeling to concurrently model species distributions, residency times, migration timing, and disease occurrence probability under an integrated animal movement and disease distribution modeling framework. Our results indicate that migratory waterfowl are positively related to AI occurrence over North America such that as waterfowl occurrence probability or residence time increase at a given location, so too does the chance of a commercial poultry AI outbreak. Analyses also suggest that AI occurrence probability is greatest during our observed waterfowl northward migration, and less during the southward migration. Methodologically, we found that when modeling disparate facets of disease systems at the wildlife-agriculture interface, it is essential that multiscale spatial patterns be addressed to avoid mistakenly inferring a disease process or disease-environment relationship from a pattern evaluated at the improper spatial scale. The study offers important insights into migratory waterfowl ecology and AI disease dynamics that aid in better preparing for future outbreaks.",
+      "tags": [
+        "/unread"
+      ],
+      "zotero_url": "https://www.zotero.org/groups/geoepi_publications/items/YI9L735Q",
+      "formatted_reference": "<div class=\"csl-bib-body\" style=\"line-height: 2; padding-left: 1em; text-indent:-1em;\">\n  <div class=\"csl-entry\">Humphreys, J. M., Ramey, A. M., Douglas, D. C., Mullinax, J. M., Soos, C., Link, P., Walther, P., &amp; Prosser, D. J. (2020). Waterfowl occurrence and residence time as indicators of H5 and H7 avian influenza in North American Poultry. <i>Scientific Reports</i>, <i>10</i>(1), 2592. <a href=\"https://doi.org/10.1038/s41598-020-59077-1\">https://doi.org/10.1038/s41598-020-59077-1</a></div>\n</div>"
+    },
+    {
+      "key": "T3CEVA5G",
+      "version": 169,
+      "item_type": "journalArticle",
+      "title": "Seasonal occurrence and abundance of dabbling ducks across the continental United States: Joint spatio-temporal modelling for the Genus Anas",
+      "creators": [
+        {
+          "creator_type": "author",
+          "first_name": "John M.",
+          "last_name": "Humphreys",
+          "name": null
+        },
+        {
+          "creator_type": "author",
+          "first_name": "Jennifer L.",
+          "last_name": "Murrow",
+          "name": null
+        },
+        {
+          "creator_type": "author",
+          "first_name": "Jeffery D.",
+          "last_name": "Sullivan",
+          "name": null
+        },
+        {
+          "creator_type": "author",
+          "first_name": "Diann J.",
+          "last_name": "Prosser",
+          "name": null
+        }
+      ],
+      "creator_display": "John M. Humphreys, Jennifer L. Murrow, Jeffery D. Sullivan, Diann J. Prosser",
+      "date": "2019",
+      "year": 2019,
+      "publication_title": "Diversity and Distributions",
+      "journal_abbreviation": null,
+      "volume": "25",
+      "issue": "9",
+      "pages": "1497-1508",
+      "publisher": null,
+      "place": null,
+      "doi": "10.1111/ddi.12960",
+      "url": "https://onlinelibrary.wiley.com/doi/abs/10.1111/ddi.12960",
+      "abstract": "Aim Estimating the distribution and abundance of wildlife is an essential task in species conservation, wildlife management and habitat prioritization. Although a host of methods and tools have been proposed to accomplish this undertaking, several challenges remain in accurately forecasting occurrence and abundance for highly mobile species. Exhibiting extensive geographic ranges with seasonally varying local occupancy, migratory ducks are exemplar highly mobile species and are foci for waterfowl conservation and management globally. With the goal of informing species conservation and management, our aim was to leverage citizen science data to estimate occurrence and relative abundance for ten dabbling duck species across the continental United States. Location Conterminous United States. Methods We applied spatially and temporally explicit Bayesian hierarchical modelling to jointly estimate season-specific occurrence and relative abundance for ten dabbling duck species in the Genus Anas. Our conditionally dependent model design enabled relative abundance estimates to be informed by occurrence probability while accounting for cumulative spatial and temporal errors across shared model components. Results Outcomes suggest that although dabbling duck distributions show little inter-annual variability at the continental scale, local relative abundances may differ year to year. Commensurate with being highly mobile migratory species, estimates indicate considerable intra-annual variation with occurrence probability, local abundance and habitat preferences differing by season and species. Main conclusions Our approach offers a powerful and flexible framework for quantifying intra-/inter-annual duck occurrence and relative abundance while accounting for spatial, temporal and data collection biases. We believe that model produced maps can be applied to inform waterfowl conservation and management throughout the continental United States.",
+      "tags": [
+        "/unread"
+      ],
+      "zotero_url": "https://www.zotero.org/groups/geoepi_publications/items/T3CEVA5G",
+      "formatted_reference": "<div class=\"csl-bib-body\" style=\"line-height: 2; padding-left: 1em; text-indent:-1em;\">\n  <div class=\"csl-entry\">Humphreys, J. M., Murrow, J. L., Sullivan, J. D., &amp; Prosser, D. J. (2019). Seasonal occurrence and abundance of dabbling ducks across the continental United States: Joint spatio-temporal modelling for the Genus Anas. <i>Diversity and Distributions</i>, <i>25</i>(9), 1497&#x2013;1508. <a href=\"https://doi.org/10.1111/ddi.12960\">https://doi.org/10.1111/ddi.12960</a></div>\n</div>"
+    }
+  ]
+}

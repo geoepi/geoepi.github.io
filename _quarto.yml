@@ -4,6 +4,7 @@ project:
   render:
     - index.qmd
     - pindex.qmd
+    - publications.qmd
     - about.qmd
     - "research/*/index.qmd"
     - "projects/*/index.qmd"
@@ -25,6 +26,8 @@ website:
         text: Home
       - href: pindex.qmd
         text: Research
+      - href: publications.qmd
+        text: Publications
       - href: about.qmd
         text: About
       - href: https://github.com/geoepi/geoepi-hub
