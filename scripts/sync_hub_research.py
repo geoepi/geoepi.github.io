@@ -245,7 +245,7 @@ def generate_project_page(project):
             lines.extend(
                 [
                     '<article class="geoepi-subproject-card">',
-                    f"### {_inline(subproject['title'])}",
+                    f"<h3>{_inline(subproject['title'])}</h3>",
                     "",
                     _inline(subproject["summary"]) or "Summary not provided.",
                     "",

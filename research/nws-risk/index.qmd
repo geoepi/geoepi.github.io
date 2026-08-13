@@ -36,43 +36,43 @@ This GeoEpi project brings together automated tools for NWS risk assessment and 
 
 <div class="geoepi-subproject-grid">
 <article class="geoepi-subproject-card">
-### Bayesian NWS Geostatistical Model
+<h3>Bayesian NWS Geostatistical Model</h3>
 
 Joint spatiotemporal modeling of NWS occurrence and intensity.
 
-<a href="https://github.com/geoepi/hominivorax-geostat">Canonical repository <span aria-hidden="true">&#8599;</span></a>
+<p class="geoepi-repository"><a href="https://github.com/geoepi/hominivorax-geostat">Canonical repository: geoepi/hominivorax-geostat <span aria-hidden="true">&#8599;</span></a></p>
 
 </article>
 <article class="geoepi-subproject-card">
-### NWS Cellular Automata
+<h3>NWS Cellular Automata</h3>
 
 Initial Cellular Automata spread model, driven by environmental suitability and connectivity (no pop dynamics).
 
-<a href="https://github.com/geoepi/hominivorax-CA">Canonical repository <span aria-hidden="true">&#8599;</span></a>
+<p class="geoepi-repository"><span class="geoepi-repository-name">geoepi/hominivorax-CA</span><span class="geoepi-repository-status">Access currently restricted</span><a class="geoepi-repository-info" href="../../repository-access.html">About repository access <span aria-hidden="true">&#8599;</span></a></p>
 
 </article>
 <article class="geoepi-subproject-card">
-### Pipeline for CDS Data Processing
+<h3>Pipeline for CDS Data Processing</h3>
 
 Automated pipeline for retrieving and preprocessing clinate and environmental rasters from the Climate Data Store (CDS).
 
-<a href="https://github.com/geoepi/cds-datagrab">Canonical repository <span aria-hidden="true">&#8599;</span></a>
+<p class="geoepi-repository"><span class="geoepi-repository-name">geoepi/cds-datagrab</span><span class="geoepi-repository-status">Access currently restricted</span><a class="geoepi-repository-info" href="../../repository-access.html">About repository access <span aria-hidden="true">&#8599;</span></a></p>
 
 </article>
 <article class="geoepi-subproject-card">
-### Pipeline for NWS Dashboard
+<h3>Pipeline for NWS Dashboard</h3>
 
 Pipeline for reformmating NWS modeling results for use in Tableau dashboard.
 
-<a href="https://github.com/geoepi/nws-postprocessing">Canonical repository <span aria-hidden="true">&#8599;</span></a>
+<p class="geoepi-repository"><span class="geoepi-repository-name">geoepi/nws-postprocessing</span><span class="geoepi-repository-status">Access currently restricted</span><a class="geoepi-repository-info" href="../../repository-access.html">About repository access <span aria-hidden="true">&#8599;</span></a></p>
 
 </article>
 <article class="geoepi-subproject-card">
-### Group NWS Repository
+<h3>Group NWS Repository</h3>
 
 Original group repository, cloned to Atlas. Includes parameter summaries, data directory schema, and project sandbox.
 
-<a href="https://github.com/geoepi/NWScrewworm">Canonical repository <span aria-hidden="true">&#8599;</span></a>
+<p class="geoepi-repository"><span class="geoepi-repository-name">geoepi/NWScrewworm</span><span class="geoepi-repository-status">Access currently restricted</span><a class="geoepi-repository-info" href="../../repository-access.html">About repository access <span aria-hidden="true">&#8599;</span></a></p>
 
 </article>
 </div>

@@ -81,6 +81,7 @@ class GenerationTests(unittest.TestCase):
     def test_subprojects_are_generated_without_operational_fields(self):
         page = sync.generate_project_page(fixture_feed()["projects"][0])
         self.assertIn("Alpha first analysis", page)
+        self.assertIn("<h3>Alpha first analysis</h3>", page)
         self.assertIn("https://github.com/geoepi/alpha-one", page)
         self.assertNotIn("current_focus", page)
         self.assertNotIn("milestone", page)

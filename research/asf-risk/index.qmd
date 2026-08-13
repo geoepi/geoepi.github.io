@@ -34,11 +34,11 @@ This GeoEpi project brings together work on model-based analyses for African Swi
 
 <div class="geoepi-subproject-grid">
 <article class="geoepi-subproject-card">
-### Sensitivity to Epidemiological Traits of ASF Strains
+<h3>Sensitivity to Epidemiological Traits of ASF Strains</h3>
 
 Spatial transmission dynamics of African Swine Fever in wild pigs: Sensitivity to epidemiological traits of different viral strains.
 
-<a href="https://github.com/geoepi/ASF-GBRTs">Canonical repository <span aria-hidden="true">&#8599;</span></a>
+<p class="geoepi-repository"><a href="https://github.com/geoepi/ASF-GBRTs">Canonical repository: geoepi/ASF-GBRTs <span aria-hidden="true">&#8599;</span></a></p>
 
 </article>
 </div>
