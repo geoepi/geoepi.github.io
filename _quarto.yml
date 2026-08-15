@@ -5,6 +5,7 @@ project:
     - index.qmd
     - pindex.qmd
     - publications.qmd
+    - software.qmd
     - about.qmd
     - repository-access.qmd
     - "research/*/index.qmd"
@@ -29,6 +30,8 @@ website:
         text: Research
       - href: publications.qmd
         text: Publications
+      - href: software.qmd
+        text: Software
       - href: about.qmd
         text: About
       - href: https://github.com/geoepi/geoepi-hub

@@ -1,0 +1,89 @@
+---
+title: "Software & Tools"
+page-layout: full
+toc: false
+comments: false
+---
+
+<div class="geoepi-software-page">
+<div class="geoepi-software-intro">
+<p class="geoepi-eyebrow">COMPUTATIONAL PRODUCTS</p>
+<p>GeoEpi develops reusable software, computational workflows, simulation frameworks, data pipelines, and interactive applications in support of animal-disease research. Some resources are general-purpose analytical tools, while others were developed for specific scientific problems but may be useful or adaptable beyond their original projects.</p>
+</div>
+
+<div class="geoepi-software-grid">
+<article class="geoepi-software-card">
+<div class="geoepi-software-image geoepi-software-image-vsv">
+<img src="images/software/vsv-dashboard-tile.svg" alt="VSV Dashboard tile" />
+</div>
+<span class="geoepi-software-type">Interactive application</span>
+<h2>VSV Dashboard</h2>
+<p class="geoepi-software-description">An interactive dashboard for exploring vesicular stomatitis transmission dynamics and related epidemic behavior.</p>
+<ul class="geoepi-software-actions">
+<li><a href="https://geoepi.shinyapps.io/seir-vector/">Launch application <span aria-hidden="true">&#8599;</span></a></li>
+</ul>
+</article>
+
+<article class="geoepi-software-card">
+<div class="geoepi-software-image">
+<img src="images/software/bcapture-hex.png" alt="bcapture hex sticker" />
+</div>
+<span class="geoepi-software-type">R package / workflow toolkit</span>
+<h2>bcapture</h2>
+<p class="geoepi-software-description">Tools for extracting, organizing, validating, summarizing, and viewing data from Biosecurity Compliance Audit Program (bCAP) forms.</p>
+<ul class="geoepi-software-actions">
+<li><a href="https://github.com/geoepi/bcapture">Repository <span aria-hidden="true">&#8599;</span></a></li>
+</ul>
+</article>
+
+<article class="geoepi-software-card">
+<div class="geoepi-software-image">
+<img src="images/software/epiplume-sticker.png" alt="EpiPlume hex sticker" />
+</div>
+<span class="geoepi-software-type">Modeling framework / workflow</span>
+<h2>EpiPlume</h2>
+<p class="geoepi-software-description">Exploratory models of pathogen movement via aerosol, particle, and airborne dispersion, with workflow demonstrations for plume and trajectory analysis.</p>
+<ul class="geoepi-software-actions">
+<li><a href="https://github.com/geoepi/EpiPlume">Repository <span aria-hidden="true">&#8599;</span></a></li>
+<li><a href="https://geoepi.github.io/EpiPlume/">Documentation <span aria-hidden="true">&#8599;</span></a></li>
+</ul>
+</article>
+
+<article class="geoepi-software-card">
+<div class="geoepi-software-image">
+<img src="images/software/sequence-map-sticker.png" alt="sequence-map hex sticker" />
+</div>
+<span class="geoepi-software-type">R package</span>
+<h2>sequencemap</h2>
+<p class="geoepi-software-description">Converts aligned viral sequences and sampling coordinates into PCA, DAPC, and location-level summaries, with optional spatial prediction of ordination-axis scores.</p>
+<ul class="geoepi-software-actions">
+<li><a href="https://github.com/geoepi/sequence-map">Repository <span aria-hidden="true">&#8599;</span></a></li>
+</ul>
+</article>
+
+<article class="geoepi-software-card">
+<div class="geoepi-software-image">
+<img src="images/software/challengeABM-sticker3.png" alt="challengeABM hex sticker" />
+</div>
+<span class="geoepi-software-type">R package / simulation framework</span>
+<h2>challengeABM</h2>
+<p class="geoepi-software-description">An agent-based modeling framework simulating within-host dynamics, room-to-room animal experiments, within-herd host transmission, and between-farm spread.</p>
+<ul class="geoepi-software-actions">
+<li><a href="https://github.com/geoepi/challengeABM">Repository <span aria-hidden="true">&#8599;</span></a></li>
+<li><a href="https://geoepi.shinyapps.io/fmdv-preclinical/">Shiny demonstration <span aria-hidden="true">&#8599;</span></a></li>
+</ul>
+</article>
+
+<article class="geoepi-software-card">
+<div class="geoepi-software-image">
+<img src="images/software/cds-datagrab-hex.png" alt="cds-datagrab hex sticker" />
+</div>
+<span class="geoepi-software-type">Data pipeline / reproducible workflow</span>
+<h2>cds-datagrab</h2>
+<p class="geoepi-software-description">A reproducible R-package workflow for retrieving environmental data from the Copernicus Climate Data Store, aligning source data, writing daily GeoTIFFs, and aggregating complete ISO weeks.</p>
+<ul class="geoepi-software-actions">
+<li><a href="https://github.com/geoepi/cds-datagrab">Repository <span aria-hidden="true">&#8599;</span></a></li>
+</ul>
+</article>
+</div>
+</div>
