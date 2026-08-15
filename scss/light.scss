@@ -302,20 +302,20 @@ h1, h2, h3, h4 {
 
 .geoepi-software-image {
   display: grid;
-  min-height: 190px;
+  height: 120px;
   place-items: center;
-  margin-bottom: 1.35rem;
+  margin-bottom: 1rem;
   background: #f4f6f7;
   border: 1px solid #e5eaed;
-  padding: 1rem;
+  padding: 0.6rem;
 }
 
 .geoepi-software-image img {
   display: block;
   width: auto;
-  max-width: 100%;
   height: auto;
-  max-height: 165px;
+  max-width: 130px;
+  max-height: 100px;
   object-fit: contain;
 }
 
