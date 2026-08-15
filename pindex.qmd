@@ -5,7 +5,7 @@ link-external-newwindow: true
 listing:
   contents:
     - "research/*/index.qmd"
-  fields: [image, title, description, content_status, categories]
+  fields: [title, description, content_status, categories]
   field-display-names:
     content_status: "Review status"
     categories: "Topics"
