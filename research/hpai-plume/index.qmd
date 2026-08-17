@@ -40,7 +40,7 @@ This GeoEpi project brings together retrospective analysis of atmospheric HPAI t
 
 bcapture provides tools for extracting, organizing, validating, summarizing, and viewing data from Biosecurity Compliance Audit Program (bCAP) forms.
 
-<p class="geoepi-repository"><span class="geoepi-repository-name">geoepi/bcapture</span><span class="geoepi-repository-status">Access currently restricted</span><a class="geoepi-repository-info" href="../../repository-access.html">About repository access <span aria-hidden="true">&#8599;</span></a></p>
+<p class="geoepi-repository"><a href="https://github.com/geoepi/bcapture">Canonical repository: geoepi/bcapture <span aria-hidden="true">&#8599;</span></a></p>
 
 </article>
 <article class="geoepi-subproject-card">

@@ -63,7 +63,7 @@ Foot-and-mouth disease virus variability and recombination on dairy farms in Pak
 
 Sequence-map converts aligned viral sequences and sampling geographic coordinates into PCA, DAPC, and other location-level summaries and optional spatial predictions of ordination-axis scores across geographic space.
 
-<p class="geoepi-repository"><span class="geoepi-repository-name">geoepi/sequence-map</span><span class="geoepi-repository-status">Access currently restricted</span><a class="geoepi-repository-info" href="../../repository-access.html">About repository access <span aria-hidden="true">&#8599;</span></a></p>
+<p class="geoepi-repository"><a href="https://github.com/geoepi/sequence-map">Canonical repository: geoepi/sequence-map <span aria-hidden="true">&#8599;</span></a></p>
 
 </article>
 </div>

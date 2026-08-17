@@ -56,7 +56,7 @@ Initial Cellular Automata spread model, driven by environmental suitability and 
 
 Automated pipeline for retrieving and preprocessing clinate and environmental rasters from the Climate Data Store (CDS).
 
-<p class="geoepi-repository"><span class="geoepi-repository-name">geoepi/cds-datagrab</span><span class="geoepi-repository-status">Access currently restricted</span><a class="geoepi-repository-info" href="../../repository-access.html">About repository access <span aria-hidden="true">&#8599;</span></a></p>
+<p class="geoepi-repository"><a href="https://github.com/geoepi/cds-datagrab">Canonical repository: geoepi/cds-datagrab <span aria-hidden="true">&#8599;</span></a></p>
 
 </article>
 <article class="geoepi-subproject-card">
