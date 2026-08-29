@@ -19,7 +19,7 @@ comments: false
 
 ## Abstract
 
-This GeoEpi project brings together automated tools for NWS risk assessment and support of APHIS operational decision making. Registered work includes geostatistical modeling, cellular automata, data processing, dashboard pipelines, and a group NWS repository.
+This GeoEpi project brings together automated tools for NWS risk assessment and support of APHIS operational decision making. Registered work includes geostatistical modeling, cellular automata, data processing, dashboard pipelines, custom LLM, and a group NWS repository.
 
 ## Themes and topics
 
@@ -35,6 +35,14 @@ This GeoEpi project brings together automated tools for NWS risk assessment and 
 ## Associated subprojects
 
 <div class="geoepi-subproject-grid">
+<article class="geoepi-subproject-card">
+<h3>Cochliomyia Hominivorax Interpretation and Model Evaluation</h3>
+
+CHIME is a gpt-oss-120b LLM for integrating New World screwworm (NWS) knowledge, interpreting model outputs, generating adversarial scenarios, and orchestrating computational experiments across linked models and HPC workflows.
+
+<p class="geoepi-repository"><span class="geoepi-repository-name">geoepi/chime-nws</span><span class="geoepi-repository-status">Access currently restricted</span><a class="geoepi-repository-info" href="../../repository-access.html">About repository access <span aria-hidden="true">&#8599;</span></a></p>
+
+</article>
 <article class="geoepi-subproject-card">
 <h3>Bayesian NWS Geostatistical Model</h3>
 
