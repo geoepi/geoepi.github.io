@@ -83,6 +83,14 @@ Original group repository, cloned to Atlas. Includes parameter summaries, data d
 <p class="geoepi-repository"><span class="geoepi-repository-name">geoepi/NWScrewworm</span><span class="geoepi-repository-status">Access currently restricted</span><a class="geoepi-repository-info" href="../../repository-access.html">About repository access <span aria-hidden="true">&#8599;</span></a></p>
 
 </article>
+<article class="geoepi-subproject-card">
+<h3>Landscape connectivity passage model</h3>
+
+A general-purpose R package for constructing and analyzing landscape conductance, resistance, passage, and connectivity surfaces.
+
+<p class="geoepi-repository"><span class="geoepi-repository-name">geoepi/traverse</span><span class="geoepi-repository-status">Access currently restricted</span><a class="geoepi-repository-info" href="../../repository-access.html">About repository access <span aria-hidden="true">&#8599;</span></a></p>
+
+</article>
 </div>
 
 <p class="geoepi-authority-link"><a href="https://github.com/geoepi/geoepi-hub/tree/main/projects/nws-risk">Authoritative Hub project record <span aria-hidden="true">&#8599;</span></a></p>
