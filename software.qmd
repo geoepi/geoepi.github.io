@@ -86,6 +86,20 @@ comments: false
 
 <article class="geoepi-software-card">
 <div class="geoepi-software-image">
+<img src="images/traverse_hex.png" alt="traverse hex sticker" />
+</div>
+<div class="geoepi-software-content">
+<span class="geoepi-software-type">R package</span>
+<h2>traverse</h2>
+<p class="geoepi-software-description">Estimates randomized passage and connectivity across gridded landscapes.</p>
+<ul class="geoepi-software-actions">
+<li><a href="https://github.com/geoepi/traverse">Repository <span aria-hidden="true">&#8599;</span></a></li>
+</ul>
+</div>
+</article>
+
+<article class="geoepi-software-card">
+<div class="geoepi-software-image">
 <img src="images/software/cds-datagrab-hex.png" alt="cds-datagrab hex sticker" />
 </div>
 <div class="geoepi-software-content">
