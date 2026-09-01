@@ -86,7 +86,7 @@ comments: false
 
 <article class="geoepi-software-card">
 <div class="geoepi-software-image">
-<img src="images/traverse_hex.png" alt="traverse hex sticker" />
+<img src="images/software/traverse_hex.png" alt="traverse hex sticker" />
 </div>
 <div class="geoepi-software-content">
 <span class="geoepi-software-type">R package</span>
