@@ -4,21 +4,14 @@ page-layout: full
 comments: false
 ---
 
-<div class="geoepi-page-intro">
-
+::: geoepi-page-intro
 # This research repository is not currently public
 
-GeoEpi uses GitHub repositories to document and develop analytical
-subprojects. Some repositories remain access restricted while research,
-review, data restrictions, partner requirements, or project development are
-ongoing.
+GeoEpi uses GitHub repositories to document and develop analytical subprojects. Some repositories remain access restricted while research, review, data restrictions, partner requirements, or project development are ongoing.
 
-The repository is listed on the GeoEpi research site to document the
-analytical work associated with the project. Public code, data, reports, or
-publications will be linked when they are available.
+The repository is listed on the GeoEpi research site to document the analytical work associated with the project. Public code, data, reports, or publications will be linked when they are available.
 
 **Research in progress · As open as possible, as restricted as necessary**
 
 [Explore GeoEpi research](pindex.qmd) · [GeoEpi Hub](https://github.com/geoepi/geoepi-hub)
-
-</div>
+:::

@@ -7,15 +7,32 @@ page-layout: full
 comments: false
 ---
 
-<div class="geoepi-generated-project">
-<p class="geoepi-eyebrow">HUB-GENERATED RESEARCH</p>
+::::: geoepi-generated-project
+<p class="geoepi-eyebrow">
+
+HUB-GENERATED RESEARCH
+
+</p>
+
 # NWS Risk and Operational Decision Assessment
 
-<p class="geoepi-scaffold-status">Scaffold project summary</p>
+<p class="geoepi-scaffold-status">
 
-<p class="geoepi-scaffold-note">This summary was assembled from current GeoEpi project metadata and is pending project-level review.</p>
+Scaffold project summary
 
-<p class="geoepi-project-summary">Build automated tools to assess NWS risk and support APHIS operational decision making.</p>
+</p>
+
+<p class="geoepi-scaffold-note">
+
+This summary was assembled from current GeoEpi project metadata and is pending project-level review.
+
+</p>
+
+<p class="geoepi-project-summary">
+
+Build automated tools to assess NWS risk and support APHIS operational decision making.
+
+</p>
 
 ## Abstract
 
@@ -23,66 +40,97 @@ This GeoEpi project brings together automated tools for NWS risk assessment and 
 
 ## Themes and topics
 
-<div class="geoepi-project-tags">
-<span class="geoepi-project-tag">epidemiology</span>
-<span class="geoepi-project-tag">modeling</span>
-<span class="geoepi-project-tag">NWS risk</span>
-<span class="geoepi-project-tag">risk assessment</span>
-<span class="geoepi-project-tag">operational decision making</span>
-<span class="geoepi-project-tag">automated tools</span>
-</div>
+::: geoepi-project-tags
+[epidemiology]{.geoepi-project-tag} [modeling]{.geoepi-project-tag} [NWS risk]{.geoepi-project-tag} [risk assessment]{.geoepi-project-tag} [operational decision making]{.geoepi-project-tag} [automated tools]{.geoepi-project-tag}
+:::
 
 ## Associated subprojects
 
-<div class="geoepi-subproject-grid">
+::: geoepi-subproject-grid
 <article class="geoepi-subproject-card">
+
 <h3>Cochliomyia Hominivorax Interpretation and Model Evaluation</h3>
 
 CHIME is a gpt-oss-120b LLM for integrating New World screwworm (NWS) knowledge, interpreting model outputs, generating adversarial scenarios, and orchestrating computational experiments across linked models and HPC workflows.
 
-<p class="geoepi-repository"><span class="geoepi-repository-name">geoepi/chime-nws</span><span class="geoepi-repository-status">Access currently restricted</span><a class="geoepi-repository-info" href="../../repository-access.html">About repository access <span aria-hidden="true">&#8599;</span></a></p>
+<p class="geoepi-repository">
+
+[geoepi/chime-nws]{.geoepi-repository-name}[Access currently restricted]{.geoepi-repository-status}<a class="geoepi-repository-info" href="../../repository-access.html">About repository access [↗]{aria-hidden="true"}</a>
+
+</p>
 
 </article>
+
 <article class="geoepi-subproject-card">
+
 <h3>Bayesian NWS Geostatistical Model</h3>
 
 Joint spatiotemporal modeling of NWS occurrence and intensity.
 
-<p class="geoepi-repository"><a href="https://github.com/geoepi/hominivorax-geostat">Canonical repository: geoepi/hominivorax-geostat <span aria-hidden="true">&#8599;</span></a></p>
+<p class="geoepi-repository">
+
+<a href="https://github.com/geoepi/hominivorax-geostat">Canonical repository: geoepi/hominivorax-geostat [↗]{aria-hidden="true"}</a>
+
+</p>
 
 </article>
+
 <article class="geoepi-subproject-card">
+
 <h3>NWS Cellular Automata</h3>
 
 Initial Cellular Automata spread model, driven by environmental suitability and connectivity (no pop dynamics).
 
-<p class="geoepi-repository"><span class="geoepi-repository-name">geoepi/hominivorax-CA</span><span class="geoepi-repository-status">Access currently restricted</span><a class="geoepi-repository-info" href="../../repository-access.html">About repository access <span aria-hidden="true">&#8599;</span></a></p>
+<p class="geoepi-repository">
+
+[geoepi/hominivorax-CA]{.geoepi-repository-name}[Access currently restricted]{.geoepi-repository-status}<a class="geoepi-repository-info" href="../../repository-access.html">About repository access [↗]{aria-hidden="true"}</a>
+
+</p>
 
 </article>
+
 <article class="geoepi-subproject-card">
+
 <h3>Pipeline for CDS Data Processing</h3>
 
 Automated pipeline for retrieving and preprocessing clinate and environmental rasters from the Climate Data Store (CDS).
 
-<p class="geoepi-repository"><a href="https://github.com/geoepi/cds-datagrab">Canonical repository: geoepi/cds-datagrab <span aria-hidden="true">&#8599;</span></a></p>
+<p class="geoepi-repository">
+
+<a href="https://github.com/geoepi/cds-datagrab">Canonical repository: geoepi/cds-datagrab [↗]{aria-hidden="true"}</a>
+
+</p>
 
 </article>
+
 <article class="geoepi-subproject-card">
+
 <h3>Pipeline for NWS Dashboard</h3>
 
 Pipeline for reformmating NWS modeling results for use in Tableau dashboard.
 
-<p class="geoepi-repository"><span class="geoepi-repository-name">geoepi/nws-postprocessing</span><span class="geoepi-repository-status">Access currently restricted</span><a class="geoepi-repository-info" href="../../repository-access.html">About repository access <span aria-hidden="true">&#8599;</span></a></p>
+<p class="geoepi-repository">
+
+[geoepi/nws-postprocessing]{.geoepi-repository-name}[Access currently restricted]{.geoepi-repository-status}<a class="geoepi-repository-info" href="../../repository-access.html">About repository access [↗]{aria-hidden="true"}</a>
+
+</p>
 
 </article>
+
 <article class="geoepi-subproject-card">
+
 <h3>Group NWS Repository</h3>
 
 Original group repository, cloned to Atlas. Includes parameter summaries, data directory schema, and project sandbox.
 
-<p class="geoepi-repository"><span class="geoepi-repository-name">geoepi/NWScrewworm</span><span class="geoepi-repository-status">Access currently restricted</span><a class="geoepi-repository-info" href="../../repository-access.html">About repository access <span aria-hidden="true">&#8599;</span></a></p>
+<p class="geoepi-repository">
+
+[geoepi/NWScrewworm]{.geoepi-repository-name}[Access currently restricted]{.geoepi-repository-status}<a class="geoepi-repository-info" href="../../repository-access.html">About repository access [↗]{aria-hidden="true"}</a>
+
+</p>
 
 </article>
+
 <article class="geoepi-subproject-card">
 <h3>Trap-based surveillance design for NWS</h3>
 
@@ -96,10 +144,18 @@ A flexible, robust spatially balanced sampling design for NWS trapping in the so
 
 A general-purpose R package for constructing and analyzing landscape conductance, resistance, passage, and connectivity surfaces.
 
-<p class="geoepi-repository"><a href="https://github.com/geoepi/traverse">Canonical repository: geoepi/traverse <span aria-hidden="true">&#8599;</span></a></p>
+<p class="geoepi-repository">
+
+[geoepi/traverse]{.geoepi-repository-name}[Access currently restricted]{.geoepi-repository-status}<a class="geoepi-repository-info" href="../../repository-access.html">About repository access [↗]{aria-hidden="true"}</a>
+
+</p>
 
 </article>
-</div>
+:::
 
-<p class="geoepi-authority-link"><a href="https://github.com/geoepi/geoepi-hub/tree/main/projects/nws-risk">Authoritative Hub project record <span aria-hidden="true">&#8599;</span></a></p>
-</div>
+<p class="geoepi-authority-link">
+
+<a href="https://github.com/geoepi/geoepi-hub/tree/main/projects/nws-risk">Authoritative Hub project record [↗]{aria-hidden="true"}</a>
+
+</p>
+:::::
