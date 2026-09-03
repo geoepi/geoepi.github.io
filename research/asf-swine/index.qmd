@@ -11,10 +11,6 @@ comments: false
 <p class="geoepi-eyebrow">HUB-GENERATED RESEARCH</p>
 # African Swine Fever Transmission by Feral Swine
 
-<p class="geoepi-scaffold-status">Scaffold project summary</p>
-
-<p class="geoepi-scaffold-note">This summary was assembled from current GeoEpi project metadata and is pending project-level review.</p>
-
 <p class="geoepi-project-summary">Movement and genomic studies of ASF in feral swine.</p>
 
 ## Abstract

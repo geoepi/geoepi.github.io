@@ -64,10 +64,11 @@ class GenerationTests(unittest.TestCase):
         snapshot = sync.snapshot_json(feed)
         self.assertLess(snapshot.index('"alpha-one"'), snapshot.index('"alpha-two"'))
 
-    def test_scaffold_indicator_is_generated(self):
+    def test_scaffold_content_status_is_preserved_without_public_indicator(self):
         page = sync.generate_project_page(fixture_feed()["projects"][1])
-        self.assertIn("Scaffold project summary", page)
-        self.assertIn("pending project-level review", page)
+        self.assertIn("content_status: scaffold", page)
+        self.assertNotIn("Scaffold project summary", page)
+        self.assertNotIn("pending project-level review", page)
 
     def test_reviewed_project_has_no_scaffold_indicator(self):
         page = sync.generate_project_page(fixture_feed()["projects"][0])

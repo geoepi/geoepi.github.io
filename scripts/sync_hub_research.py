@@ -192,15 +192,6 @@ def generate_project_page(project):
             f"# {_inline(project['title'])}",
         ]
     )
-    if project["content_status"] == "scaffold":
-        lines.extend(
-            [
-                "",
-                '<p class="geoepi-scaffold-status">Scaffold project summary</p>',
-                "",
-                '<p class="geoepi-scaffold-note">This summary was assembled from current GeoEpi project metadata and is pending project-level review.</p>',
-            ]
-        )
     lines.extend(
         [
             "",

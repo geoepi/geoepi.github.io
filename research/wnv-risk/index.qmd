@@ -11,10 +11,6 @@ comments: false
 <p class="geoepi-eyebrow">HUB-GENERATED RESEARCH</p>
 # West Nile Virus Risk Assessments for Livestock
 
-<p class="geoepi-scaffold-status">Scaffold project summary</p>
-
-<p class="geoepi-scaffold-note">This summary was assembled from current GeoEpi project metadata and is pending project-level review.</p>
-
 <p class="geoepi-project-summary">Models and analyses examining WNV risk to U.S. livestock.</p>
 
 ## Abstract

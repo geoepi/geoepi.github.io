@@ -54,6 +54,16 @@ comments: false
 </div>
 </section>
 
+<section class="geoepi-section geoepi-process" aria-labelledby="process-title">
+<div class="geoepi-process-copy">
+<p class="geoepi-eyebrow">A GEOGRAPHICAL VIEW OF DISEASE</p>
+<h2 id="process-title">Process leaves a spatial signature.</h2>
+<p>Disease patterns are not simply points on a map. Movement, transmission, environment, population structure, evolution, and landscape connectivity can leave recognizable spatial signatures in observations. GeoEpi develops quantitative approaches to identify those signatures and connect observed pattern to biological process.</p>
+<p class="geoepi-process-principle"><strong>We do not treat geography as the backdrop to disease. We treat it as part of the biology.</strong></p>
+</div>
+<p class="geoepi-scale-sequence" aria-label="GeoEpi scales">Molecular signals <span aria-hidden="true">→</span> hosts <span aria-hidden="true">→</span> populations <span aria-hidden="true">→</span> landscapes <span aria-hidden="true">→</span> decisions</p>
+</section>
+
 <section class="geoepi-section geoepi-explore" aria-labelledby="explore-title">
 <div class="geoepi-section-heading">
 <p class="geoepi-eyebrow">EXPLORE GEOEPI</p>
