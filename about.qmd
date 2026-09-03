@@ -20,6 +20,30 @@ ABOUT GEOEPI
 GeoEpi (Geographical Epidemiology) is a research group studying the ecology, transmission, spread, and management of animal diseases. Our work connects molecular and landscape perspectives to investigate foreign, transboundary, emerging, and zoonotic animal diseases.
 :::
 
+## Why geographical epidemiology?
+
+The name GeoEpi refers to Geographical Epidemiology, not simply geospatial epidemiology. The distinction is intentional and reflects an intellectual connection to the tradition of geographical ecology associated with Robert MacArthur: biological processes are expressed through spatial structure, pattern, and scale.
+
+In disease systems, spatial dependence is rarely something we regard only as nuisance correlation to be removed from an analysis. Geography can carry biological information. Host movement, environmental constraints, transmission pathways, population structure, dispersal, connectivity, and evolutionary history can all leave recognizable spatial signatures.
+
+Our task is to identify those signatures and use them, together with biological knowledge, observations, experiments, and models, to infer the processes capable of producing them.
+
+**We try to extract process from pattern.**
+
+## Our approach
+
+### Across scales
+
+GeoEpi connects molecular variation, individual infection, host populations, movement networks, landscapes, and regional disease patterns as parts of the same system.
+
+### Models as scientific instruments
+
+Statistical, mathematical, and simulation models help us test ideas, reconstruct processes, explore uncertainty, evaluate mechanistic hypotheses, and support decisions. Modeling is a means of inquiry, not an end in itself.
+
+### Computational science that lasts
+
+GeoEpi turns analyses into transparent, reproducible workflows and reusable tools so scientific work can be tested, extended, reused, interpreted later, and adapted beyond the original question.
+
 ## How we work
 
 GeoEpi combines spatial epidemiology with statistical and mathematical modeling, bioinformatics, simulation, and computational science. Research, reusable software, and operational analysis are connected by a common emphasis on transparent, reproducible quantitative work.

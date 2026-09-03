@@ -169,6 +169,53 @@ h1, h2, h3, h4 {
   font-size: clamp(2rem, 4vw, 3.5rem);
 }
 
+.geoepi-process {
+  display: grid;
+  grid-template-columns: minmax(0, 1.4fr) minmax(220px, 0.8fr);
+  align-items: end;
+  gap: clamp(2rem, 7vw, 6rem);
+}
+
+.geoepi-process-copy {
+  max-width: 760px;
+}
+
+.geoepi-process h2 {
+  max-width: 700px;
+  margin: 0 0 1rem;
+  font-size: clamp(2rem, 4vw, 3.5rem);
+}
+
+.geoepi-process-copy > p:not(.geoepi-eyebrow) {
+  max-width: 700px;
+  color: #53616b;
+  font-size: clamp(1.02rem, 1.7vw, 1.2rem);
+  line-height: 1.65;
+}
+
+.geoepi-process-principle {
+  margin: 1.5rem 0 0;
+  border-left: 3px solid $geoepi-maroon;
+  padding-left: 1rem;
+  color: $geoepi-charcoal !important;
+}
+
+.geoepi-scale-sequence {
+  margin: 0;
+  color: $geoepi-navy;
+  font-size: 0.82rem;
+  font-weight: 700;
+  letter-spacing: 0.08em;
+  line-height: 2.1;
+  text-transform: uppercase;
+}
+
+.geoepi-scale-sequence span {
+  padding: 0 0.3rem;
+  color: $geoepi-maroon;
+  font-size: 1rem;
+}
+
 .geoepi-theme-grid,
 .geoepi-navigation-grid {
   display: grid;
@@ -423,14 +470,6 @@ h1, h2, h3, h4 {
   font-weight: 600;
 }
 
-.quarto-listing .listing-content_status {
-  color: #7a5d25;
-  font-size: 0.76rem;
-  font-weight: 600;
-  letter-spacing: 0.04em;
-  text-transform: capitalize;
-}
-
 .geoepi-generated-project {
   max-width: 960px;
   margin: 0 auto;
@@ -448,26 +487,6 @@ h1, h2, h3, h4 {
   color: #53616b;
   font-size: clamp(1.1rem, 2vw, 1.35rem);
   line-height: 1.65;
-}
-
-.geoepi-scaffold-status {
-  display: inline-block;
-  margin: 0 0 0.75rem;
-  border-left: 3px solid #b08a42;
-  padding: 0.35rem 0.7rem;
-  background: #f8f4e9;
-  color: #6f5726;
-  font-size: 0.8rem;
-  font-weight: 700;
-  letter-spacing: 0.04em;
-  text-transform: uppercase;
-}
-
-.geoepi-scaffold-note {
-  max-width: 700px;
-  color: #6b7277;
-  font-size: 0.92rem;
-  font-style: italic;
 }
 
 .geoepi-project-tags {
@@ -641,6 +660,7 @@ h1, h2, h3, h4 {
   .geoepi-navigation-grid { grid-template-columns: 1fr; }
   .geoepi-subproject-grid { grid-template-columns: 1fr; }
   .geoepi-software-grid { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+  .geoepi-process { grid-template-columns: 1fr; gap: 1.5rem; }
 }
 
 @media (max-width: 640px) {

@@ -37,9 +37,11 @@ Hub projects/<project_id>/public.yml
 The Hub is authoritative for public project identity and narrative. Its
 `public.yml` Version 1 schema is separate from `.geoepi.yml` Version 1, which
 remains portfolio-state metadata. Only `publish: true` records enter the
-public feed. `content_status: scaffold` identifies wording that still needs
-project-level review; `content_status: reviewed` indicates that a scientist
-has reviewed the public record.
+public feed. `content_status` remains internal editorial metadata: `scaffold`
+identifies wording that still needs project-level review, while `reviewed`
+indicates that a scientist has reviewed the public record. The field is
+preserved in the feed and validated, but is not displayed on public pages;
+`scaffold` does not mean that the public site should appear unfinished.
 
 To update a public project description:
 

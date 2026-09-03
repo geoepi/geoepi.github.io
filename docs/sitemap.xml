@@ -1,75 +1,75 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://geoepi.github.io/projects/vsv_epizootics/index.html</loc>
-    <lastmod>2026-09-03T21:54:43.398Z</lastmod>
-  </url>
-  <url>
-    <loc>https://geoepi.github.io/projects/fmd_preclinical_spread/index.html</loc>
-    <lastmod>2026-09-03T21:54:43.397Z</lastmod>
-  </url>
-  <url>
-    <loc>https://geoepi.github.io/research/wnv-risk/index.html</loc>
-    <lastmod>2026-09-03T21:54:44.225Z</lastmod>
-  </url>
-  <url>
-    <loc>https://geoepi.github.io/research/nws-risk/index.html</loc>
-    <lastmod>2026-09-03T21:54:44.225Z</lastmod>
-  </url>
-  <url>
-    <loc>https://geoepi.github.io/research/fmd-risk/index.html</loc>
-    <lastmod>2026-09-03T21:54:44.225Z</lastmod>
-  </url>
-  <url>
-    <loc>https://geoepi.github.io/research/asf-swine/index.html</loc>
-    <lastmod>2026-09-03T21:54:44.224Z</lastmod>
-  </url>
-  <url>
-    <loc>https://geoepi.github.io/repository-access.html</loc>
-    <lastmod>2026-09-03T21:54:43.399Z</lastmod>
-  </url>
-  <url>
-    <loc>https://geoepi.github.io/software.html</loc>
-    <lastmod>2026-09-03T21:54:43.400Z</lastmod>
+    <loc>https://geoepi.github.io/index.html</loc>
+    <lastmod>2026-09-03T22:37:19.519Z</lastmod>
   </url>
   <url>
     <loc>https://geoepi.github.io/pindex.html</loc>
-    <lastmod>2026-09-03T21:54:43.394Z</lastmod>
-  </url>
-  <url>
-    <loc>https://geoepi.github.io/index.html</loc>
-    <lastmod>2026-09-03T21:54:43.394Z</lastmod>
+    <lastmod>2026-09-03T22:37:21.882Z</lastmod>
   </url>
   <url>
     <loc>https://geoepi.github.io/publications.html</loc>
-    <lastmod>2026-09-03T21:54:43.399Z</lastmod>
+    <lastmod>2026-09-03T22:37:24.935Z</lastmod>
+  </url>
+  <url>
+    <loc>https://geoepi.github.io/software.html</loc>
+    <lastmod>2026-09-03T22:37:25.641Z</lastmod>
   </url>
   <url>
     <loc>https://geoepi.github.io/about.html</loc>
-    <lastmod>2026-09-03T21:54:43.308Z</lastmod>
+    <lastmod>2026-09-03T22:37:26.704Z</lastmod>
+  </url>
+  <url>
+    <loc>https://geoepi.github.io/repository-access.html</loc>
+    <lastmod>2026-09-03T22:37:27.287Z</lastmod>
   </url>
   <url>
     <loc>https://geoepi.github.io/research/asf-risk/index.html</loc>
-    <lastmod>2026-09-03T21:54:44.224Z</lastmod>
+    <lastmod>2026-09-03T22:37:27.856Z</lastmod>
+  </url>
+  <url>
+    <loc>https://geoepi.github.io/research/asf-swine/index.html</loc>
+    <lastmod>2026-09-03T22:37:28.489Z</lastmod>
   </url>
   <url>
     <loc>https://geoepi.github.io/research/fmd-patho/index.html</loc>
-    <lastmod>2026-09-03T21:54:44.225Z</lastmod>
+    <lastmod>2026-09-03T22:37:29.121Z</lastmod>
+  </url>
+  <url>
+    <loc>https://geoepi.github.io/research/fmd-risk/index.html</loc>
+    <lastmod>2026-09-03T22:37:29.809Z</lastmod>
   </url>
   <url>
     <loc>https://geoepi.github.io/research/hpai-plume/index.html</loc>
-    <lastmod>2026-09-03T21:54:44.225Z</lastmod>
+    <lastmod>2026-09-03T22:37:30.442Z</lastmod>
+  </url>
+  <url>
+    <loc>https://geoepi.github.io/research/nws-risk/index.html</loc>
+    <lastmod>2026-09-03T22:37:31.226Z</lastmod>
   </url>
   <url>
     <loc>https://geoepi.github.io/research/vsv-risk/index.html</loc>
-    <lastmod>2026-09-03T21:54:44.225Z</lastmod>
+    <lastmod>2026-09-03T22:37:31.880Z</lastmod>
+  </url>
+  <url>
+    <loc>https://geoepi.github.io/research/wnv-risk/index.html</loc>
+    <lastmod>2026-09-03T22:37:32.621Z</lastmod>
   </url>
   <url>
     <loc>https://geoepi.github.io/projects/flavi_wnv/index.html</loc>
-    <lastmod>2026-09-03T21:54:43.395Z</lastmod>
+    <lastmod>2026-09-03T22:37:35.262Z</lastmod>
+  </url>
+  <url>
+    <loc>https://geoepi.github.io/projects/fmd_preclinical_spread/index.html</loc>
+    <lastmod>2026-09-03T22:37:36.213Z</lastmod>
   </url>
   <url>
     <loc>https://geoepi.github.io/projects/seir_vector/index.html</loc>
-    <lastmod>2026-09-03T21:54:43.398Z</lastmod>
+    <lastmod>2026-09-03T22:37:38.718Z</lastmod>
+  </url>
+  <url>
+    <loc>https://geoepi.github.io/projects/vsv_epizootics/index.html</loc>
+    <lastmod>2026-09-03T22:37:41.599Z</lastmod>
   </url>
 </urlset>
