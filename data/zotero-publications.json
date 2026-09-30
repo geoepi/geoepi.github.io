@@ -81,6 +81,68 @@
       "formatted_reference": "<div class=\"csl-bib-body\" style=\"line-height: 2; padding-left: 1em; text-indent:-1em;\">\n  <div class=\"csl-entry\">Chuong, V. D., Schambow, R. A., Hsu, C.-H., Diep, N. T., Minh, P. Q., Tien, H. M., Humphreys, J. M., &amp; Perez, A. M. (2026). A spatiotemporal analysis of the spread of African swine fever in Vietnam in 2019. <i>Frontiers in Veterinary Science</i>, <i>13</i>. <a href=\"https://doi.org/10.3389/fvets.2026.1858865\">https://doi.org/10.3389/fvets.2026.1858865</a></div>\n</div>"
     },
     {
+      "key": "WXFTHH9U",
+      "version": 197,
+      "item_type": "journalArticle",
+      "title": "Epidemiological update on spatial and space–time clusters of African swine fever in the Philippines",
+      "creators": [
+        {
+          "creator_type": "author",
+          "first_name": "Jesper Chia-Hui",
+          "last_name": "Hsu",
+          "name": null
+        },
+        {
+          "creator_type": "author",
+          "first_name": "Rachel A.",
+          "last_name": "Schambow",
+          "name": null
+        },
+        {
+          "creator_type": "author",
+          "first_name": "John M.",
+          "last_name": "Humphreys",
+          "name": null
+        },
+        {
+          "creator_type": "author",
+          "first_name": "Maximino",
+          "last_name": "Montenegro",
+          "name": null
+        },
+        {
+          "creator_type": "author",
+          "first_name": "Ruth",
+          "last_name": "Miclat-Sonaco",
+          "name": null
+        },
+        {
+          "creator_type": "author",
+          "first_name": "Andres M.",
+          "last_name": "Perez",
+          "name": null
+        }
+      ],
+      "creator_display": "Jesper Chia-Hui Hsu, Rachel A. Schambow, John M. Humphreys, Maximino Montenegro, Ruth Miclat-Sonaco, Andres M. Perez",
+      "date": "2026-09-29",
+      "year": 2026,
+      "publication_title": "Frontiers in Veterinary Science",
+      "journal_abbreviation": "Front. Vet. Sci.",
+      "volume": "13",
+      "issue": null,
+      "pages": null,
+      "publisher": "Frontiers",
+      "place": null,
+      "doi": "10.3389/fvets.2026.1888714",
+      "url": "https://www.frontiersin.org/journals/veterinary-science/articles/10.3389/fvets.2026.1888714/full",
+      "abstract": "African swine fever (ASF), particularly the highly contagious Genotype II strain, is a transboundary viral disease causing up to 100% mortality in swine and threatening food security across the Asia-Pacific region. Since 2019, control strategies in the Philippines have relied on depopulation and strict administrative zoning to limit contiguous, land-based spread. However, the long-term effectiveness of these approaches within the country’s fragmented archipelagic landscape remains poorly understood, complicating evidence-based resource allocation and preparedness for regional vaccination campaigns. Here we show that the endemic trajectory of ASF was highly non-uniform across the three main island groups of the Philippines from October 2022 to October 2024. Spatiotemporal analysis of a national surveillance dataset comprising 8,213 barangay-level events revealed twelve statistically significant retrospective space–time clusters—with radii up to 183.2 kilometers—and highly asynchronous regional epidemic waves across Luzon, the Visayas, and Mindanao. Although crude case volumes were highest in Luzon (52.10%), followed by the Visayas (31.69%) and Mindanao (16.21%), accounting for swine population density reshaped the spatial distribution. Spatial mapping and a Getis-Ord Gi* hotspot analysis consistently identified the highest burden of reported ASF events within Regions IV-A, IV-B, and VI, specifically peaking on Mindoro Island and in the Western Visayas. Together, these findings demonstrate that maritime borders fail to provide natural biosecurity isolation against transboundary viral transmission. Consequently, region-specific interventions and resources must be dynamically allocated to address this heterogeneous spatial burden. These spatiotemporal results provide the evidence-based framework necessary to transition toward targeted sub-national surveillance and to systematically evaluate the epidemiological impact and guide live-attenuated vaccine implementation in the Philippines and analogous archipelagic settings throughout the Asia-Pacific.",
+      "tags": [
+        "/unread"
+      ],
+      "zotero_url": "https://www.zotero.org/groups/geoepi_publications/items/WXFTHH9U",
+      "formatted_reference": "<div class=\"csl-bib-body\" style=\"line-height: 2; padding-left: 1em; text-indent:-1em;\">\n  <div class=\"csl-entry\">Hsu, J. C.-H., Schambow, R. A., Humphreys, J. M., Montenegro, M., Miclat-Sonaco, R., &amp; Perez, A. M. (2026). Epidemiological update on spatial and space&#x2013;time clusters of African swine fever in the Philippines. <i>Frontiers in Veterinary Science</i>, <i>13</i>. <a href=\"https://doi.org/10.3389/fvets.2026.1888714\">https://doi.org/10.3389/fvets.2026.1888714</a></div>\n</div>"
+    },
+    {
       "key": "LRV6P6DN",
       "version": 18,
       "item_type": "journalArticle",
@@ -123,6 +185,74 @@
       ],
       "zotero_url": "https://www.zotero.org/groups/geoepi_publications/items/LRV6P6DN",
       "formatted_reference": "<div class=\"csl-bib-body\" style=\"line-height: 2; padding-left: 1em; text-indent:-1em;\">\n  <div class=\"csl-entry\">Stenfeldt, C., Humphreys, J. M., &amp; Arzt, J. (2026). Incubation phase transmission of foot-and-mouth disease virus in cattle: experimental evidence and simulated impacts. <i>Scientific Reports</i>, <i>16</i>(1), 4023. <a href=\"https://doi.org/10.1038/s41598-025-34132-x\">https://doi.org/10.1038/s41598-025-34132-x</a></div>\n</div>"
+    },
+    {
+      "key": "H2CUBATM",
+      "version": 189,
+      "item_type": "journalArticle",
+      "title": "Leveraging recurrent graph neural networks to improve geospatial estimation of equine West Nile Virus outbreaks",
+      "creators": [
+        {
+          "creator_type": "author",
+          "first_name": "Amber C.",
+          "last_name": "Mooney",
+          "name": null
+        },
+        {
+          "creator_type": "author",
+          "first_name": "Melanie R.",
+          "last_name": "Boudreau",
+          "name": null
+        },
+        {
+          "creator_type": "author",
+          "first_name": "Chad",
+          "last_name": "Fautt",
+          "name": null
+        },
+        {
+          "creator_type": "author",
+          "first_name": "Lee W.",
+          "last_name": "Cohnstaedt",
+          "name": null
+        },
+        {
+          "creator_type": "author",
+          "first_name": "Brian",
+          "last_name": "Stucky",
+          "name": null
+        },
+        {
+          "creator_type": "author",
+          "first_name": "Amy R.",
+          "last_name": "Hudson",
+          "name": null
+        },
+        {
+          "creator_type": "author",
+          "first_name": "John M.",
+          "last_name": "Humphreys",
+          "name": null
+        }
+      ],
+      "creator_display": "Amber C. Mooney, Melanie R. Boudreau, Chad Fautt, Lee W. Cohnstaedt, Brian Stucky, Amy R. Hudson, John M. Humphreys",
+      "date": "2026",
+      "year": 2026,
+      "publication_title": "Journal of Applied Ecology",
+      "journal_abbreviation": null,
+      "volume": "63",
+      "issue": "9",
+      "pages": "e70575",
+      "publisher": null,
+      "place": null,
+      "doi": "10.1111/1365-2664.70575",
+      "url": "https://onlinelibrary.wiley.com/doi/abs/10.1111/1365-2664.70575",
+      "abstract": "West Nile Virus (WNV) poses a significant public health threat to humans and livestock. Its transmission dynamics are influenced by multiple environmental factors that are related to disease vector dynamics, making it difficult to predict cases in both space and time. We applied a geospatial recurrent graph neural network artificial intelligence model to identify key factors linked to WNV occurrence in horses and evaluated the ability of the model to estimate county-level WNV occurrence within the southern climate region of the United States, with the aim of enhancing understanding of high-risk areas for targeted intervention strategies. The model achieved an area under the receiver operating characteristic curve of 0.990 for the held-out 2012 outbreak year and 0.995 for the pooled 2018–2019 evaluation period. Influential predictors were linked to mosquito vector ecology and included climatic, vegetation and land cover variables. Among county-weeks classified as very high risk, mean monthly precipitation was \\ 163\\pm 87.9 \\ mm, mean monthly temperature was \\ 25.2^^\\circ\\mathrmC\\pm 2.67^^\\circ\\mathrmC \\, and drought was generally absent. Synthesis and applications. These findings contribute to ongoing efforts to mitigate the impact of WNV by refining our understanding of the spatial determinants of virus transmission, informing evidence-based interventions and enhancing preparedness and response strategies. This framework supports targeted intervention strategies, such as conducting vaccine campaigns prior to optimal WNV transmission conditions or prioritizing locations for mosquito control.",
+      "tags": [
+        "/unread"
+      ],
+      "zotero_url": "https://www.zotero.org/groups/geoepi_publications/items/H2CUBATM",
+      "formatted_reference": "<div class=\"csl-bib-body\" style=\"line-height: 2; padding-left: 1em; text-indent:-1em;\">\n  <div class=\"csl-entry\">Mooney, A. C., Boudreau, M. R., Fautt, C., Cohnstaedt, L. W., Stucky, B., Hudson, A. R., &amp; Humphreys, J. M. (2026). Leveraging recurrent graph neural networks to improve geospatial estimation of equine West Nile Virus outbreaks. <i>Journal of Applied Ecology</i>, <i>63</i>(9), e70575. <a href=\"https://doi.org/10.1111/1365-2664.70575\">https://doi.org/10.1111/1365-2664.70575</a></div>\n</div>"
     },
     {
       "key": "5VXHDPPU",
