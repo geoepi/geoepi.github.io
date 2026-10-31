@@ -80,6 +80,22 @@ Original group repository, cloned to Atlas. Includes parameter summaries, data d
 
 </article>
 <article class="geoepi-subproject-card">
+<h3>NWS SIT Flight Review and Processing</h3>
+
+Human-reviewed processing of New World Screwworm sterile-insect-technique flight trajectories into provenance-preserving release-area review products and canonical 25-km flight-length rasters.
+
+<p class="geoepi-repository"><span class="geoepi-repository-name">geoepi/nws-sit-flights</span><span class="geoepi-repository-status">Access currently restricted</span><a class="geoepi-repository-info" href="../../repository-access.html">About repository access <span aria-hidden="true">&#8599;</span></a></p>
+
+</article>
+<article class="geoepi-subproject-card">
+<h3>Statistical Machine-learning</h3>
+
+Statistical machine-learning workflow for weekly spatial prediction of recorded Cochliomyia hominivorax detections.
+
+<p class="geoepi-repository"><a href="https://github.com/geoepi/hominivorax-ml">Canonical repository: geoepi/hominivorax-ml <span aria-hidden="true">&#8599;</span></a></p>
+
+</article>
+<article class="geoepi-subproject-card">
 <h3>Trap-based surveillance design for NWS</h3>
 
 A flexible, robust spatially balanced sampling design for NWS trapping in the southern U.S.
